@@ -2,7 +2,7 @@
 {
 	"ServerBrowserButton"
 	{
-		"label" "wO W hat's This??? notices server"
+		"label" "wO W hat's This??? notices se..."
 		"command" "OpenServerBrowser"
 		"OnlyAtMenu" "1"
 	} 
