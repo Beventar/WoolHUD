@@ -1,1 +1,0 @@
-vice.exe -d -x .txt -k E2NcUkG2 *.ctx
