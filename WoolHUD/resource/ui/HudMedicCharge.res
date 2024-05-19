@@ -12,7 +12,7 @@
 		"tall"			"50"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"0"				//1 enables % under xHair
+		"visible"		"1"				//1 enables % under xHair
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_UberchargeMinHUD"
