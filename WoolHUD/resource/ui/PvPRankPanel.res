@@ -353,19 +353,6 @@
 
 						"fgcolor_override"	"CreditsGreen"
 					}
-
-					"Frame"
-					{
-						"Controlname"	"EditablePanel"
-						"fieldName"		"Frame"
-						"xpos"			"0"
-						"ypos"			"0"
-						"wide"			"f0"
-						"tall"			"f0"
-						"zpos"			"5"
-						"proportionaltoparent"	"1"
-						"border"		"InnerShadowBorderThin"
-					}
 				}
 			}
 
