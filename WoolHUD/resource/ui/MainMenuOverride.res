@@ -294,7 +294,7 @@
 		"tall"			"0"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		"border"		"MainMenuBGBorder"
+		//"border"		"MainMenuBGBorder"
 		
 		"TipSubLabel"
 		{
@@ -310,8 +310,8 @@
 			"tall"			"50"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"fgcolor_override"	"117 107 94 255"
 			"wrap"			"1"
 		}
@@ -330,8 +330,8 @@
 			"tall"			"30"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"fgcolor_override"	"255 255 255 255"
 			"auto_wide_tocontents" "1"
 		}
