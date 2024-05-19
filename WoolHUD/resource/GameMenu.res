@@ -14,12 +14,12 @@
 	}
 	"ReplayBrowserButton"
 	{
-		"label" "Replays (basically useless)"
+		"label" "lol"
 		"command" "engine replay_reloadbrowser"
 	}
 	"SteamWorkshopButton"
 	{
-		"label" "Workshop" //cash for hats
+		"label" "cash for hats" //cash for hats
 		"command" "engine OpenSteamWorkshopDialog"
 	}
 	"ConsoleButton"
@@ -34,7 +34,7 @@
 	}
 	"ToggleScoreboard"
 	{
-		"label" "Minmode"
+		"label" "Scoreboard"
 		"command" "engine toggle cl_hud_minmode"
 	}
 	"QuitButton"
@@ -54,12 +54,12 @@
 	}
 	"GeneralStoreButton"
 	{
-		"label" "DON'T BUY FROM HERE" //hats for cash
+		"label" "hats for cash" //hats for cash
 		"command" "engine open_store"
 	}
 	"CharacterSetupButton"
 	{
-		"label" "Inventory"
+		"label" "hats for hats"
 		"command" "engine open_charinfo"
 	}
 
