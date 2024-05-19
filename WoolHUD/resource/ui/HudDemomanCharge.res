@@ -12,7 +12,7 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
-		"fgcolor_override" "Metal"
+		"fgcolor_override" "152 152 152 255"
 		"labelText"				"BOMB"
 		"textAlignment"			"center"
 		"font"					"Regular9"
