@@ -2,13 +2,13 @@
 {
 	"ServerBrowserButton"
 	{
-		"label" "Community servers" //chanGESERVERSASAAAA
+		"label" "wO W hat's This??? notices server"
 		"command" "OpenServerBrowser"
 		"OnlyAtMenu" "1"
 	} 
 	"ChangeServerButton"
 	{
-		"label" "Community servers" 
+		"label" "chanGESERVERSASAAAA" 
 		"command" "OpenServerBrowser"
 		"OnlyInGame" "1"
 	}
