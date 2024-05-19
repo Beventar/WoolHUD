@@ -39,7 +39,7 @@
 	}
 	"QuitButton"
 	{
-		"label" "#TF_Quit_Title"
+		"label" "yeah i crashed sorry"
 		"command" "engine replay_confirmquit"
 		"OnlyAtMenu" "1"
 	}
