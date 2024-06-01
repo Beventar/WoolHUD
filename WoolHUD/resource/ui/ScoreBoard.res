@@ -1621,7 +1621,7 @@
 			"zpos"			"-3"
 			"wide"			"167"
 			"wide_minmode"		"233"
-			"tall"			"67"
+			"tall"			"68"
 			"tall_minmode"		"73"
 			"fillcolor"		"HudBG"
 			"autoResize"	"0"
