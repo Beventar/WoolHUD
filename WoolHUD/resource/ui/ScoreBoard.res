@@ -424,14 +424,6 @@
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
-
-		if_mvm
-		{
-			"textAlignment"		"west"
-			"xpos"			"c-295"
-			"ypos"			"r464"
-			"wide"			"590"
-		}
 	}
 	"ServerTimeLeft" 
 	{
@@ -545,14 +537,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-
-		if_mvm
-		{
-			"textAlignment"		"west"
-			"xpos"			"c-295"
-			"ypos"			"r456"
-			"wide"			"590"
-		}
 	}	
 	"SpectatorsInQueue"
 	{
@@ -570,14 +554,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-
-		if_mvm
-		{
-			"textAlignment"		"west"
-			"xpos"			"c-295"
-			"ypos"			"r448"
-			"wide"			"590"
-		}
 	}				
 	"ShadedBar" 
 	{
@@ -1965,7 +1941,7 @@
 		"ControlName"		"CTFHudMannVsMachineScoreboard"
 		"fieldName"			"MvMScoreboard"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"-20"
 		"zpos"				"10"
 		"wide"				"f0"
 		"tall"				"480"
