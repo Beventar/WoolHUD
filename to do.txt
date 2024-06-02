@@ -1,22 +1,24 @@
-metal shadow
-smaller crit damage numbers
-backpack darker blank slot
-backpack darker, flat tooltips
-colder colors of the backgrounds in backpack, class loadout menus
-backpack a/d page scroller
-darker voting, strange levelup etc. panels
-fix chat
-clean up trash, unused elements etc.
-fix mvm scoreboard
+- metal shadow
+- smaller crit damage numbers
+- backpack darker blank slot
+- backpack darker, flat tooltips
+- colder colors of the backgrounds in backpack, class loadout menus (hmm??)
+- backpack a/d page scroller
+- darker voting, strange levelup etc. panels
+- fix chat
+- clean up trash, unused elements etc.
+- fix mvm scoreboard
+- shortcuts for "Back" and "Close" in backpack and class loadout menus (without displaying the shortcut in the label)
 
 as an option:
-class loadout stuff on the left side with character on the right with red and blu switches and more options to move character
-big, different layout backpack screen
-more toonhud-like payload panel
+- class loadout stuff on the left side with character on the right with red and blu switches and more options to move character
+- big, different layout backpack screen
+- more toonhud-like payload panel
+- older woolen's disguise status panel
 
 changes i dont want to do:
-stock, big gamemode orders (i.e. "Move your cart to destroy...")
-broken koth timers in tf_use_match_hud 1
-a bit clipped killstreak counter
-clipped off pick up building icon
-stock ctf panel
+- stock, big gamemode orders (i.e. "Move your cart to destroy...")
+- broken koth timers in tf_use_match_hud 1
+- a bit clipped killstreak counter
+- clipped off pick up building icon in targetid
+- stock ctf panel
