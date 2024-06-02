@@ -8,6 +8,7 @@ backpack a/d page scroller
 as an option:
 class loadout stuff on the left side with character on the right with red and blu switches and more options to move character
 big, different layout backpack screen
+more toonhud-like payload panel
 
 changes i dont want to do:
 stock, big gamemode orders (i.e. "Move your cart to destroy...")
