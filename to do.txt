@@ -4,6 +4,7 @@ backpack darker blank slot
 backpack darker, flat tooltips
 colder colors of the backgrounds in backpack, class loadout menus
 backpack a/d page scroller
+darker voting, strange levelup etc. panels
 
 as an option:
 class loadout stuff on the left side with character on the right with red and blu switches and more options to move character
