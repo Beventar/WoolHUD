@@ -17,3 +17,4 @@ stock, big gamemode orders (i.e. "Move your cart to destroy...")
 broken koth timers in tf_use_match_hud 1
 a bit clipped killstreak counter
 clipped off pick up building icon
+stock ctf panel
