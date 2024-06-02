@@ -7,6 +7,7 @@ backpack a/d page scroller
 darker voting, strange levelup etc. panels
 fix chat
 clean up trash, unused elements etc.
+fix mvm scoreboard
 
 as an option:
 class loadout stuff on the left side with character on the right with red and blu switches and more options to move character
