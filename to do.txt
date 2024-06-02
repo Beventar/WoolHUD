@@ -1,4 +1,4 @@
-- metal shadow
+- metal shadow (i dont think there is one????)
 - smaller crit damage numbers
 - backpack darker blank slot
 - backpack darker, flat tooltips
