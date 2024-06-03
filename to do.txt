@@ -22,3 +22,4 @@ changes i dont want to do:
 - a bit clipped killstreak counter
 - clipped off pick up building icon in targetid
 - stock ctf panel
+- ugly, tooltips in main menu (only on some buttons)
