@@ -869,46 +869,49 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"LightNumbers"
-				"tall"		"1"
-				"yres"		"480 599"
-				"antialias" 	"0"
+				"name"		"Verdana"
+				"tall"		"12"
+				"weight"	"0"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"LightNumbers"
-				"tall"		"2"
-				"yres"	"600 719"
-				"antialias" 	"1"
+				"name"		"Verdana"
+				"tall"		"12"
+				"weight"	"0"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"600 767"
 			}
 			"3"
 			{
-				"name"		"LightNumbers"
-				"tall"		"5"
-				"yres"	"720 767"
-				"antialias" 	"1"
+				"name"		"Verdana"
+				"tall"		"12"
+				"weight"	"0"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"768 1023"
+				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"LightNumbers"
-				"tall"		"6"
-				"yres"	"768 899"
-				"antialias" 	"1"
+				"name"		"Verdana"
+				"tall"		"14"
+				"weight"	"0"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"1024 1199"
+				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"LightNumbers"
-				"tall"		"9"
-				"yres"	"900 1023"
-				"antialias" 	"1"
-			}
-			"6"
-			{
-				"name"		"LightNumbers"
-				"tall"		"6"
-				"antialias" 	"1"
+				"name"		"Verdana"
+				"tall"		"16"
+				"weight"	"0"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"	"1200 6000"
+				"antialias"	"1"
 			}
 		}
+
 		DefaultLarge
 		{
 			"1"
