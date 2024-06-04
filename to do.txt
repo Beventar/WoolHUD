@@ -15,10 +15,10 @@ as an option:
 - older woolen's disguise status panel
 
 	big changes not faithful to Woolen's original HUD:
-		- "Find a game" retractable panel like in FlawHUD
+		- "Find a game" horizontally retractable panel like in FlawHUD
 
 to consider:
- - metal shadow
+- metal shadow
 - shortcut for "Back" in backpack and class loadout menus (without displaying the shortcut in the label)
 
 changes i don't want to do:
