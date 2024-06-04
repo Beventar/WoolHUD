@@ -7,6 +7,7 @@
 - clean up trash, unused elements etc.
 - fix mvm scoreboard
 - shortcut for "Back" in backpack and class loadout menus (without displaying the shortcut in the label)
+- "name", "ping" etc. labels for scoreboard at the top
 
 as an option:
 - class loadout stuff on the left side with character on the right with red and blu switches and more options to move character
