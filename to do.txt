@@ -3,7 +3,6 @@
 - backpack darker blank slot
 - backpack darker, flat tooltips
 - colder colors of the backgrounds in backpack, class loadout menus (hmm??)
-- backpack a/d page scroller
 - darker voting, strange levelup etc. panels
 - fix chat
 - clean up trash, unused elements etc.
