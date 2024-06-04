@@ -173,7 +173,7 @@
 		"wide"			"16"
 		"tall"			"16"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"backpack_jewel_modify_target_b_g"
 		"tileImage"		"0"
 		"tileVertically" "0"

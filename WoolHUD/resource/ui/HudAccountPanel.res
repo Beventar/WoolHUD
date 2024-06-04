@@ -93,8 +93,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValueShadow"
-		"xpos"			"10"
-		"ypos"			"21"
+		"xpos"			"11"
+		"ypos"			"19"
 		"zpos"			"2"
 		"wide"			"99"
 		"tall"			"35"
@@ -107,7 +107,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"Black"
+		"fgcolor"		"HudShadow"
 		"font"			"Regular21"
 	}
 }

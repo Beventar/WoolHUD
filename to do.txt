@@ -1,4 +1,3 @@
-- metal shadow (i dont think there is one????)
 - smaller crit damage numbers
 - backpack darker blank slot
 - backpack darker, flat tooltips
@@ -7,7 +6,7 @@
 - fix chat
 - clean up trash, unused elements etc.
 - fix mvm scoreboard
-- shortcuts for "Back" and "Close" in backpack and class loadout menus (without displaying the shortcut in the label)
+- shortcut for "Back" in backpack and class loadout menus (without displaying the shortcut in the label)
 
 as an option:
 - class loadout stuff on the left side with character on the right with red and blu switches and more options to move character
@@ -15,7 +14,13 @@ as an option:
 - more toonhud-like payload panel
 - older woolen's disguise status panel
 
-changes i dont want to do:
+	big changes not faithful to Woolen's original HUD:
+		- "Find a game" retractable panel like in FlawHUD
+
+to consider:
+ - metal shadow
+
+changes i don't want to do:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
 - broken koth timers in tf_use_match_hud 1
 - a bit clipped killstreak counter
