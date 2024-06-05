@@ -13,7 +13,7 @@ as an option:
 - older woolen's disguise status panel
 - improve casual mode selection panel (kills etc. instead of coin)
 
-changes i don't want to do:
+changes i don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
 - broken koth timers in tf_use_match_hud 1
 - a bit clipped killstreak counter
