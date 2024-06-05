@@ -11,6 +11,7 @@ as an option:
 - big, different layout backpack screen
 - more toonhud-like payload panel
 - older woolen's disguise status panel
+- improve casual mode selection panel (kills etc. instead of coin)
 
 changes i don't want to do:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
