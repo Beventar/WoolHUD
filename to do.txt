@@ -2,7 +2,7 @@
 - backpack darker blank slot
 - backpack darker, flat tooltips
 - colder colors of the backgrounds in backpack, class loadout menus (hmm??)
-- darker voting, strange levelup etc. panels
+- darker voting, strange levelup etc. panels (I don't know if I should do it)
 - clean up trash, unused elements etc.
 - adjust mvm scoreboard
 
@@ -14,10 +14,6 @@ as an option:
 
 	big changes not faithful to Woolen's original HUD:
 		- "Find a game" horizontally retractable panel like in FlawHUD
-
-to consider:
-- metal shadow
-- shortcut for "Back" in backpack and class loadout menus (without displaying the shortcut in the label)
 
 changes i don't want to do:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
