@@ -73,7 +73,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValue"
 		"xpos"			"10"
-		"ypos"			"20"
+		"ypos"			"18"
 		"zpos"			"2"
 		"wide"			"99"
 		"tall"			"35"
