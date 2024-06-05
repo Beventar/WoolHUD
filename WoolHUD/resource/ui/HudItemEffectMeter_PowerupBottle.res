@@ -5,7 +5,7 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r240"
+		"xpos"			"r250"
 		"ypos"			"r50"	
 		"wide"			"f0"
 		"tall"			"60"
@@ -17,7 +17,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"0"
+		"xpos"			"10"
 		"ypos"			"24"	//1
 		"zpos"			"-2"
 		"wide"			"62"
@@ -31,7 +31,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectIcon"
-		"xpos"			"0"
+		"xpos"			"10"
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"15"
@@ -46,7 +46,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"0"
+		"xpos"					"10"
 		"ypos"					"0"
 		"zpos"					"0"
 		"wide"					"0"
@@ -69,7 +69,7 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"xpos"					"25"
+		"xpos"					"35"
 		"ypos"					"23"
 		"zpos"					"2"
 		"wide"					"40"
@@ -87,8 +87,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"0"
-		"ypos"					"24"
+		"xpos"					"10"
+		"ypos"					"25"
 		"zpos"					"2"
 		"wide"					"62"
 		"tall"					"14"	
