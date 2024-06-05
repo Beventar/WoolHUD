@@ -22,3 +22,4 @@ changes i don't want to do:
 - clipped off pick up building icon in targetid
 - stock ctf panel
 - ugly, tooltips in main menu (only on some buttons)
+- bulkier chat
