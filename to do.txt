@@ -1,4 +1,3 @@
-- smaller crit damage numbers
 - backpack darker blank slot
 - backpack darker, flat tooltips
 - colder colors of the backgrounds in backpack, class loadout menus (hmm??)
