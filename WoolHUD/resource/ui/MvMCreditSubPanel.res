@@ -37,7 +37,7 @@
 		"xpos"			"10"
 		"ypos"			"26"
 		"wide"			"70"
-		"fgcolor"		"Gray"
+		"fgcolor"		"White"
 	}
 	
 	"CreditCollectedCountLabel"
