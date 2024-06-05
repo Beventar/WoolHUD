@@ -4,6 +4,7 @@
 - darker voting, strange levelup etc. panels (I don't know if I should do it)
 - clean up trash, unused elements etc.
 - adjust mvm scoreboard
+- bulkier (with bgs) quickswitch menu, at the top of the screen
 
 as an option:
 - class loadout stuff on the left side with character on the right with red and blu switches and more options to move character
