@@ -12,9 +12,6 @@ as an option:
 - more toonhud-like payload panel
 - older woolen's disguise status panel
 
-	big changes not faithful to Woolen's original HUD:
-		- "Find a game" horizontally retractable panel like in FlawHUD
-
 changes i don't want to do:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
 - broken koth timers in tf_use_match_hud 1
