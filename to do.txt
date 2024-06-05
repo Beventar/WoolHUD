@@ -4,7 +4,7 @@
 - colder colors of the backgrounds in backpack, class loadout menus (hmm??)
 - darker voting, strange levelup etc. panels
 - clean up trash, unused elements etc.
-- fix mvm scoreboard
+- adjust mvm scoreboard
 
 as an option:
 - class loadout stuff on the left side with character on the right with red and blu switches and more options to move character

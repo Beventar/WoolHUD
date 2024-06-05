@@ -47,7 +47,7 @@
 		{
 			"xpos"			"c-295"
 			"ypos"			"r360"
-			"wide"			"402"
+			"wide"			"583"
 			"tall"			"169"
 		}
 	}
@@ -79,7 +79,7 @@
 		"xpos"			"c-295"
 		"ypos"			"r383"
 		"zpos"			"-1"
-		"wide"			"402"
+		"wide"			"583"
 		"tall"			"19"
 		"fillcolor"		"HudBGCT"
 		"autoResize"	"0"
@@ -105,22 +105,22 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 
 		if_mvm
 		{
-			"visible"			"1"
+			"visible"			"0"
 		}
 	}
 	"MvMBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"MvMBG"
-		"xpos"			"c111"
-		"ypos"			"r360"
+		"xpos"			"c8"
+		"ypos"			"r188"
 		"zpos"			"-1"
-		"wide"			"185"
-		"tall"			"169"
+		"wide"			"280"
+		"tall"			"75"
 		"fillcolor"		"HudBG"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -132,6 +132,27 @@
 			"visible"			"1"
 		}
 	}
+	"MvMBG2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MvMBG2"
+		"xpos"			"132"
+		"ypos"			"r188"
+		"zpos"			"-1"
+		"wide"			"299"
+		"tall"			"75"
+		"fillcolor"		"HudBG"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"			"1"
+		}
+	}
+
 	"BlueTeamLabelBG"
 	{
 		"ControlName"		"ImagePanel"
@@ -452,7 +473,7 @@
 		{
 			"font"			"Light19"
 			"fgcolor"			"Time"
-			"xpos"			"c-295"
+			"xpos"			"c-210"
 			"ypos"			"r384"
 			"wide"			"402"
 			"tall"			"22"
@@ -878,7 +899,7 @@
 
 		if_mvm
 		{
-			"ypos"		"-16"
+			"ypos"		"0"
 			"xpos"		"0"
 		}
 
@@ -926,8 +947,8 @@
 			if_mvm
 			{
 				"font"		"Medium39"
-				"xpos"		"c-329"
-				"ypos"		"r175"
+				"xpos"		"c-321"
+				"ypos"		"r113"
 				"tall"		"41"
 			}
 		}
@@ -975,8 +996,8 @@
 			if_mvm
 			{
 				"font"		"Medium39"
-				"xpos"		"c-176"
-				"ypos"		"r175"
+				"xpos"		"c-168"
+				"ypos"		"r113"
 				"tall"		"41"
 			}
 		}
@@ -1002,8 +1023,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-70"
-				"ypos"		"r172"
+				"xpos"		"c-82"
+				"ypos"		"r110"
 			}
 		}
 		"Assists"
@@ -1028,8 +1049,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-61"
-				"ypos"		"r172"
+				"xpos"		"c-73"
+				"ypos"		"r110"
 			}
 		}
 		"CapturesLabel"
@@ -1054,8 +1075,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-70"
-				"ypos"		"r162"
+				"xpos"		"c-82"
+				"ypos"		"r100"
 			}
 		}
 		"Captures"
@@ -1080,8 +1101,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-61"
-				"ypos"		"r162"
+				"xpos"		"c-73"
+				"ypos"		"r100"
 			}
 		}
 		"DefensesLabel"
@@ -1106,8 +1127,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-70"
-				"ypos"		"r152"
+				"xpos"		"c-82"
+				"ypos"		"r90"
 			}
 		}
 		"Defenses"
@@ -1132,8 +1153,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-61"
-				"ypos"		"r152"
+				"xpos"		"c-73"
+				"ypos"		"r90"
 			}
 		}
 		"DominationLabel"
@@ -1158,8 +1179,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-70"
-				"ypos"		"r142"
+				"xpos"		"c-82"
+				"ypos"		"r80"
 			}
 		}
 		"Domination"
@@ -1184,8 +1205,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-61"
-				"ypos"		"r142"
+				"xpos"		"c-73"
+				"ypos"		"r80"
 			}
 		}
 		"RevengeLabel"
@@ -1210,8 +1231,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-70"
-				"ypos"		"r132"
+				"xpos"		"c-82"
+				"ypos"		"r70"
 			}
 		}
 		"Revenge"
@@ -1236,8 +1257,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-61"
-				"ypos"		"r132"
+				"xpos"		"c-73"
+				"ypos"		"r70"
 			}
 		}
 		"DestructionLabel"
@@ -1262,8 +1283,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-70"
-				"ypos"		"r122"
+				"xpos"		"c-82"
+				"ypos"		"r60"
 			}
 		}
 		"Destruction"
@@ -1288,8 +1309,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-61"
-				"ypos"		"r122"
+				"xpos"		"c-73"
+				"ypos"		"r60"
 			}
 		}
 		"HealingLabel"
@@ -1314,8 +1335,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c118"
-				"ypos"		"r172"
+				"xpos"		"c106"
+				"ypos"		"r110"
 			}
 		}		
 		"Healing"
@@ -1340,8 +1361,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c128"
-				"ypos"		"r172"
+				"xpos"		"c116"
+				"ypos"		"r110"
 				"wide"		"163"
 			}
 		}
@@ -1367,8 +1388,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c118"
-				"ypos"		"r162"
+				"xpos"		"c106"
+				"ypos"		"r100"
 			}
 		}
 		"Invuln"
@@ -1393,8 +1414,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c128"
-				"ypos"		"r162"
+				"xpos"		"c116"
+				"ypos"		"r100"
 				"wide"		"163"
 			}
 		}
@@ -1420,8 +1441,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c118"
-				"ypos"		"r152"
+				"xpos"		"c106"
+				"ypos"		"r90"
 			}
 		}
 		"Headshots"
@@ -1446,8 +1467,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c128"
-				"ypos"		"r152"
+				"xpos"		"c116"
+				"ypos"		"r90"
 				"wide"		"163"
 			}
 		}
@@ -1473,8 +1494,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c118"
-				"ypos"		"r142"
+				"xpos"		"c106"
+				"ypos"		"r80"
 			}
 		}
 		"Backstabs"
@@ -1499,8 +1520,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c128"
-				"ypos"		"r142"
+				"xpos"		"c116"
+				"ypos"		"r80"
 				"wide"		"163"
 			}
 		}
@@ -1526,8 +1547,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c118"
-				"ypos"		"r132"
+				"xpos"		"c106"
+				"ypos"		"r70"
 			}
 		}
 		"Teleports"
@@ -1552,8 +1573,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c128"
-				"ypos"		"r132"
+				"xpos"		"c116"
+				"ypos"		"r70"
 				"wide"		"163"
 			}
 		}
@@ -1579,8 +1600,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c118"
-				"ypos"		"r122"
+				"xpos"		"c106"
+				"ypos"		"r60"
 			}
 		}
 		"Bonus"
@@ -1605,8 +1626,8 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c128"
-				"ypos"		"r122"
+				"xpos"		"c116"
+				"ypos"		"r60"
 				"wide"		"163"
 			}
 		}
@@ -1632,8 +1653,8 @@
 			if_mvm
 			{
 				"xpos"		"c-295"
-				"ypos"		"r172"
-				"wide"		"402"
+				"ypos"		"r110"
+				"wide"		"393"
 				"tall"		"67"
 			}
 		}
@@ -1676,8 +1697,8 @@
 
 			if_mvm
 			{
-				"xpos"		"c111"
-				"ypos"		"r172"
+				"xpos"		"c103"
+				"ypos"		"r110"
 				"wide"		"185"
 				"tall"		"67"
 				"visible"		"1"
@@ -1706,8 +1727,8 @@
 			if_mvm
 			{
 				"font"		"Heavy26"
-				"xpos"		"c-195"
-				"ypos"		"r172"
+				"xpos"		"c-187"
+				"ypos"		"r110"
 				"wide"		"26"
 				"tall"		"25"
 			}
@@ -1738,8 +1759,8 @@
 			if_mvm
 			{
 				"font"			"Medium9"
-				"xpos"			"c-271"
-				"ypos"			"r132"
+				"xpos"			"c-263"
+				"ypos"			"r70"
 				"wide"			"178"
 			}	
 		}
@@ -1769,8 +1790,8 @@
 			if_mvm
 			{
 				"font"			"Medium9"
-				"xpos"			"c-271"
-				"ypos"			"r122"
+				"xpos"			"c-263"
+				"ypos"			"r60"
 				"wide"			"178"
 			}
 		}
