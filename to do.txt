@@ -1,5 +1,4 @@
-- backpack darker blank slot
-- backpack darker, flat tooltips
+- triple check backpack darker blank slot; backpack darker, flat tooltips etc.
 - darker voting, strange levelup etc. panels (I don't know if I should do it)
 - clean up trash, unused elements etc.
 - adjust mvm scoreboard
