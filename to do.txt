@@ -7,7 +7,7 @@
 - bulkier (with bgs) quickswitch menu, at the top of the screen
 
 as an option:
-- class loadout stuff on the left side with character on the right with red and blu switches and more options to move character
+- adjust optional class loadout panels
 - big, different layout backpack screen
 - more toonhud-like payload panel
 - older woolen's disguise status panel
@@ -21,3 +21,4 @@ changes i don't want to make:
 - stock ctf panel
 - ugly, tooltips in main menu (only on some buttons)
 - bulkier chat
+- lower targetid when spectating
