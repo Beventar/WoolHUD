@@ -152,7 +152,7 @@
 		"font"			"HudFontMediumSmallBold"
 		"labelText"		"#ClassBeingEquipped"
 		"textAlignment"	"west"
-		"xpos"			"c-280"
+		"xpos"			"c-287"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"210"
