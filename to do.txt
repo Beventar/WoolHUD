@@ -7,7 +7,6 @@
 - bulkier (with bgs) quickswitch menu, at the top of the screen
 
 as an option:
-- adjust optional class loadout panels
 - big, different layout backpack screen
 - more toonhud-like payload panel
 - older woolen's disguise status panel
