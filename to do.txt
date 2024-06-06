@@ -21,3 +21,4 @@ changes i don't want to make:
 - ugly, tooltips in main menu (only on some buttons)
 - bulkier chat
 - lower targetid when spectating
+- probably a different mvm scoreboard
