@@ -1,4 +1,4 @@
-- triple check backpack darker blank slot; backpack darker, flat tooltips; backpack qualities rounded corners etc.
+- triple check backpack darker blank slot; backpack darker, flat tooltips; backpack qualities rounded corners; backpack, class loadout panel background color (it's a bit colder I think?) etc.
 - darker voting, strange levelup etc. panels (I don't know if I should do it)
 - clean up trash, unused elements etc.
 - adjust mvm scoreboard
@@ -7,13 +7,14 @@
 as an option:
 - big, different layout backpack screen
 - more toonhud-like payload panel
+- background behind ubercharge etc. labels in targetid and bigger ubercharge etc. labels
 - older woolen's disguise status panel
-- improve casual mode selection panel (kills etc. instead of coin)
+- improve casual mode selection panel (kills etc. instead of coin like in FlawHUD)
 
 changes i don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
 - broken koth timers in tf_use_match_hud 1
-- a bit clipped killstreak counter
+- a bit clipped killstreak counter, "?" in backpack etc.
 - clipped off pick up building icon in targetid
 - stock ctf panel
 - ugly, tooltips in main menu (only on some buttons)
