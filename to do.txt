@@ -9,7 +9,7 @@ as an option:
 - big, different layout backpack screen
 - more toonhud-like payload panel
 - background behind ubercharge etc. labels in targetid and bigger ubercharge etc. labels
-- improve casual mode selection panel (kills etc. instead of coin like in FlawHUD)
+- improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the horizontal mode selection menu
 - maybe a bit broken older disguise panel
 
 changes i don't want to make:
@@ -22,3 +22,4 @@ changes i don't want to make:
 - bulkier chat
 - lower targetid when spectating
 - probably a different mvm scoreboard
+- maybe the stock tournament panel
