@@ -14,18 +14,6 @@ event HudHealthBonusPulse
 
 	Animate	PlayerStatusHealthValueTour  	FgColor		"SpecBuff"                  Accel 0.0 0.0
 
-	Animate	xHairNormal 	                                FgColor		"Buff"	         Accel 0.0 0.0
-
-	Animate	xHairThin 	                                FgColor		"Buff"	         Accel 0.0 0.0
-
-	Animate	xHairThinOutline	                                FgColor		"Buff"	         Accel 0.0 0.0
-
-	Animate	xHairRequest 	                                FgColor		"Buff"	         Accel 0.0 0.0
-
-	Animate	xHairCircle	                                FgColor		"Buff"	         Accel 0.0 0.0
-
-	Animate	xHairDotOutline 	                                FgColor		"Buff"	         Accel 0.0 0.0
-
 	RunEvent HudHealthBonusPulseLoop	0.4
 }
 
@@ -37,12 +25,6 @@ event HudHealthBonusPulseLoop
 	RunEvent PlayerStatusHealthValueCam 0.0
 	RunEvent PlayerStatusHealthValueSpec 0.0
 	RunEvent PlayerStatusHealthValueTour 0.0
-        	RunEvent xHairNormal 0.0
-        	RunEvent xHairThin 0.0
-        	RunEvent xHairThinOutline 0.0
-        	RunEvent xHairRequest 0.0
-        	RunEvent xHairCircle 0.0
-        	RunEvent xHairDotOutline 0.0
 }
 
 event HudHealthBonusPulseStop
@@ -53,12 +35,6 @@ event HudHealthBonusPulseStop
 	StopEvent PlayerStatusHealthValueCam 0.0
 	StopEvent PlayerStatusHealthValueSpec 0.0
 	StopEvent PlayerStatusHealthValueTour 0.0
-        	StopEvent xHairNormal 0.0
-        	StopEvent xHairThin 0.0
-        	StopEvent xHairThinOutline 0.0
-        	StopEvent xHairRequest 0.0
-        	StopEvent xHairCircle 0.0
-        	StopEvent xHairDotOutline 0.0
 
 	Animate PlayerStatusHealthValue 	                FgColor		"Health"	         Accel 0.0 0.0
 
@@ -67,18 +43,6 @@ event HudHealthBonusPulseStop
                 Animate PlayerStatusHealthValueSpec 	                FgColor		"Health"	         Accel 0.0 0.0
 
                 Animate PlayerStatusHealthValueTour 	                FgColor		"Black"	         Accel 0.0 0.0
-
-	Animate xHairNormal 	                                FgColor		"Garm3nxHair"	         Accel 0.0 0.0
-
-	Animate xHairThin 	                                                FgColor		"Garm3nxHair"	         Accel 0.0 0.0
-
-	Animate xHairThinOutline 	                                FgColor		"Garm3nxHair"	         Accel 0.0 0.0
-
-	Animate xHairRequest 	                                FgColor		"Garm3nxHair"	         Accel 0.0 0.0
-
-	Animate xHairCircle 	                                FgColor		"Garm3nxHair"	         Accel 0.0 0.0
-
-	Animate xHairDotOutline 	                                FgColor		"Garm3nxHair"	         Accel 0.0 0.0
 }
 
 //===========================================
@@ -98,18 +62,6 @@ event HudHealthDyingPulse
 
 	Animate	PlayerStatusHealthValueTour 	                FgColor		"LowHP"	         Accel 0.0 0.0
 
-	Animate xHairNormal 	                                FgColor		"RedHP"	         Accel 0.0 0.0
-
-	Animate xHairThin 	                                                FgColor		"RedHP"	         Accel 0.0 0.0
-
-	Animate xHairThinOutline 	                                FgColor		"RedHP"	         Accel 0.0 0.0
-
-	Animate xHairRequest 	                                FgColor		"RedHP"	         Accel 0.0 0.0
-
-	Animate xHairCircle 	                                FgColor		"RedHP"	         Accel 0.0 0.0
-
-	Animate xHairDot 	                                                FgColor		"RedHP"	         Accel 0.0 0.0
-
 	RunEvent HudHealthDyingPulseLoop	0.25
 }
 
@@ -121,12 +73,6 @@ event HudHealthDyingPulseLoop
 	RunEvent PlayerStatusHealthValueCam 0.0
 	RunEvent PlayerStatusHealthValueSpec 0.0
 	RunEvent PlayerStatusHealthValueTour 0.0
-	RunEvent xHairNormal 0.0
-	RunEvent xHairThin 0.0
-	RunEvent xHairThinOutline 0.0
-	RunEvent xHairRequest 0.0
-	RunEvent xHairCircle 0.0
-	RunEvent xHairDot 0.0
 }
 
 event HudHealthDyingPulseStop
@@ -137,12 +83,6 @@ event HudHealthDyingPulseStop
 	StopEvent PlayerStatusHealthValueCam 0.0
 	StopEvent PlayerStatusHealthValueSpec 0.0
 	StopEvent PlayerStatusHealthValueTour 0.0
-	StopEvent xHairNormal 0.0
-	StopEvent xHairThin 0.0
-	StopEvent xHairThinOutline 0.0
-	StopEvent xHairRequest 0.0
-	StopEvent xHairCircle 0.0
-	StopEvent xHairDot 0.0
 
 	Animate	PlayerStatusHealthValue 	                FgColor		"Health"	         Accel 0.0 0.0
 
@@ -151,18 +91,6 @@ event HudHealthDyingPulseStop
 	Animate	PlayerStatusHealthValueSpec 	FgColor		"Health"	         Accel 0.0 0.0
 
 	Animate	PlayerStatusHealthValueTour 	                FgColor		"Black"	         Accel 0.0 0.0
-
-	Animate xHairNormal 	                                FgColor		"Garm3nxHair"	         Accel 0.0 0.0
-
-	Animate xHairThin 	                                                FgColor		"Garm3nxHair"	         Accel 0.0 0.0
-
-	Animate xHairThinOutline 	                                FgColor		"Garm3nxHair"	         Accel 0.0 0.0
-
-	Animate xHairRequest 	                                FgColor		"Garm3nxHair"	         Accel 0.0 0.0
-
-	Animate xHairCircle 	                                FgColor		"Garm3nxHair"	         Accel 0.0 0.0
-
-	Animate xHairDot 	                                                FgColor		"Garm3nxHair"	         Accel 0.0 0.0
 }
 
 //===========================================
