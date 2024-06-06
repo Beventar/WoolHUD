@@ -3,6 +3,7 @@
 - clean up trash, unused elements etc.
 - adjust mvm scoreboard
 - bulkier (with bgs) quickswitch menu, at the top of the screen
+- clean up remaining deleted custom fonts stuff
 
 as an option:
 - big, different layout backpack screen
