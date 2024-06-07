@@ -1,5 +1,4 @@
 - triple check backpack darker blank slot; backpack darker, flat tooltips; backpack qualities rounded corners; backpack, class loadout panel background color (it's a bit colder I think?) etc.
-- darker voting, strange levelup etc. panels (I don't know if I should do it)
 - clean up trash, unused elements etc.
 - optional payload panel - adjust payload race panel
 
@@ -7,6 +6,10 @@ as an option:
 - big, different layout backpack screen
 - background behind ubercharge etc. labels in targetid and bigger ubercharge etc. labels
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the horizontal mode selection menu
+
+I'm not sure:
+- rounded killstreak notice (Woolen has the rounded one but the square one fits the HUD more overall)
+- darker voting, strange levelup etc. panels
 
 changes i don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
