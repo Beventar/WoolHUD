@@ -72,56 +72,16 @@
 			"visible"			"0"
 		}
 	}
-	"MvMBGTopLeft"
+	"MvMBGTop"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"MvMBGTopLeft"
+		"fieldName"		"MvMBGTop"
 		"xpos"			"c-295"
 		"ypos"			"r383"
 		"zpos"			"-1"
 		"wide"			"583"
 		"tall"			"19"
-		"fillcolor"		"HudBGCT"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-
-		if_mvm
-		{
-			"visible"			"1"
-		}
-	}
-	"MvMBGTopRight"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"MvMBGTopRight"
-		"xpos"			"c111"
-		"ypos"			"r383"
-		"zpos"			"-1"
-		"wide"			"185"
-		"tall"			"19"
-		"fillcolor"		"MvMBG"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
-
-		if_mvm
-		{
-			"visible"			"0"
-		}
-	}
-	"MvMBG2"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"MvMBG2"
-		"xpos"			"c-1"
-		"ypos"			"r188"
-		"zpos"			"-1"
-		"wide"			"289"
-		"tall"			"75"
-		"fillcolor"		"HudBG"
+		"fillcolor"		"White"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -152,6 +112,27 @@
 			"visible"			"1"
 		}
 	}
+	"MvMBG2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MvMBG2"
+		"xpos"			"c-1"
+		"ypos"			"r188"
+		"zpos"			"-1"
+		"wide"			"289"
+		"tall"			"75"
+		"fillcolor"		"HudBG"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"			"1"
+		}
+	}
+
 
 	"BlueTeamLabelBG"
 	{
@@ -473,7 +454,7 @@
 		if_mvm
 		{
 			"font"			"Light19"
-			"fgcolor"			"Time"
+			"fgcolor"			"Black"
 			"xpos"			"c-210"
 			"ypos"			"r384"
 			"wide"			"402"

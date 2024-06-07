@@ -50,7 +50,7 @@
 			"ypos"			"r360"
 			"wide"			"150"
 			"tall"			"20"
-			"fgcolor"		"White"
+			"fgcolor"		"Black"
 		}
 		
 		"DifficultyValue"
@@ -64,7 +64,7 @@
 			"ypos"			"r360"
 			"wide"			"150"
 			"tall"			"20"
-			"fgcolor"		"White"
+			"fgcolor"		"Black"
 		}
 	}
 	
