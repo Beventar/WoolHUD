@@ -4,6 +4,7 @@
 - adjust mvm scoreboard (1 pixel difference between some elements)
 - optional payload panel - adjust payload race panel
 - fix "current wearer attributes" in optional class loadout panel clipping into slots
+- adjust mvm money, canteen stuff
 
 as an option:
 - big, different layout backpack screen
