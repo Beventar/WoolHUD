@@ -28,3 +28,4 @@ changes i don't want to make:
 - a bit different positions in optional payload panel
 - a bit different width of the optional payload panel
 - bugged level label in main menu
+- different transparency red team name in scoreboard

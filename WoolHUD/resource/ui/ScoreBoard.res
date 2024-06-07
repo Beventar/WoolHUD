@@ -371,6 +371,7 @@
 		"xpos_minmode"		"r263"
 		"ypos"			"r352"
 		"ypos_minmode"		"r153"
+		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"20"
 		"tall_minmode"		"20"
