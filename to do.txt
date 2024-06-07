@@ -5,6 +5,7 @@
 - clean up remaining deleted custom fonts stuff
 - fix "+" styles in optional class loadout panels
 - optional payload panel - adjust payload race panel
+- adjust optional payload panel - teardrop, push alert etc.
 
 as an option:
 - big, different layout backpack screen
