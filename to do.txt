@@ -2,7 +2,6 @@
 - darker voting, strange levelup etc. panels (I don't know if I should do it)
 - clean up trash, unused elements etc.
 - adjust mvm scoreboard
-- clean up remaining deleted custom fonts stuff
 - optional payload panel - adjust payload race panel
 - fix "current wearer attributes" in optional class loadout panel clipping into slots
 

@@ -7959,16 +7959,6 @@ Scheme
 				"range" "0x0000 0xFFFF"
 			}
 		}
-		"7" 
-		{
-			"font" "resource/fonts/symbol.ttf"
-			"name" "symbol"
-		}
-		"8" 
-		{
-			"font" "resource/fonts/FORMASGE.ttf"
-			"name" "FORMASGE"
-		}
 		"9" 
 		{
 			"font" "resource/fonts/Paula.ttf"
@@ -7989,11 +7979,6 @@ Scheme
 			"font" "resource/fonts/AvenirLTStd-Heavy.otf"
 			"name" "AvenirLTStd-Heavy"
 		}		
-		"13" 
-		{
-			"font" "resource/fonts/crosshairs.ttf"
-			"name" "Crosshairs"
-		}
 		"14"
 		{
 			"font" "resource/fonts/Blocks.ttf"
@@ -8008,11 +7993,6 @@ Scheme
 		{
 			"font" "resource/fonts/Entypo.otf"
 			"name" "Entypo"
-		}
-		"17" 
-		{
-			"font" "resource/fonts/Garm3nFont.ttf"
-			"name" "Garm3nFont"
 		}
 		"18" 
 		{
@@ -8029,18 +8009,6 @@ Scheme
 			"font" "resource/fonts/BoldNumbers.otf"
 			"name" "BoldNumbers"
 		}
-
-		 "21"
-		{
-			"font" "resource/fonts/KnucklesCrosses.ttf"
-			"name" "KnucklesCrosses"
-		}
-
-		 "11" 
-        	{
-            		"font" "resource/fonts/Crosshair.ttf"
-            		"name" "Crosshair"  
-        	}
 		
 		
 	}
