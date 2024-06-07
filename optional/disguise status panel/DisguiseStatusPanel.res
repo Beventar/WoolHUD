@@ -6,7 +6,7 @@
 		"fieldName"		"itemmodelpanel"
 		"wide"			"0"
 		"tall"			"0"
-		"visible"		"1" //0
+		"visible"		"1"
 		"enabled"		"0"
 	}
 	"DisguiseStatusLine"
@@ -16,7 +16,7 @@
 		"xpos"			"c113"
 		"ypos"			"r98"
 		"zpos"			"-1"
-		"wide"			"211"				//128
+		"wide"			"211"
 		"tall"	 		"2"	
 		"fillcolor"		"255 255 255 175"
 		"visible"		"1"
@@ -30,10 +30,10 @@
 		"xpos"			"c113"
 		"ypos"			"r98"
 		"zpos"			"-4"
-		"wide"			"211"				//128
+		"wide"			"208"
 		"tall"	 		"27"	
 		"fillcolor"		"0 0 0 214"
-		"visible"		"1" //0
+		"visible"		"1"
 		"enabled"		"1"
 	}
 
