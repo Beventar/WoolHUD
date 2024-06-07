@@ -112,14 +112,14 @@
 			"visible"			"0"
 		}
 	}
-	"MvMBG"
+	"MvMBG2"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"MvMBG"
-		"xpos"			"c8"
+		"fieldName"		"MvMBG2"
+		"xpos"			"c-1"
 		"ypos"			"r188"
 		"zpos"			"-1"
-		"wide"			"280"
+		"wide"			"289"
 		"tall"			"75"
 		"fillcolor"		"HudBG"
 		"autoResize"	"0"
@@ -132,14 +132,14 @@
 			"visible"			"1"
 		}
 	}
-	"MvMBG2"
+	"MvMBG"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"MvMBG2"
+		"fieldName"		"MvMBG"
 		"xpos"			"132"
 		"ypos"			"r188"
 		"zpos"			"-1"
-		"wide"			"299"
+		"wide"			"289"
 		"tall"			"75"
 		"fillcolor"		"HudBG"
 		"autoResize"	"0"
