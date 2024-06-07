@@ -8,7 +8,7 @@
 		"ypos"				"-9"			//0
 		"zpos"				"1"
 		"wide"				"f0"
-		"tall"				"480"
+		"tall"				"490"
 		"visible"			"1"
 		"enabled"			"1"
 		
@@ -209,6 +209,40 @@
 		"if_hybrid"
 		{
 			"ypos"		"r142"
+		}
+
+		"if_specialdelivery"
+		{
+			"visible"	"0"
+		}
+	}
+	
+	"PlayingTo"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayingTo"
+		"xpos"			"c-40"
+		"ypos"			"r5"
+		"zpos"			"1"
+		"wide"			"80"
+		"tall"			"14"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#TF_PlayingTo"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"Regular9"
+		"fgcolor"		"TanLight"
+
+		"if_hybrid"
+		{
+			"visible"	"0"
+		}
+
+		"if_mvm"
+		{
+			"visible"	"0"
 		}
 
 		"if_specialdelivery"
