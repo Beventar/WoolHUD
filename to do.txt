@@ -1,10 +1,8 @@
 - triple check backpack darker blank slot; backpack darker, flat tooltips; backpack qualities rounded corners; backpack, class loadout panel background color (it's a bit colder I think?) etc.
 - darker voting, strange levelup etc. panels (I don't know if I should do it)
 - clean up trash, unused elements etc.
-- adjust mvm scoreboard (1 pixel difference between some elements)
 - optional payload panel - adjust payload race panel
 - fix "current wearer attributes" in optional class loadout panel clipping into slots
-- CTF panel, missing "playing to"
 
 as an option:
 - big, different layout backpack screen
