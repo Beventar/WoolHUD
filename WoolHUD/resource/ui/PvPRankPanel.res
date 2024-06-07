@@ -236,7 +236,7 @@
 			"font"			"MainMenu"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"north-east"
-			"labelText"		"%level%"
+			"labelText"		"%desc1%"
 			"proportionaltoparent"	"1"
 
 			if_mini

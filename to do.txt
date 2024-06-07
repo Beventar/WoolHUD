@@ -5,6 +5,7 @@
 - clean up remaining deleted custom fonts stuff
 - fix "+" styles in optional class loadout panels
 - optional payload panel - adjust payload race panel
+- fix "current wearer attributes" in optional class loadout panel clipping into slots
 
 as an option:
 - big, different layout backpack screen
@@ -26,3 +27,4 @@ changes i don't want to make:
 - a bit clipped cap x in optional payload panel
 - a bit different positions in optional payload panel
 - a bit different width of the optional payload panel
+- bugged level label in main menu
