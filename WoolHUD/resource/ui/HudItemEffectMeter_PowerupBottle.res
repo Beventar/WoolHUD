@@ -17,7 +17,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"10"
+		"xpos"			"20"
 		"ypos"			"24"	//1
 		"zpos"			"-2"
 		"wide"			"62"
@@ -87,7 +87,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"10"
+		"xpos"					"20"
 		"ypos"					"25"
 		"zpos"					"2"
 		"wide"					"62"

@@ -4,7 +4,6 @@
 - adjust mvm scoreboard (1 pixel difference between some elements)
 - optional payload panel - adjust payload race panel
 - fix "current wearer attributes" in optional class loadout panel clipping into slots
-- adjust mvm money, canteen stuff
 - CTF panel, missing "playing to"
 
 as an option:

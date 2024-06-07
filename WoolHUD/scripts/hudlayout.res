@@ -403,7 +403,7 @@
 	{
 		"ControlName"		"CCurrencyStatusPanel"
 		"fieldName"			"CurrencyStatusPanel"
-		"xpos"				"r145"
+		"xpos"				"r160"
 		"ypos"				"r118"
 		"wide"				"f0"
 		"tall"				"f0"
