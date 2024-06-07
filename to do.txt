@@ -2,7 +2,6 @@
 - darker voting, strange levelup etc. panels (I don't know if I should do it)
 - clean up trash, unused elements etc.
 - optional payload panel - adjust payload race panel
-- fix "current wearer attributes" in optional class loadout panel clipping into slots
 
 as an option:
 - big, different layout backpack screen

@@ -281,10 +281,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PassiveAttribsLabel"
 		"font"			"CR12"
-		"xpos"			"c-137"
-		"ypos"			"-70"
+		"xpos"			"c-66"
+		"ypos"			"-50"
 		"zpos"			"0"
-		"wide"			"270"
+		"wide"			"130"
 		"tall"			"240"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -292,7 +292,7 @@
 		"enabled"		"1"
 		"labelText"		""
 		"textAlignment"	"south"
-		"fgcolor"		"White"
+		"fgcolor"		"255 215 0 255"
 		"centerwrap"	"1"
 	}
 
