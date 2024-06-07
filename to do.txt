@@ -6,7 +6,6 @@
 
 as an option:
 - big, different layout backpack screen
-- more toonhud-like payload panel
 - background behind ubercharge etc. labels in targetid and bigger ubercharge etc. labels
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the horizontal mode selection menu
 
