@@ -5,7 +5,6 @@
 - clean up remaining deleted custom fonts stuff
 - fix "+" styles in optional class loadout panels
 - optional payload panel - adjust payload race panel
-- adjust optional payload panel - teardrop, push alert etc.
 
 as an option:
 - big, different layout backpack screen
@@ -24,3 +23,6 @@ changes i don't want to make:
 - probably a different mvm scoreboard
 - maybe the stock tournament panel
 - a bit lower health position in older disguise status panel
+- a bit clipped cap x in optional payload panel
+- a bit different positions in optional payload panel
+- a bit different width of the optional payload panel
