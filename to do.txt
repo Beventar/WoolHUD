@@ -3,6 +3,7 @@
 - clean up trash, unused elements etc.
 - adjust mvm scoreboard
 - clean up remaining deleted custom fonts stuff
+- fix "+" styles in optional class loadout panels
 
 as an option:
 - big, different layout backpack screen
