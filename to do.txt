@@ -2,7 +2,6 @@
 - clean up trash, unused elements etc.
 - alternative payload panel - adjust payload race panel
 - fix "NEW" quality in backpack not being shown
-- alternative targetid - fix ammo icon not showing
 - darker voting, strange levelup etc. panels
 
 as an option:

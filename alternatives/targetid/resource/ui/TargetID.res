@@ -153,14 +153,15 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"AmmoIcon"
 		"xpos"			"49"
-		"ypos"			"16"		//19
+		"ypos"			"33"
 		"zpos"			"12"
 		"wide"			"8"
 		"tall"			"8"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/leaderboard_class_heavy"
+		"image"			"../hud/hud_obj_status_ammo_64"
 		"scaleImage"	"1"
+		"drawcolor"		"White"
 	}
 	
 	"KillAnchor"
