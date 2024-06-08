@@ -3,7 +3,7 @@
 - alternative payload panel - adjust payload race panel
 - fix "NEW" quality in backpack not being shown
 - alternative targetid - fix ammo icon not showing
-- alternative - prettier control point icons like in FlawHUD
+- alternative control points icon - prettier control point icons like in FlawHUD
 - darker voting, strange levelup etc. panels
 
 as an option:
