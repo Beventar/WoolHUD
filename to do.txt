@@ -2,7 +2,6 @@
 - clean up trash, unused elements etc.
 - alternative payload panel - adjust payload race panel
 - fix "NEW" quality not being shown
-- adjust maybe background behind ubercharge etc. labels in alternative targetid
 - confirm the most up to date targetid stuff
 
 as an option:
