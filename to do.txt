@@ -2,10 +2,11 @@
 - clean up trash, unused elements etc.
 - optional payload panel - adjust payload race panel
 - fix "NEW" quality not being shown
+- adjust maybe background behind ubercharge etc. labels in targetid
+- confirm the most up to date targetid stuff
 
 as an option:
 - big, different layout backpack screen
-- background behind ubercharge etc. labels in targetid and bigger ubercharge etc. labels
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the horizontal mode selection menu
 
 I'm not sure:
