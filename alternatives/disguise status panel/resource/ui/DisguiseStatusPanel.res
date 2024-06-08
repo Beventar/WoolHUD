@@ -58,7 +58,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"WeaponNameLabel"
-		"font"			"TFFontSmall"
+		"font"			"Bold9Shadow"
 		"xpos"			"c155"
 		"ypos"			"r92"
 		"zpos"			"1"
@@ -66,7 +66,7 @@
 		"tall"			"24"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"LightGray"
+		"fgcolor"		"183 183 183 255"
 		"labelText"		"%weaponname%"
 		"textAlignment"	"west"	
 	}
