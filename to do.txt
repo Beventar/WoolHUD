@@ -1,13 +1,13 @@
 - triple check backpack darker blank slot; backpack darker, flat tooltips; backpack qualities rounded corners; backpack, class loadout panel background color (it's a bit colder I think?) etc.
 - clean up trash, unused elements etc.
-- optional payload panel - adjust payload race panel
+- alternative payload panel - adjust payload race panel
 - fix "NEW" quality not being shown
-- adjust maybe background behind ubercharge etc. labels in targetid
+- adjust maybe background behind ubercharge etc. labels in alternative targetid
 - confirm the most up to date targetid stuff
 
 as an option:
 - big, different layout backpack screen
-- improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the horizontal mode selection menu
+- improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
 
 I'm not sure:
 - rounded killstreak notice (Woolen has the rounded one but the square one fits the HUD more overall)
@@ -24,10 +24,10 @@ changes i don't want to make:
 - lower targetid when spectating
 - probably a different mvm scoreboard
 - maybe the stock tournament panel
-- a bit lower health position in older disguise status panel
-- a bit clipped cap x in optional payload panel
+- a bit lower health position in alternative disguise status panel
+- a bit clipped cap x in alternative payload panel
 - a bit different positions in optional payload panel
-- a bit different width of the optional payload panel
+- a bit different width of the alternative payload panel
 - bugged level label in main menu
-- different transparency red team name in scoreboard
-- clipped off endings of "y" etc. in optional class loadout panels
+- different transparency of the red team name in scoreboard
+- clipped off endings of "y" etc. in alternative class loadout panels
