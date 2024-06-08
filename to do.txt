@@ -1,7 +1,7 @@
 - triple check backpack darker blank slot; backpack darker, flat tooltips; backpack qualities rounded corners; backpack, class loadout panel background color (it's a bit colder I think?) etc.
 - clean up trash, unused elements etc.
 - alternative payload panel - adjust payload race panel
-- fix "NEW" quality not being shown
+- fix "NEW" quality in backpack not being shown
 - confirm the most up to date targetid stuff
 - alternative targetid - fix ammo icon not showing
 
