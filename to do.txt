@@ -2,9 +2,7 @@
 - clean up trash, unused elements etc.
 - alternative payload panel - adjust payload race panel
 - fix "NEW" quality in backpack not being shown
-- confirm the most up to date targetid stuff
 - alternative targetid - fix ammo icon not showing
-- confirm the height of the alternative targetid
 
 as an option:
 - big, different layout backpack screen
