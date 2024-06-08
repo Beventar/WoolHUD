@@ -3,16 +3,15 @@
 - alternative payload panel - adjust payload race panel
 - fix "NEW" quality in backpack not being shown
 - alternative targetid - fix ammo icon not showing
+- alternative - prettier control point icons like in FlawHUD
+- darker voting, strange levelup etc. panels
 
 as an option:
 - big, different layout backpack screen
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
 - alternative sourcescheme
 
-I'm not sure:
-- darker voting, strange levelup etc. panels
-
-changes i don't want to make:
+changes I don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
 - broken koth timers in tf_use_match_hud 1
 - a bit clipped killstreak counter, "?" in backpack etc.
@@ -30,3 +29,4 @@ changes i don't want to make:
 - bugged level label in main menu
 - different transparency of the red team name in scoreboard
 - clipped off endings of "y" etc. in alternative class loadout panels
+- alternative targetid - when healing as medic and looking at someone, their targetid with killstreak etc. clipping with the healing one
