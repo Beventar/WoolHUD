@@ -95,6 +95,7 @@ Scheme
 		FrameTitleBar.Font				"UiBold"
 		FrameTitleBar.TextColor			"White"
 		FrameTitleBar.DisabledTextColor	"255 255 255 255"
+		FrameTitleBar.BgColor			"28 28 28 255"
 		
 		Label.TextDullColor				"DullWhite"
 		Label.TextColor					"OffWhite"
