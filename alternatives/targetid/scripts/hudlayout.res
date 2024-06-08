@@ -355,7 +355,7 @@
 		"xpos"		"c-170"
 		"ypos"		"297"			//294
 		"wide"	 	"f0"			//60
-		"tall"	 	"39"
+		"tall"	 	"45"
 		"priority"	"35"
 	}
 	

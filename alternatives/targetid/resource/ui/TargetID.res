@@ -124,6 +124,7 @@
 		"labelText"		"%targetdata%"
 		"fgcolor"		"White"
 		"bgcolor_override"	"HudBG"
+		"auto_wide_tocontents"	"1"
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
 		"brighttext"		"0"
