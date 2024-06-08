@@ -9,7 +9,6 @@ as an option:
 - big, different layout backpack screen
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
 - alternative sourcescheme
-- prettier control point icons like in FlawHUD
 
 changes I don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
