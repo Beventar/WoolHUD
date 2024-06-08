@@ -155,10 +155,10 @@
 		"xpos"			"49"
 		"ypos"			"16"		//19
 		"zpos"			"12"
-		"wide"			"0"
-		"tall"			"0"
+		"wide"			"8"
+		"tall"			"8"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"image"			"../hud/leaderboard_class_heavy"
 		"scaleImage"	"1"
 	}
