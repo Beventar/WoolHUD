@@ -4,7 +4,6 @@
 - fix "NEW" quality in backpack not being shown
 - alternative targetid - fix ammo icon not showing
 - darker voting, strange levelup etc. panels
-- fix transparent viewmodels
 
 as an option:
 - big, different layout backpack screen
