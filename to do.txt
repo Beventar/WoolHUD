@@ -1,4 +1,4 @@
-- check backpack qualities rounded corners; backpack, class loadout panel background color (it's a bit colder I think?)
+- check backpack qualities rounded corners; backpack, class loadout panel background color (it's a bit colder I think?) in alternatives
 - clean up trash, unused elements etc.
 - alternative payload panel - adjust payload race panel
 - fix "NEW" quality in backpack not being shown
