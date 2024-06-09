@@ -66,7 +66,7 @@
 		"tall"			"24"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"183 183 183 255"
+		"fgcolor"		"LightGray"
 		"labelText"		"%weaponname%"
 		"textAlignment"	"west"	
 	}
