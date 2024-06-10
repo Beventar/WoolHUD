@@ -472,7 +472,7 @@
 			"if_multiple_trains"
 			{
 				"font"			"HudFontSmallest"
-				"xpos"			"17"
+				"xpos"			"16"
 				"ypos"			"49"
 				"wide"			"20"
 				"tall"			"7"
