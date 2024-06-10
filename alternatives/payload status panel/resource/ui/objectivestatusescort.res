@@ -21,6 +21,11 @@
 		{
 			"ypos"				"r200"
 			"tall"				"200"
+			"xpos"				"c-200"
+			"ypos"				"r136"
+			"wide"				"400"
+			"progress_xpos"		"93"
+			"progress_wide"		"214"
 		}
 	}
 	
@@ -43,8 +48,10 @@
 		{
 			"ypos"			"114"
 			"zpos"			"3"
-			"tall"			"10"
+			"tall"			"12"
 			"image"			"../hud/cart_track_neutral_opaque"
+			"xpos"			"100"
+			"wide"			"200"
 		}
 		
 		"if_single_with_hills"
@@ -72,6 +79,8 @@
 		"if_multiple_trains"
 		{
 			"ypos"			"115"
+			"enabled"		"0"
+			"visible"		"0"
 		}
 	}
 	
@@ -92,6 +101,8 @@
 		"if_multiple_trains"
 		{
 			"ypos"			"118"
+			"visible"		"0"
+			"enabled"		"0"
 		}
 	}
 	
@@ -110,10 +121,12 @@
 		
 		"if_multiple_trains"
 		{
-			"ypos"			"115"
+			"ypos"			"114"
 			"zpos"			"6"
-			"tall"			"8"
+			"tall"			"12"
 			"visible"		"1"
+			"xpos"			"100"
+			"wide"			"200"
 		}
 	}		
 	
@@ -152,57 +165,31 @@
 		
 		"if_multiple_trains"
 		{
-			"xpos"			"c-66"
-			"zpos"			"10"
-			"wide"			"10"
-			"tall"			"10"
+			"xpos"			"86"
+			"zpos"			"5"
+			"wide"			"14"
+			"tall"			"14"
 			"image"			"../hud/cart_track_neutral_opaque"
 		}
 		
 		"if_multiple_trains_top"
 		{
-			"ypos"			"114"
+			"ypos"			"113"
 		}
 		
 		"if_multiple_trains_bottom"
 		{
-			"ypos"			"114"
+			"ypos"			"113"
 		}
 		
 		"if_multiple_trains_red"
 		{
-			"image"			"../hud/cart_point_red_opaque"
+			"image"			"../hud/cart_home_red_square"
 		}
 		
 		"if_multiple_trains_blue"
 		{
-			"image"			"../hud/cart_point_blue_opaque"
-		}
-	}
-	
-	"HomeLabel"
-	{
-		"ControlName"		"Label"
-		"fieldName"			"HomeLabel"
-		"font"				"G_HomeIcon"
-		"xpos"				"c-66"
-		"ypos"				"130"
-		"zpos"				"11"
-		"wide"				"10"
-		"tall"				"10"
-		"autoResize"		"0"
-		"pinCorner"			"0"
-		"visible"			"0"
-		"enabled"			"0"
-		"labelText"			"H"
-		"textAlignment"		"center"
-		"dulltext"			"0"
-		"brighttext"		"0"
-		"fgcolor_override"	"TanLight"
-		
-		"if_multiple_trains"
-		{
-			"ypos"				"114"
+			"image"			"../hud/cart_home_blue_square"
 		}
 	}
 	
@@ -226,11 +213,11 @@
 												
 		"if_multiple_trains"
 		{
-			"xpos"			"61"
+			"xpos"			"88"
 			"ypos"			"114"
 			"zpos"			"5"	
-			"wide"			"10"
-			"tall"			"10"
+			"wide"			"12"
+			"tall"			"12"
 		}
 	}
 
@@ -276,8 +263,8 @@
 			"if_multiple_trains"
 			{
 				"font"			"HudFontSmallest"
-				"xpos"			"17"
-				"wide"			"18"
+				"xpos"			"21"
+				"wide"			"11"
 				"tall"			"10"
 			}			
 			
@@ -322,10 +309,10 @@
 			
 			"if_multiple_trains"
 			{
-				"xpos"			"11"
-				"ypos"			"43"
-				"wide"			"30"
-				"tall"			"30"
+				"xpos"			"13"
+				"ypos"			"45"
+				"wide"			"26"
+				"tall"			"26"
 			}						
 		}
 		
@@ -359,10 +346,10 @@
 			
 			"if_multiple_trains"
 			{
-				"xpos"			"11"
-				"ypos"			"71"
-				"wide"			"30"
-				"tall"			"30"
+				"xpos"			"13"
+				"ypos"			"73"
+				"wide"			"26"
+				"tall"			"26"
 			}			
 		}
 		
@@ -386,8 +373,10 @@
 			
 			"if_multiple_trains_bottom"
 			{
-				"xpos"			"-5"
-				"ypos"			"75"
+				"xpos"			"0"
+				"ypos"			"76"
+				"wide"			"52"
+				"tall"			"26"
 			}
 		}
 		
@@ -445,18 +434,19 @@
 			"if_multiple_trains"
 			{
 				"xpos"			"20"
-				"wide"			"5"
-				"tall"			"10"
+				"ypos"			"52"
+				"wide"			"4"
+				"tall"			"8"
 			}
 			
 			"if_multiple_trains_top"
 			{
-				"ypos"			"45"
+				"ypos"			"47"
 			}	
 			
 			"if_multiple_trains_bottom"
 			{
-				"ypos"			"81"
+				"ypos"			"83"
 			}	
 		}
 
@@ -483,20 +473,20 @@
 			{
 				"font"			"HudFontSmallest"
 				"xpos"			"17"
-				"wide"			"18"
-				"tall"			"10"
-				"textinsetx"	"-10"
+				"ypos"			"49"
+				"wide"			"20"
+				"tall"			"7"
 				"textAlignment"	"center"
 			}			
 			
 			"if_multiple_trains_top"
 			{
-				"ypos"			"45"
+				"ypos"			"48"
 			}										
 			
 			"if_multiple_trains_bottom"
 			{
-				"ypos"			"82"
+				"ypos"			"84"
 			}	
 		}
 		
@@ -602,8 +592,8 @@
 					"font"			"DefaultVerySmall"
 					"xpos"			"0"
 					"ypos"			"3"			
-					"wide"			"0"			
-					"tall"			"0"			
+					"wide"			"35"			
+					"tall"			"28"			
 				}	
 			}
 
@@ -653,8 +643,8 @@
 				{
 					"xpos"			"8"
 					"ypos"			"8"			
-					"wide"			"20"			
-					"tall"			"20"			
+					"wide"			"0"			
+					"tall"			"0"			
 				}		
 			}			
 		}
