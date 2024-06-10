@@ -30,3 +30,4 @@ changes I don't want to make:
 - clipped off endings of "y" etc. in alternative class loadout panels
 - different backpack panel in newest version
 - no quality outline on weapon skins in backpack and class loadout panel
+- different background of inspect panel when spectating and in-game (spectating darker, in-game b618c6037d50c8d218f430051af002659b276879)
