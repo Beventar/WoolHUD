@@ -1,9 +1,8 @@
-- check backpack qualities rounded corners
 - clean up trash, unused elements etc.
-- improve and adjust alternative backpack panel
+- adjust alternative backpack panel
 - alternative class loadout panels - "current on-wearer" adjustment
 - adjust new item notification in alternative main menu
-- check if there are darker vote, strange level up panels in older version of Woolen's HUD
+- check if there are darker vote, strange level up panels in the older version of Woolen's HUD
 
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
 
