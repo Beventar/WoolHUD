@@ -6,6 +6,7 @@
 as an option:
 - big, different layout backpack screen
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
+- different main menu backgrounds
 
 I'm not sure:
 - stock tournament panel
