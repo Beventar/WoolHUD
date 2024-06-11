@@ -99,7 +99,7 @@
 			"xpos"			"c-70"
 			"ypos"			"270"
 			"wide"			"73"
-			"tall"			"52"
+			"tall"			"53"
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 0"
 			"noitem_textcolor"		"117 107 94 255"
@@ -111,7 +111,7 @@
 			"model_xpos"	"0"
 			"model_ypos"	"0"
 			"model_wide"	"66"
-			"model_tall"	"38"
+			"model_tall"	"39"
 
 			"text_ypos"		"60"
 			"text_center"	"1"
