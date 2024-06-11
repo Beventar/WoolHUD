@@ -853,7 +853,7 @@
 				"tall"			"16"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"button_quests_pda"
+				"image"			"glyph_achievements"
 				"scaleImage"	"1"
 				"drawcolor" "210 125 33 255"
 				"proportionaltoparent"	"1"
