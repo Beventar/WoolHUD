@@ -20,7 +20,7 @@
 		
 		"item_xpos_offcenter_a"	"-310"
 		"item_xpos_offcenter_b"	"165"
-		"item_ypos"		"60"
+		"item_ypos"		"26"
 		"item_ydelta"	"80"
 		"item_mod_wide"	"40"
 		
@@ -99,7 +99,7 @@
 			"xpos"			"c-70"
 			"ypos"			"270"
 			"wide"			"73"
-			"tall"			"57"
+			"tall"			"52"
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 0"
 			"noitem_textcolor"		"117 107 94 255"
@@ -111,7 +111,7 @@
 			"model_xpos"	"0"
 			"model_ypos"	"0"
 			"model_wide"	"66"
-			"model_tall"	"43"
+			"model_tall"	"38"
 
 			"text_ypos"		"60"
 			"text_center"	"1"
