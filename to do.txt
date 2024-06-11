@@ -4,6 +4,7 @@
 - darker voting, strange levelup etc. panels
 - improve and adjust alternative backpack panel
 - alternative class loadout panels - "current on-wearer" adjustment
+- adjust new item notification in alternative main menu
 
 as an option:
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
