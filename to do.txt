@@ -1,4 +1,4 @@
-- check backpack qualities rounded corners; backpack, class loadout panel background color in alternatives
+- check backpack qualities rounded corners
 - clean up trash, unused elements etc.
 - fix "NEW" quality in backpack not being shown
 - darker voting, strange levelup etc. panels
