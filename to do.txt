@@ -2,9 +2,9 @@
 - clean up trash, unused elements etc.
 - fix "NEW" quality in backpack not being shown
 - darker voting, strange levelup etc. panels
+- improve and adjust alternative backpack panel
 
 as an option:
-- big, different layout backpack screen
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
 - different main menu backgrounds
 
@@ -31,3 +31,4 @@ changes I don't want to make:
 - different backpack panel in newest version
 - no quality outline on weapon skins in backpack and class loadout panel
 - different background of inspect panel when spectating and in-game (spectating darker, in-game b618c6037d50c8d218f430051af002659b276879)
+- inconsistent smaller border on the bottom in alternative backpack & class loadout panel
