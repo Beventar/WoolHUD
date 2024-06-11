@@ -9,9 +9,6 @@ as an option:
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
 - different main menu backgrounds
 
-I'm not sure:
-- stock tournament panel
-
 changes I don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
 - broken koth timers in tf_use_match_hud 1
@@ -33,3 +30,4 @@ changes I don't want to make:
 - no quality outline on weapon skins in backpack and class loadout panel
 - different background of inspect panel when spectating and in-game (spectating darker, in-game b618c6037d50c8d218f430051af002659b276879)
 - inconsistent smaller border on the bottom in alternative backpack & class loadout panel
+- stock tournament panel
