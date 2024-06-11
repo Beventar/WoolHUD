@@ -5,9 +5,10 @@
 - alternative class loadout panels - "current on-wearer" adjustment
 - adjust new item notification in alternative main menu
 
+- alternative main menu backgrounds are not the same as Woolen's unfortunately
+
 as an option:
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
-- different main menu backgrounds
 
 changes I don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
