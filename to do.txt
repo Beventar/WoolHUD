@@ -1,6 +1,5 @@
 - check backpack qualities rounded corners
 - clean up trash, unused elements etc.
-- darker voting, strange levelup etc. panels
 - improve and adjust alternative backpack panel
 - alternative class loadout panels - "current on-wearer" adjustment
 - adjust new item notification in alternative main menu

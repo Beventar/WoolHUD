@@ -5809,8 +5809,9 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
+			"color"					"10 10 10 255"
 			
-			"image"					"../hud/color_panel_brown_opaque"
+			"image"					"backpack_rect_mouseover_color"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
