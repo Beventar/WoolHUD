@@ -3,6 +3,7 @@
 - fix "NEW" quality in backpack not being shown
 - darker voting, strange levelup etc. panels
 - improve and adjust alternative backpack panel
+- alternative class loadout panels - "current on-wearer" adjustment
 
 as an option:
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
