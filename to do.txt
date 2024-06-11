@@ -1,6 +1,5 @@
 - check backpack qualities rounded corners
 - clean up trash, unused elements etc.
-- fix "NEW" quality in backpack not being shown
 - darker voting, strange levelup etc. panels
 - improve and adjust alternative backpack panel
 - alternative class loadout panels - "current on-wearer" adjustment

@@ -126,6 +126,31 @@
 				"allow_rot"				"0"
 				"inventory_image_type"	"1"
 			}
+
+			"New"
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"		"New"
+				"font"			"FontStorePrice"
+				"textAlignment"	"east"
+				"xpos"			"rs1"
+				"ypos"			"0"
+				"zpos"			"15"
+				"wide"			"25"
+				"tall"			"12"
+				"textinsetx"	"8"
+				"autoResize"	"0"
+				"skip_autoresize"	"1"
+				"pinCorner"		"0"	
+				"visible"		"0"
+				"enabled"		"1"
+				"labelText"		"#Store_Price_New"
+				"mouseinputenabled" "0"
+				"paintbackground"	"0"
+				"proportionaltoparent"	"1"
+				"border"		"StoreNewBorder"
+				"fgcolor"		"10 10 10 255"
+			}
 			
 			"use_item_sounds"	"1"
 		}
