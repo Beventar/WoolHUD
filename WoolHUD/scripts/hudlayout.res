@@ -9,8 +9,8 @@
 		"zpos"			"-100"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"0" // TVM
-		"enabled"		"0" // TVM
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"replay/thumbnails/transparent"
 		"scaleImage"	"1"
 	}
