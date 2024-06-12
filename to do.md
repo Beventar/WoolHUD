@@ -36,6 +36,6 @@
 - clipped off endings of "y" etc. in alternative class loadout panels
 - a bit different backpack panel in newest version
 - no quality outlines on some weapon skins in backpack and class loadout panels
-- different background of inspect panel when spectating and in-game (spectating darker, in-game b618c6037d50c8d218f430051af002659b276879)
+- different background of inspect panel when spectating and in-game
 - inconsistent smaller border on the bottom in alternative backpack & class loadout panels
 - missing elements in casual team composition at the beggining
