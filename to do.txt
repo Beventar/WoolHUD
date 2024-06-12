@@ -29,7 +29,7 @@ changes I don't want to make:
 - different transparency of the red team name in scoreboard
 - clipped off endings of "y" etc. in alternative class loadout panels
 - a bit different backpack panel in newest version
-- no quality outline on weapon skins in backpack and class loadout panel
+- no quality outline on some weapon skins in backpack and class loadout panel
 - different background of inspect panel when spectating and in-game (spectating darker, in-game b618c6037d50c8d218f430051af002659b276879)
 - inconsistent smaller border on the bottom in alternative backpack & class loadout panel
 - stock tournament panel
