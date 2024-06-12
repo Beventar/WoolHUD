@@ -8,6 +8,7 @@
 - check class loadout panels empty slots' corners
 - check backpack and class loadout tooltip when hovering over stuff corners
 - #base
+- check stopwatch
 
 # As an option:
 - kills etc. instead of coin like in FlawHUD in casual menu for the alternative horizontal mode selection menu
