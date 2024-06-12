@@ -4,6 +4,7 @@
 - check if there are darker vote, strange level up panels in the older version of Woolen's HUD
 - fix missing elements in casual team composition at the beggining
 - casual pre-game - background behind the timer
+- check class loadout panels empty slots' backgrounds
 
 as an option:
 - kills etc. instead of coin like in FlawHUD in casual menu for the alternative horizontal mode selection menu
