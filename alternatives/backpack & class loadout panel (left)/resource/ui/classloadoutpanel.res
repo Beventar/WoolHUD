@@ -281,7 +281,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PassiveAttribsLabel"
 		"font"			"CR12"
-		"xpos"			"c-66"
+		"xpos"			"c-65"
 		"ypos"			"130"
 		"zpos"			"0"
 		"wide"			"130"
