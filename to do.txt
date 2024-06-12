@@ -5,12 +5,12 @@
 - fix missing elements in casual team composition at the beggining
 - casual pre-game - background behind the timer
 
-- alternative main menu backgrounds are not the same as Woolen's unfortunately
-
 as an option:
-- improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
-- visible labels for huditemeffect meters
+- kills etc. instead of coin like in FlawHUD in casual menu for the alternative horizontal mode selection menu
+- visible labels for item effect meters
 - more themed, yahud like game timers
+
+- alternative main menu backgrounds are not the same as Woolen's unfortunately
 
 changes I don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
