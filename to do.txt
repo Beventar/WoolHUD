@@ -3,11 +3,9 @@
 - adjust new item notification in alternative main menu
 - check if there are darker vote, strange level up panels in the older version of Woolen's HUD
 - fix missing elements in casual team composition at the beggining
+- casual pre-game - background behind the timer
 
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
-
-I'm not sure:
-- casual pre-game - background behind the timer
 
 as an option:
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
