@@ -10,7 +10,7 @@
 - #base
 - check stopwatch
 
-# As an option:
+## As an option:
 - kills etc. instead of coin like in FlawHUD in casual menu for the alternative horizontal mode selection menu
 - visible labels for item effect meters
 - more themed, yahud like game timers
