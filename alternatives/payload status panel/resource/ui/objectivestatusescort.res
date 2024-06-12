@@ -74,7 +74,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"paintbackground"	"1"
-		"bgcolor_override"	"0 0 0 100"
+		"image"			"../hud/cart_track_neutral_opaque"
 		
 		"if_multiple_trains"
 		{
