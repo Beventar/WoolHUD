@@ -9,7 +9,7 @@
 - check backpack and class loadout tooltip when hovering over stuff corners
 - #base
 - check stopwatch
-- check alternative labels for item effect meters
+- check colors of labels of alternative item effect meters
 
 ## As an option:
 - kills etc. instead of coin like in FlawHUD in casual menu for the alternative horizontal mode selection menu
