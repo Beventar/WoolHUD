@@ -7,7 +7,7 @@
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
 
 I'm not sure:
-- casual waiting for match to begin - background behind the timer
+- casual pre-game - background behind the timer
 
 as an option:
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
