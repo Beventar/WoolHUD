@@ -1,6 +1,5 @@
 - clean up trash, unused elements etc.
 - adjust alternative backpack panel
-- alternative class loadout panels - "current on-wearer" adjustment
 - adjust new item notification in alternative main menu
 - check if there are darker vote, strange level up panels in the older version of Woolen's HUD
 
