@@ -8,7 +8,6 @@
 - check class loadout panels empty slots' corners
 - check backpack and class loadout tooltip when hovering over stuff corners
 - #base
-- check stopwatch
 - check colors of labels of alternative item effect meters
 
 ## As an option:
