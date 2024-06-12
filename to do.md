@@ -1,3 +1,4 @@
+# To do:
 - clean up trash, unused elements etc.
 - adjust alternative backpack panel
 - adjust new item notification in alternative main menu
@@ -8,14 +9,15 @@
 - check backpack and class loadout tooltip when hovering over stuff corners
 - #base logging
 
-as an option:
+# As an option:
 - kills etc. instead of coin like in FlawHUD in casual menu for the alternative horizontal mode selection menu
 - visible labels for item effect meters
 - more themed, yahud like game timers
 
+# Notes:
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
 
-changes I don't want to make:
+# Changes I don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
 - broken koth timers in tf_use_match_hud 1
 - a bit clipped killstreak counter, "?" in backpack etc.
