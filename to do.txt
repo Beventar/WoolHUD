@@ -2,8 +2,12 @@
 - adjust alternative backpack panel
 - adjust new item notification in alternative main menu
 - check if there are darker vote, strange level up panels in the older version of Woolen's HUD
+- fix missing elements in casual team composition at the beggining
 
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
+
+I'm not sure:
+- casual waiting for match to begin - background behind the timer
 
 as an option:
 - improve casual mode selection panel (kills etc. instead of coin like in FlawHUD) for the alternative horizontal mode selection menu
@@ -31,3 +35,4 @@ changes I don't want to make:
 - different background of inspect panel when spectating and in-game (spectating darker, in-game b618c6037d50c8d218f430051af002659b276879)
 - inconsistent smaller border on the bottom in alternative backpack & class loadout panel
 - stock tournament panel
+- missing elements in casual team composition at the beggining
