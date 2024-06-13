@@ -7,6 +7,7 @@
 
 # Notes:
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
+- alternative backpack panel (right) - the Y of my item slots are 121px, while Woolen's are 132px - I don't want mine to match exactly because of the screen real estate taken by the latest updates and I don't want to shrink the slots
 
 # Changes I don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
@@ -30,4 +31,3 @@
 - different background of inspect panel when spectating and in-game
 - inconsistent smaller border on the bottom in alternative backpack & class loadout panels
 - casual pre-game - background behind the timer
-- alternative backpack panel (right) - the Y of my item slots are 121px, while Woolen's are 132px - I don't want mine to match exactly because of the screen real estate taken by the latest updates and I don't want to shrink the slots
