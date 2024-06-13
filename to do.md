@@ -1,16 +1,16 @@
 # To do:
 - clean up trash, unused elements etc.
-- adjust alternative backpack panel (right)
-- adjust new item notification in alternative main menu
+- #base
 - check if there are darker vote, strange level up panels in the older version of Woolen's HUD
-- casual pre-game - background behind the timer
 - check class loadout panels empty slots' corners
 - check backpack and class loadout itempopupoverborder corners
-- #base
 - check colors of labels of alternative item effect meters
+- adjust alternative backpack panel (right)
+- adjust new item notification in alternative main menu
+- casual pre-game - background behind the timer
 
 ## As an option:
-- kills etc. instead of coin like in FlawHUD in casual menu for the alternative horizontal mode selection menu
+- stats like kills etc. instead of coin like in FlawHUD in casual menu for the alternative horizontal mode selection menu
 
 # Notes:
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
