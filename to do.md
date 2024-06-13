@@ -6,9 +6,6 @@
 - adjust the main portion (with the items) (and also maybe the buttons) of the alternative backpack panel (right)
 - adjust new item notification in alternative main menu
 
-## As an option:
-- stats like kills etc. instead of coin like in FlawHUD in casual menu for the alternative horizontal mode selection menu
-
 # Notes:
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
 
