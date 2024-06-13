@@ -25,7 +25,7 @@
 		"item_mod_wide"	"40"
 		
 		"item_backpack_offcenter_x"		"-386"
-		"item_backpack_xdelta"			"4"
+		"item_backpack_xdelta"			"3"
 		"item_backpack_ydelta"			"3"
 
 		"button_xpos_offcenter"	"175"		
@@ -33,7 +33,7 @@
 		"button_ydelta"	"80"
 		"button_override_delete_xpos" "0"
 		
-		"page_button_y"	"308"
+		"page_button_y"	"311"
 		"page_button_x_delta" "3"
 		"page_button_y_delta" "3"
 		"page_button_per_row" "20"
@@ -98,8 +98,8 @@
 			"ControlName"	"CItemModelPanel"
 			"xpos"			"c-70"
 			"ypos"			"270"
-			"wide"			"73"
-			"tall"			"53"
+			"wide"			"75"
+			"tall"			"54"
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 0"
 			"noitem_textcolor"		"117 107 94 255"
@@ -215,7 +215,7 @@
 		"fieldName"			"ShowRarityComboBox"
 		"Font"				"HudFontSmallestBold"
 		"wrap"				"0"
-		"xpos"				"c177"
+		"xpos"				"c179"
 		"ypos"				"4"
 		"zpos"				"1"
 		"wide"				"185"
@@ -452,7 +452,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"DragToNextPageButton"
-		"xpos"			"c388"
+		"xpos"			"c395"
 		"ypos"			"154"
 		"zpos"			"1"
 		"wide"			"25"
@@ -499,7 +499,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ShowExplanationsButton"
-		"xpos"			"c365"
+		"xpos"			"c366"
 		"ypos"			"3"
 		"zpos"			"100"
 		"wide"			"19"
