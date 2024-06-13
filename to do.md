@@ -3,7 +3,7 @@
 - #base
 - check if there are darker vote, strange level up panels in the older version of Woolen's HUD
 - check colors of labels of alternative item effect meters
-- adjust the main portion (with the items) of the alternative backpack panel (right)
+- adjust the main portion (with the items) (and also maybe the buttons) of the alternative backpack panel (right)
 - adjust new item notification in alternative main menu
 
 ## As an option:
