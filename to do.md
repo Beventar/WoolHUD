@@ -11,7 +11,6 @@
 
 ## As an option:
 - kills etc. instead of coin like in FlawHUD in casual menu for the alternative horizontal mode selection menu
-- more themed, yahud like game timers
 
 # Notes:
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
