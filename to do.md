@@ -5,7 +5,6 @@
 - check colors of labels of alternative item effect meters
 - adjust the main portion (with the items) of the alternative backpack panel (right)
 - adjust new item notification in alternative main menu
-- casual pre-game - background behind the timer
 
 ## As an option:
 - stats like kills etc. instead of coin like in FlawHUD in casual menu for the alternative horizontal mode selection menu
@@ -34,3 +33,4 @@
 - no quality outlines on some weapon skins in backpack and class loadout panels
 - different background of inspect panel when spectating and in-game
 - inconsistent smaller border on the bottom in alternative backpack & class loadout panels
+- casual pre-game - background behind the timer
