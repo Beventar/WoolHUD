@@ -3,7 +3,6 @@
 - adjust alternative backpack panel (right)
 - adjust new item notification in alternative main menu
 - check if there are darker vote, strange level up panels in the older version of Woolen's HUD
-- fix missing elements in casual team composition at the beggining
 - casual pre-game - background behind the timer
 - check class loadout panels empty slots' corners
 - check backpack and class loadout itempopupoverborder corners
@@ -38,4 +37,3 @@
 - no quality outlines on some weapon skins in backpack and class loadout panels
 - different background of inspect panel when spectating and in-game
 - inconsistent smaller border on the bottom in alternative backpack & class loadout panels
-- missing elements in casual team composition at the beggining
