@@ -111,7 +111,7 @@
 			"model_xpos"	"0"
 			"model_ypos"	"0"
 			"model_wide"	"66"
-			"model_tall"	"39"
+			"model_tall"	"45"
 
 			"text_ypos"		"60"
 			"text_center"	"1"
