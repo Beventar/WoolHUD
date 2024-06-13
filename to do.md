@@ -2,10 +2,8 @@
 - clean up trash, unused elements etc.
 - #base
 - check if there are darker vote, strange level up panels in the older version of Woolen's HUD
-- check class loadout panels empty slots' corners
-- check backpack and class loadout itempopupoverborder corners
 - check colors of labels of alternative item effect meters
-- adjust alternative backpack panel (right)
+- adjust the main portion (with the items) of the alternative backpack panel (right)
 - adjust new item notification in alternative main menu
 - casual pre-game - background behind the timer
 
