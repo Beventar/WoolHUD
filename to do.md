@@ -2,7 +2,6 @@
 - clean up trash, unused elements etc.
 - #base
 - check colors of labels of alternative item effect meters
-- adjust new item notification in alternative main menu
 
 # Notes:
 - alternative main menu backgrounds are not the same as Woolen's unfortunately

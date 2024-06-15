@@ -564,7 +564,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
-		"xpos"			"c148"
+		"xpos"			"r176"
 		"ypos"			"28"
 		"zpos"			"16"
 		"wide"			"32"
@@ -642,9 +642,12 @@
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"paintbackground" "0"
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"paintbackground"	"1"
+			"defaultBgColor_override"	"42 42 42 255"
+			"armedBgColor_override"		"57 57 57 255"
+			"depressedBgColor_override"	"42 42 42 255"
+			"border_default"			"NoBorder"
+			"border_armed"				"NoBorder"
 			
 			"SubImage"
 			{
@@ -657,7 +660,7 @@
 				"tall"			"32"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"button_Alert"
+				"image"			"replay/thumbnails/mainmenu/button_alert"
 				"scaleImage"	"1"
 			}
 		}
