@@ -8,7 +8,7 @@ This is not intended to reach the public eye at this moment as Woolen himself do
 
 ### Notes:
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
-- alternative backpack panel (right) - the Y of my item slots are 121px, while Woolen's are 132px - I don't want mine to match exactly because of the screen real estate taken by the latest updates and I don't want to shrink the slots
+- alternative backpack panel (right) - the Y of my item slots are 121px, while Woolen's are 132px - because of the screen real estate taken by the latest updates and I don't want to shrink the slots
 
 ### Changes I don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
