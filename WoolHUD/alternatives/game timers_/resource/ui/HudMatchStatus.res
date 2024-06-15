@@ -318,6 +318,7 @@
 			if_match
 			{
 				"font"		"Regular13"
+				"ypos"		"14"
 			}
 		}	
 	}
