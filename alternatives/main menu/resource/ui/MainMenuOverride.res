@@ -653,8 +653,8 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"0"
-				"ypos"			"0"
+				"xpos"			"cs-0.5"
+				"ypos"			"cs-0.5"
 				"zpos"			"1"
 				"wide"			"24"
 				"tall"			"24"
