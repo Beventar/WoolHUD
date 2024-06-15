@@ -1,5 +1,4 @@
 # To do:
-- clean up trash, unused elements etc.
 - #base
 - check colors of labels of alternative item effect meters
 
