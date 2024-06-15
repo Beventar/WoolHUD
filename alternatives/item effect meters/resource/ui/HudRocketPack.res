@@ -42,7 +42,7 @@
 		"tall"			"8"
 		"enabled"				"0"
 		"labelText"			"#TF_RocketPack_Disabled"
-		"fgcolor_override" "Metal"
+		"disabledfgcolor2_override" "132 139 147 255"
 		"textAlignment"			"center"
 		"font"				"Regular9"
 	}
