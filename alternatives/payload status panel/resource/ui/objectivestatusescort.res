@@ -52,14 +52,7 @@
 			"image"			"../hud/cart_track_neutral_opaque"
 			"xpos"			"100"
 			"wide"			"200"
-		}
-		
-		"if_single_with_hills"
-		{
-			"ypos"			"131"
-			"tall"			"8"
-			"image"			"../hud/cart_track_neutral_opaque"
-		}		
+		}	
 	}
 	
 	"BarBg"
