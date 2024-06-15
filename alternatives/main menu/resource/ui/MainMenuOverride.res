@@ -662,6 +662,10 @@
 				"enabled"		"1"
 				"image"			"replay/thumbnails/mainmenu/button_alert"
 				"scaleImage"	"1"
+
+				"proportionaltoparent"	"1"
+				"mouseinputenabled"	"0"
+				"keyboardinputenabled" "0"
 			}
 		}
 	}
