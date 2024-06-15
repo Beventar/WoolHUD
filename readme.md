@@ -32,3 +32,4 @@ This is not intended to reach the public eye at this moment as Woolen himself do
 - different background of inspect panel when spectating and in-game
 - inconsistent smaller border on the bottom in alternative backpack & class loadout panels
 - casual pre-game - background behind the timer
+- darker engineer building not build background
