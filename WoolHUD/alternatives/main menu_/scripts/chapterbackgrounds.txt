@@ -1,0 +1,18 @@
+"chapters"
+{
+	1	"difbackground_2fort"
+	2	"difbackground_gravelpit"
+	3	"difbackground_upward"
+	4	"difbackground_mvm"
+	5	"difbackground_borneo"
+	6	"difbackground_process"
+}
+"BackgroundMaps"
+{
+	1	"difbackground_2fort"
+	2	"difbackground_gravelpit"
+	3	"difbackground_upward"
+	4	"difbackground_mvm"
+	5	"difbackground_borneo"
+	6	"difbackground_process"
+}
