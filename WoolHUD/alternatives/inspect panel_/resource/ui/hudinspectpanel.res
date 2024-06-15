@@ -12,6 +12,7 @@
 		"visible"		"0"
 		"bgcolor_override"		"255 255 255 0"
 		"PaintBackgroundType"	"1"
+		"border"				""
 		
 		"model_ypos"		"10"
 		"model_center_x"	"1"
