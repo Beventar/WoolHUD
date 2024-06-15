@@ -30,6 +30,14 @@
 		"enabled"		"1"
 	}
 	
+	"BlueScoreShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"RedScore"
+		"enabled"		"0"
+		"visible"		"0"
+	}
+	
 	"BlueScore"
 	{
 		"ControlName"	"CExLabel"
@@ -63,6 +71,14 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}	
+
+	"RedScoreShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"RedScore"
+		"enabled"		"0"
+		"visible"		"0"
+	}
 
 	"RedScore"
 	{
