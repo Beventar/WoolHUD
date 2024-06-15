@@ -827,7 +827,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
-				"image"			"button_quests_pda"
+				"image"			"flatbutton_quests_pda"
 
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
