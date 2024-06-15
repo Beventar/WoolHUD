@@ -1,7 +1,6 @@
 # To do:
 - clean up trash, unused elements etc.
 - #base
-- check if there are darker vote, strange level up panels in the older version of Woolen's HUD
 - check colors of labels of alternative item effect meters
 - adjust new item notification in alternative main menu
 
