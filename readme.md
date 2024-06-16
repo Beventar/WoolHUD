@@ -1,8 +1,8 @@
 # WoolHUD
 
-This HUD is a replica of Woolen's HUD as seen from his videos on Youtube. The main HUD folder contains the newest version, the elements from the older versions can be found in the "#alternatives" folder. Just remove the "_" inside the folder from things you want to activate.
+This HUD is a replica of Woolen's HUD as seen from his videos on Youtube. The main HUD folder contains the newest version, elements from the older versions can be found in the "#alternatives" folder. Just remove the "_" inside the folder from things you want to activate.
 
-#customizations are not faithful to Woolen's original HUD past or current version but they do have some useful customizations in case you want them.
+#customizations are not faithful to Woolen's original HUD past or current version but there are some useful customizations in case you want them.
 
 This is not intended to reach the public eye at this moment as Woolen himself doesn't want to publish his HUD and I respect his decision.
 
