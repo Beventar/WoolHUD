@@ -1,5 +1,10 @@
 "Resource/UI/HudTournamentSetup.res"
 {
+	"HudTournamentSetupBG"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
 	"TournamentSetupLabel"
 	{	
 		"ControlName"		"CExLabel"
