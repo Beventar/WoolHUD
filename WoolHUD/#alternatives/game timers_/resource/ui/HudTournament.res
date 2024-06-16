@@ -281,6 +281,16 @@
 			"team2_player_delta_x"			"52"
 		}		
 	}
+	"HudTournamentREDBG"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	"HudTournamentBLUEBG"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
 
 	"HudTournamentBG"
 	{
