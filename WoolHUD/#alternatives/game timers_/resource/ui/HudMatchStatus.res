@@ -295,7 +295,7 @@
 
 		if_match
 		{
-			"ypos"				"11"
+			"ypos"				"6"
 			"zpos"				"5"
 		}
 		
@@ -318,7 +318,7 @@
 			if_match
 			{
 				"font"		"Regular13"
-				"ypos"		"14"
+				"ypos"		"8"
 			}
 		}	
 	}
