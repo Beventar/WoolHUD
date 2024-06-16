@@ -603,6 +603,17 @@
 		}
 	}
 
+	"TauntCaratLabel"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	"TauntLabel"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+
 	"TauntLoadoutButton"
 	{
 		"ControlName"	"CExImageButton"
