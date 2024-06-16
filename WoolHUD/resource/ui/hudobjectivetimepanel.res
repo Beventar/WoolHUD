@@ -1,2 +1,2 @@
-#base	"../../alternatives/game timers/resource/ui/HudObjectiveTimePanel.res"
+#base	"../../#alternatives/game timers/resource/ui/HudObjectiveTimePanel.res"
 #base	"hudobjectivetimepanelDefault.res"
