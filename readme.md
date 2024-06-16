@@ -6,7 +6,7 @@ This HUD is a replica of Woolen's HUD as seen from his videos on Youtube. The ma
 
 This is not intended to reach the public eye at this moment as Woolen himself doesn't want to publish his HUD and I respect his decision.
 
-## There are quite a few differences between this replica and Woolen's original HUD such as:
+## Differences between this replica and the original HUD:
 
 ### Notes:
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
