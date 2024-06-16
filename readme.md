@@ -1,5 +1,12 @@
 # WoolHUD
 
+<div align="center">
+
+![](pictures\WoolHUD-logo.webp)
+
+</div>
+
+## Overview
 This HUD is a replica of Woolen's HUD as seen from his videos on Youtube. The main HUD folder contains the newest version, elements from the older versions can be found in the "#alternatives" folder. Just remove the "_" inside the folder from things you want to activate.
 
 #customizations are not faithful to Woolen's original HUD past or current version but there are some useful customizations in case you want them.
