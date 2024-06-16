@@ -1,2 +1,2 @@
-#base	"../alternatives/main menu/scripts/chapterbackgrounds.txt"
+#base	"../#alternatives/main menu/scripts/chapterbackgrounds.txt"
 #base	"chapterbackgroundsdefault.txt"
