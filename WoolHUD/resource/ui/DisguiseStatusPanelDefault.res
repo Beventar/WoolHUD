@@ -49,7 +49,7 @@
 		"tall"			"24"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"Name"
+		"fgcolor"		"WhiteS"
 		"labelText"		"%disguisename%"
 		"textAlignment"	"west"
 	}
