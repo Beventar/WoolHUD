@@ -142,7 +142,7 @@
 	
 		"red_active_xpos"			"106"
 		"red_active_xpos_minmode"	"105"
-	}
+	}	
 
 	HudItemEffectMeter
 	{
