@@ -4713,6 +4713,15 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		ItemFontAttribSmallv2
+		{
+			"1"
+			{
+				"name"		"AvenirLTStd-Medium"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
 		"ItemFontAttribSmall"
 		{
 			"1"
@@ -4733,6 +4742,16 @@ Scheme
 				"antialias" 	"1"
 			}
 		}	
+		"ItemFontAttribLarger"
+		{
+			"1"
+			{
+				"name"		"AvenirLTStd-Medium"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
 		
 		"AchievementTracker_Name"
 		{
