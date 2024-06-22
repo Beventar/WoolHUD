@@ -660,7 +660,7 @@
 				"tall"			"24"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"replay/thumbnails/mainmenu/button_alert"
+				"image"			"../../#alternatives/main menu/materials/#mainmenu/button_alert"
 				"scaleImage"	"1"
 
 				"proportionaltoparent"	"1"
@@ -736,7 +736,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
-				"image"			"replay/thumbnails/mainmenu/button_streaming"
+				"image"			"../../#alternatives/main menu/materials/#mainmenu/button_streaming"
 
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
@@ -827,7 +827,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
-				"image"			"flatbutton_quests_pda"
+				"image"			"../../#alternatives/main menu/materials/#mainmenu/button_quests_pda"
 
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"

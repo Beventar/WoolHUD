@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "console/difbackground_mvm_widescreen"
+	"$baseTexture" "../#alternatives/main menu/materials/#mainmenu/background_process"
 	"$vertexcolor" 1
 	"$vertexalpha" 1
 	"$ignorez" 1

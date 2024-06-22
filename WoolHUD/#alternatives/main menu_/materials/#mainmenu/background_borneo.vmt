@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "console/difbackground_borneo"
+	"$baseTexture" "../#alternatives/main menu/materials/#mainmenu/background_borneo"
 	"$vertexcolor" 1
 	"$vertexalpha" 1
 	"$ignorez" 1
