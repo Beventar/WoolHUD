@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "../#alternatives/main menu/materials/#mainmenu/background_borneo"
+	"$baseTexture" "../#alternatives/main menu/materials/background_borneo_widescreen"
 	"$vertexcolor" 1
 	"$vertexalpha" 1
 	"$ignorez" 1
