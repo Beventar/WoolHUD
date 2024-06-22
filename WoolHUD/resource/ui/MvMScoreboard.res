@@ -63,7 +63,7 @@
 			"labelText"		"%difficultyvalue%"
 			"textAlignment"	"east"
 			"xpos"			"c-285"
-			"ypos"			"r24"
+			"ypos"			"r19"
 			"wide"			"150"
 			"tall"			"20"
 			"fgcolor"		"White"
