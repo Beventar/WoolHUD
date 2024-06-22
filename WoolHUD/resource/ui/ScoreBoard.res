@@ -625,7 +625,7 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		
 		if_mvm
 		{
@@ -929,7 +929,7 @@
 			if_mvm
 			{
 				"font"		"Medium39"
-				"xpos"		"c-321"
+				"xpos"		"c-150"
 				"ypos"		"r113"
 				"tall"		"41"
 			}
@@ -978,7 +978,7 @@
 			if_mvm
 			{
 				"font"		"Medium39"
-				"xpos"		"c-168"
+				"xpos"		"c4"
 				"ypos"		"r113"
 				"tall"		"41"
 			}
@@ -1005,7 +1005,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-82"
+				"xpos"		"c-291"
 				"ypos"		"r110"
 			}
 		}
@@ -1031,7 +1031,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-73"
+				"xpos"		"c-280"
 				"ypos"		"r110"
 			}
 		}
@@ -1057,7 +1057,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-82"
+				"xpos"		"c-291"
 				"ypos"		"r100"
 			}
 		}
@@ -1083,7 +1083,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-73"
+				"xpos"		"c-280"
 				"ypos"		"r100"
 			}
 		}
@@ -1109,7 +1109,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-82"
+				"xpos"		"c-291"
 				"ypos"		"r90"
 			}
 		}
@@ -1135,7 +1135,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-73"
+				"xpos"		"c-280"
 				"ypos"		"r90"
 			}
 		}
@@ -1161,7 +1161,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-82"
+				"xpos"		"c-291"
 				"ypos"		"r80"
 			}
 		}
@@ -1187,7 +1187,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-73"
+				"xpos"		"c-280"
 				"ypos"		"r80"
 			}
 		}
@@ -1213,7 +1213,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-82"
+				"xpos"		"c-291"
 				"ypos"		"r70"
 			}
 		}
@@ -1239,7 +1239,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-73"
+				"xpos"		"c-280"
 				"ypos"		"r70"
 			}
 		}
@@ -1265,7 +1265,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-82"
+				"xpos"		"c-291"
 				"ypos"		"r60"
 			}
 		}
@@ -1291,7 +1291,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-73"
+				"xpos"		"c-280"
 				"ypos"		"r60"
 			}
 		}
@@ -1317,7 +1317,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c106"
+				"xpos"		"c102"
 				"ypos"		"r110"
 			}
 		}		
@@ -1343,7 +1343,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c116"
+				"xpos"		"c112"
 				"ypos"		"r110"
 				"wide"		"163"
 			}
@@ -1370,7 +1370,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c106"
+				"xpos"		"c102"
 				"ypos"		"r100"
 			}
 		}
@@ -1396,7 +1396,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c116"
+				"xpos"		"c112"
 				"ypos"		"r100"
 				"wide"		"163"
 			}
@@ -1423,7 +1423,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c106"
+				"xpos"		"c102"
 				"ypos"		"r90"
 			}
 		}
@@ -1449,7 +1449,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c116"
+				"xpos"		"c112"
 				"ypos"		"r90"
 				"wide"		"163"
 			}
@@ -1476,7 +1476,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c106"
+				"xpos"		"c102"
 				"ypos"		"r80"
 			}
 		}
@@ -1502,7 +1502,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c116"
+				"xpos"		"c112"
 				"ypos"		"r80"
 				"wide"		"163"
 			}
@@ -1529,7 +1529,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c106"
+				"xpos"		"c102"
 				"ypos"		"r70"
 			}
 		}
@@ -1555,7 +1555,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c116"
+				"xpos"		"c112"
 				"ypos"		"r70"
 				"wide"		"163"
 			}
@@ -1582,7 +1582,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c106"
+				"xpos"		"c102"
 				"ypos"		"r60"
 			}
 		}
@@ -1608,7 +1608,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c116"
+				"xpos"		"c112"
 				"ypos"		"r60"
 				"wide"		"163"
 			}
@@ -1636,7 +1636,7 @@
 			{
 				"xpos"		"c-295"
 				"ypos"		"r110"
-				"wide"		"393"
+				"wide"		"191"
 				"tall"		"67"
 			}
 		}
@@ -1658,7 +1658,11 @@
 
 			if_mvm
 			{
-				"visible"		"0"
+				"visible"		"1"
+				"xpos"			"c-99"
+				"ypos"			"r110"
+				"wide"			"191"
+				"tall"			"67"
 			}
 		}
 		"StatsBGRight"
@@ -1679,9 +1683,9 @@
 
 			if_mvm
 			{
-				"xpos"		"c103"
+				"xpos"		"c98"
 				"ypos"		"r110"
-				"wide"		"185"
+				"wide"		"191"
 				"tall"		"67"
 				"visible"		"1"
 			}
@@ -1709,7 +1713,7 @@
 			if_mvm
 			{
 				"font"		"Heavy26"
-				"xpos"		"c-187"
+				"xpos"		"c-16"
 				"ypos"		"r110"
 				"wide"		"26"
 				"tall"		"25"
@@ -1741,7 +1745,7 @@
 			if_mvm
 			{
 				"font"			"Medium9"
-				"xpos"			"c-263"
+				"xpos"			"c-91"
 				"ypos"			"r70"
 				"wide"			"178"
 			}	
@@ -1772,7 +1776,7 @@
 			if_mvm
 			{
 				"font"			"Medium9"
-				"xpos"			"c-263"
+				"xpos"			"c-91"
 				"ypos"			"r60"
 				"wide"			"178"
 			}
