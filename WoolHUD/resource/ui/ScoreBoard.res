@@ -455,9 +455,9 @@
 		{
 			"font"			"Light19"
 			"fgcolor"			"Black"
-			"xpos"			"c-210"
+			"xpos"			"c-265"
 			"ypos"			"r384"
-			"wide"			"402"
+			"wide"			"530"
 			"tall"			"22"
 
 		}
