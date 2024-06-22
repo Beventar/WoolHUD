@@ -28,10 +28,10 @@
     {
         "ControlName"       			"ScalableImagePanel"
         "fieldName"     				"TimePanelBG"
-        "xpos"          				"52"
-        "ypos"          				"-3"
+        "xpos"          				"45"
+        "ypos"          				"-2"
         "zpos"          				"2"
-        "wide"          				"48"
+        "wide"          				"60"
         "tall"          				"18"
         "visible"       				"1"
         "enabled"       				"1"
@@ -45,6 +45,8 @@
 		if_match
 		{
 			"xpos"			"9999"
+            "visible"       "0"
+            "enabled"       "0"
 		}
     }
 	
@@ -53,13 +55,13 @@
         "ControlName"       			"CExLabel"
         "fieldName"     				"WaitingForPlayersLabel"
         "xpos"          				"26"
-        "ypos"          				"17"
+        "ypos"          				"15"
         "zpos"          				"-1"
         "wide"          				"100"
         "tall"          				"14"
         "visible"       				"0"
         "enabled"       				"1"
-        "labelText"     				"Waiting for Players"
+        "labelText"     				"#game_WaitingForPlayers"
         "textAlignment"     			"center"
         "dulltext"      				"0"
         "brighttext"        			"0"
@@ -73,13 +75,13 @@
         "ControlName"       			"CExLabel"
         "fieldName"         			"OvertimeLabel"
         "xpos"          				"26"
-        "ypos"          				"17"
+        "ypos"          				"15"
         "zpos"          				"-1"
         "wide"          				"100"
         "tall"          				"14"
         "visible"       				"0"
         "enabled"       				"1"
-        "labelText"     				"OVERTIME"
+        "labelText"     				"#game_Overtime"
         "textAlignment"     			"center"
         "dulltext"      				"0"
         "brighttext"        			"0"
@@ -93,13 +95,13 @@
         "ControlName"       			"CExLabel"
         "fieldName"         			"SuddenDeathLabel"
         "xpos"          				"26"
-        "ypos"          				"17"
+        "ypos"          				"15"
         "zpos"          				"-1"
         "wide"          				"100"
         "tall"          				"14"
         "visible"           			"0"
         "enabled"           			"1"
-        "labelText"         			"SUDDEN DEATH"
+        "labelText"         			"#game_SuddenDeath"
         "textAlignment"         		"center"
         "dulltext"          			"0"
         "brighttext"            		"0"
@@ -113,13 +115,13 @@
         "ControlName"       			"CExLabel"
         "fieldName"         			"SetupLabel"
          "xpos"          				"26"
-        "ypos"          				"17"
+        "ypos"          				"15"
         "zpos"          				"-1"
         "wide"          				"100"
         "tall"          				"14"
         "visible"           			"0"
         "enabled"           			"1"
-        "labelText"         			"SETUP"
+        "labelText"         			"#game_Setup"
         "textAlignment"     			"center"
         "dulltext"          			"0"
         "brighttext"        			"0"
@@ -134,6 +136,8 @@
         "fieldName"        				"TimePanelProgressBar"
         "xpos"              			"9999"
         "ypos"              			"9999"
+        "visible"                       "0"
+        "enabled"                       "0"
     }
     "ServerTimeLimitLabelBG"
     {
@@ -141,6 +145,8 @@
         "fieldName"                		"ServerTimeLimitLabelBG"
 		"xpos"              			"9999"
         "ypos"              			"9999"
+        "visible"                       "0"
+        "enabled"                       "0"
     }
 	"WaitingForPlayersBG"
     {
@@ -148,6 +154,8 @@
         "fieldName"                		"WaitingForPlayersBG"
 		"xpos"              			"9999"
         "ypos"              			"9999"
+        "visible"                       "0"
+        "enabled"                       "0"
     }
 	"OvertimeBG"
     {
@@ -155,6 +163,8 @@
         "fieldName"                		"OvertimeBG"
 		"xpos"              			"9999"
         "ypos"              			"9999"
+        "visible"                       "0"
+        "enabled"                       "0"
           			
     }
     "SetupBG"
@@ -163,6 +173,8 @@
         "fieldName"                		"SetupBG"
 		"xpos"              			"9999"
         "ypos"              			"9999"
+        "visible"                       "0"
+        "enabled"                       "0"
     } 
 	"SuddenDeathBG"
     {
@@ -170,5 +182,7 @@
         "fieldName"                		"SuddenDeathBG"
         "xpos"              			"9999"
         "ypos"              			"9999"
+        "visible"                       "0"
+        "enabled"                       "0"
     }	
 }
