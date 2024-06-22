@@ -29,10 +29,15 @@
         "ControlName"       			"ScalableImagePanel"
         "fieldName"     				"TimePanelBG"
         "xpos"          				"45"
+        "xpos_minmode"                  "45"
         "ypos"          				"-2"
+        "ypos_minmode"                  "12"
         "zpos"          				"2"
+        "zpos_minmode"                  "2"
         "wide"          				"60"
+        "wide_minmode"                  "60"
         "tall"          				"18"
+        "tall_minmode"                  "18"
         "visible"       				"1"
         "enabled"       				"1"
         "image"         				"../hud/objectives_timepanel_blue_bg"  
@@ -46,7 +51,6 @@
 		{
 			"xpos"			"9999"
             "visible"       "0"
-            "enabled"       "0"
 		}
     }
 	
@@ -56,6 +60,7 @@
         "fieldName"     				"WaitingForPlayersLabel"
         "xpos"          				"26"
         "ypos"          				"15"
+        "ypos_minmode"                  "28"
         "zpos"          				"-1"
         "wide"          				"100"
         "tall"          				"14"
@@ -76,6 +81,7 @@
         "fieldName"         			"OvertimeLabel"
         "xpos"          				"26"
         "ypos"          				"15"
+        "ypos_minmode"                  "28"
         "zpos"          				"-1"
         "wide"          				"100"
         "tall"          				"14"
@@ -96,6 +102,7 @@
         "fieldName"         			"SuddenDeathLabel"
         "xpos"          				"26"
         "ypos"          				"15"
+        "ypos_minmode"                  "28"
         "zpos"          				"-1"
         "wide"          				"100"
         "tall"          				"14"
@@ -114,8 +121,9 @@
     {
         "ControlName"       			"CExLabel"
         "fieldName"         			"SetupLabel"
-         "xpos"          				"26"
+        "xpos"          				"26"
         "ypos"          				"15"
+        "ypos_minmode"                  "28"
         "zpos"          				"-1"
         "wide"          				"100"
         "tall"          				"14"
