@@ -112,7 +112,7 @@
 		"fieldName"		"CapNumPlayers"
 		"font"			"Regular12"
 		"xpos"			"10"
-		"ypos"			"-6"
+		"ypos"			"-4"
 		"zpos"			"4"
 		"wide"			"21"
 		"tall"			"34"
