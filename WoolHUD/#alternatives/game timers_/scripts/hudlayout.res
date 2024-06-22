@@ -11,6 +11,8 @@
 		"tall"	"480"
 		
 		"blue_active_xpos"			"17"
+		"blue_active_xpos_minmode"			"17"
 		"red_active_xpos"			"121"
+		"red_active_xpos_minmode"			"121"
 	}	
 }
