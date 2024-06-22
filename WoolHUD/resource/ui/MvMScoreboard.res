@@ -66,7 +66,7 @@
 			"ypos"			"r24"
 			"wide"			"150"
 			"tall"			"20"
-			"fgcolor"		"Black"
+			"fgcolor"		"White"
 		}
 	}
 	
