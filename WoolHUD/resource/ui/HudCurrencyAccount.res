@@ -5,7 +5,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"Currency"
 		"font"			"Regular12"
-		"fgcolor"		"WhiteS"
+		"fgcolor"		"White"
 		"xpos"			"0"		//16
 		"ypos"			"92"
 		"zpos"			"3"
