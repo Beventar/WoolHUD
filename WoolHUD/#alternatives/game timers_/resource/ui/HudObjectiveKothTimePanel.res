@@ -98,7 +98,7 @@
 		"xpos"				"0"
 		"ypos"				"15"
 		"zpos"				"3"
-		"wide"				"48"
+		"wide"				"55"
 		"tall"				"2"
 		"fillcolor"		    "255 255 255 255"
 		"visible"			"0"

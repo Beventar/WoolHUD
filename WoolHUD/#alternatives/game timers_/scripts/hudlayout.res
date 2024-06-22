@@ -10,7 +10,7 @@
 		"wide"	"f0"
 		"tall"	"480"
 		
-		"blue_active_xpos"			"24"
-		"red_active_xpos"			"128"
+		"blue_active_xpos"			"17"
+		"red_active_xpos"			"121"
 	}	
 }
