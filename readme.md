@@ -7,13 +7,19 @@
 </div>
 
 ## Overview
-This HUD is a replica of Woolen's HUD as seen from his videos on Youtube. The main HUD folder contains the newest version, elements from the older versions can be found in the "#alternatives" folder. Just remove the "_" inside the folder from things you want to activate.
+This HUD is a replica of Woolen's HUD as seen from his videos on YouTube. By default the newest version of the HUD is used, elements from the older versions can be found in the "#alternatives" folder. Just remove the "_" inside the folder from things you want to activate.
 
 #customizations are not faithful to Woolen's original HUD, past or current versions, but there are some useful customizations in case you want them.
 
-My goal is to try to make an exact replica with as few bugs as possible. Some things are not faithful to the original HUD because it is either bugged, ugly or not fitting with the HUD design.
+My goal is to try to make an exact replica with as few bugs as possible. Some things are not faithful to the original HUD because they are either bugged, ugly or not fitting with the HUD design.
 
 **This is not intended to reach the public eye at this moment as Woolen himself doesn't want to publish his HUD and I respect his decision.**
+
+## Check Woolen out here:
+- [YouTube](https://youtube.com/@awoolensleevelet)
+- [Twitch](https://twitch.tv/awoolensleevelet)
+- [Twitter](https://twitter.com/WoolenSleevelet)
+- [Discord](https://discord.gg/woolen)
 
 ## Differences between this replica and the original HUD:
 
@@ -40,6 +46,6 @@ My goal is to try to make an exact replica with as few bugs as possible. Some th
 - clipped off endings of "y" etc. in alternative class loadout panels
 - a bit different backpack panel in newest version
 - no quality outlines on some weapon skins in backpack and class loadout panels
-- inconsistent smaller border on the bottom in alternative backpack & class loadout panels
+- inconsistent smaller border on the bottom in alternative backpack & class loadout panels (right)
 - casual pre-game - background behind the timer
 - darker engineer building not built background
