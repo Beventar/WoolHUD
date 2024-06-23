@@ -15,11 +15,6 @@
 		"enabled"		"0"
 		"image"			"../HUD/tournament_panel_brown"
 
-		if_comp
-		{
-			"ypos"	"20"
-		}
-
 
 		"src_corner_height"	"23"				// pixels inside the image
 		"src_corner_width"	"23"
@@ -57,11 +52,6 @@
 		"visible"			"0"
 		"enabled"			"1"
 
-		if_comp
-		{
-			"ypos"	"11"
-		}
-
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
@@ -85,10 +75,10 @@
 			"fgcolor"	"White"
 			"labelText"		"1"
 			"textAlignment"		"west"
-			"xpos"			"c66"
+			"xpos"			"c67"
 			"ypos"			"0"
 			"zpos"			"0"
-			"wide"			"33"
+			"wide"			"32"
 			"tall"			"16"
 			"autoResize"		"0"
 			"pinCorner"		"0"
@@ -106,7 +96,7 @@
 			"xpos"			"c99"
 			"ypos"			"0"
 			"zpos"			"0"
-			"wide"			"29"
+			"wide"			"28"
 			"tall"			"16"
 			"autoResize"		"0"
 			"pinCorner"		"0"
@@ -121,10 +111,10 @@
 			"fgcolor"		"255 255 255 175"
 			"labelText"		"1"
 			"textAlignment"		"west"
-			"xpos"			"c-126"
+			"xpos"			"c-127"
 			"ypos"			"0"
 			"zpos"			"0"
-			"wide"			"33"
+			"wide"			"32"
 			"tall"			"16"
 			"autoResize"		"0"
 			"pinCorner"		"0"
@@ -143,7 +133,7 @@
 			"xpos"			"c-95"
 			"ypos"			"0"
 			"zpos"			"0"
-			"wide"			"29"
+			"wide"			"28"
 			"tall"			"16"
 			"autoResize"		"0"
 			"pinCorner"		"0"
@@ -162,7 +152,7 @@
 		"textAlignment"		"east"
 		"fgcolor"		"10 12 14 255"
 		"xpos"			"c-164"
-		"ypos"			"-5"
+		"ypos"			"-2"
 		"zpos"			"4"
 		"wide"			"57"
 		"tall"			"20"
@@ -170,11 +160,6 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-
-		if_comp
-		{
-			"ypos"	"21"
-		}
 	}
 	"StopWatchPointsLabel"
 	{
@@ -194,11 +179,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
-
-		if_comp
-		{
-			"ypos"	"24"
-		}
 	}
 	
 	"StopWatchLabel"
@@ -219,11 +199,6 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"0"
-
-		if_comp
-		{
-			"ypos"	"20"
-		}
 	}
 
 	"HudStopWatchDescriptionBG"
