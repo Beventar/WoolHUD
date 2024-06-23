@@ -11,6 +11,8 @@ This HUD is a replica of Woolen's HUD as seen from his videos on Youtube. The ma
 
 #customizations are not faithful to Woolen's original HUD, past or current versions, but there are some useful customizations in case you want them.
 
+My goal is to try to make an exact replica with as few bugs as possible. Some things are not faithful to the original HUD because it is either bugged, ugly or not fitting with the HUD design.
+
 **This is not intended to reach the public eye at this moment as Woolen himself doesn't want to publish his HUD and I respect his decision.**
 
 ## Differences between this replica and the original HUD:
@@ -28,7 +30,6 @@ This HUD is a replica of Woolen's HUD as seen from his videos on Youtube. The ma
 - stock ctf panel
 - ugly, tooltips in main menu (only on some buttons)
 - bulkier chat
-- lower targetid when spectating
 - probably a different mvm scoreboard
 - a bit lower health position in alternative disguise status panel
 - a bit clipped cap x in alternative payload panel
@@ -39,7 +40,6 @@ This HUD is a replica of Woolen's HUD as seen from his videos on Youtube. The ma
 - clipped off endings of "y" etc. in alternative class loadout panels
 - a bit different backpack panel in newest version
 - no quality outlines on some weapon skins in backpack and class loadout panels
-- different background of inspect panel when spectating and in-game
 - inconsistent smaller border on the bottom in alternative backpack & class loadout panels
 - casual pre-game - background behind the timer
 - darker engineer building not built background
