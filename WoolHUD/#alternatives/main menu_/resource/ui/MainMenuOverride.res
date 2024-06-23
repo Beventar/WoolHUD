@@ -290,11 +290,11 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"0"
-		"tall"			"0"
+		"wide"			"150"
+		"tall"			"50"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		//"border"		"MainMenuBGBorder"
+		"border"		"MainMenuBGBorder"
 		
 		"TipSubLabel"
 		{
@@ -330,8 +330,8 @@
 			"tall"			"30"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"0"
-			"enabled"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"fgcolor_override"	"255 255 255 255"
 			"auto_wide_tocontents" "1"
 		}
@@ -2747,6 +2747,15 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"TF2SettingsButton"
+		"xpos"			"9999"			
+		"visible"		"0"
+		"enabled"		"0"			
+	}		
+	
+	"TF2SettingsButton2"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"TF2SettingsButton2"
 		"xpos"			"-1"			
 		"ypos"			"r270"
 		"zpos"			"15"
@@ -2795,11 +2804,20 @@
 			"scaleImage"	"1"
 		}				
 	}		
-	
+
 	"SettingsButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"SettingsButton"
+		"xpos"			"9999"				
+		"visible"		"0"
+		"enabled"		"0"		
+	}		
+	
+	"SettingsButton2"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"SettingsButton2"
 		"xpos"			"-1"				
 		"ypos"			"r290"
 		"zpos"			"15"
@@ -2848,8 +2866,8 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 		}			
-	}		
-	
+	}	
+
 	"BackToReplaysButton"
 	{
 		"ControlName"	"CExImageButton"
