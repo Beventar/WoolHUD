@@ -3,4 +3,5 @@
 #base   "../#customizations/centered metal/scripts/hudlayout.res"
 #base   "../#alternatives/game timers/scripts/hudlayout.res"
 #base   "../#alternatives/lower spectator targetid/scripts/hudlayout.res"
+#base   "../#alternatives/older targetid/scripts/hudlayout.res"
 #base	"hudlayoutDefault.res"
