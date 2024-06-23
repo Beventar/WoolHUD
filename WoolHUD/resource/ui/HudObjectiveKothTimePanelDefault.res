@@ -32,8 +32,8 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"50"
-			"xpos_minmode"			"50"
+			"xpos"					"cs-0.5"
+			"xpos_minmode"			"cs-0.5"
 			"ypos"					"0"
 			"ypos_minmode"			"0"
 			"delta_item_x"			"10"
@@ -114,8 +114,8 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"52"
-			"xpos_minmode"			"52"
+			"xpos"					"cs-0.5"
+			"xpos_minmode"			"cs-0.5"
 			"ypos"					"0"
 			"ypos_minmode"			"0"
 			"delta_item_x"			"50"
