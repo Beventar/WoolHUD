@@ -595,7 +595,7 @@
 				"ControlName"		"CIconPanel"
 				"fieldName"			"Blocked"
 				"xpos"				"2"
-				"ypos"				"3"
+				"ypos"				"12"
 				"zpos"				"1"
 				"wide"				"30"
 				"tall"				"30"
