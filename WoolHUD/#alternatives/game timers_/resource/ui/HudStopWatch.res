@@ -52,6 +52,11 @@
 		"visible"			"0"
 		"enabled"			"1"
 
+		if_match
+		{
+			"ypos"		"25"
+		}
+
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
@@ -160,6 +165,11 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
+
+		if_match
+		{
+			"ypos"		"24"
+		}
 	}
 	"StopWatchPointsLabel"
 	{
