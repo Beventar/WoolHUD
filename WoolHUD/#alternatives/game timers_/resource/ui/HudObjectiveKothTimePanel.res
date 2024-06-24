@@ -52,6 +52,7 @@
 			if_match
 			{
 				"font"		"Regular12"
+				"font_minmode"		"Regular12"
 			}
 		}
         
@@ -101,6 +102,7 @@
 			if_match
 			{
 				"font"		"Regular12"
+				"font_minmode"		"Regular12"
 			}
 		}	
 	}

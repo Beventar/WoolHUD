@@ -322,7 +322,9 @@
 			if_match
 			{
 				"font"		"Regular13"
+				"font_minmode"	"Regular13"
 				"ypos"		"8"
+				"ypos_minmode"	"13"
 			}
 		}	
 	}
