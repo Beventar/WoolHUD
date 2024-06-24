@@ -72,26 +72,26 @@
 	{
 		"ControlName"			"CPlayListEntry"
 		"fieldName"				"ServerBrowserEntry"
-		"xpos"					"5"
-		"ypos"					"0"
-		"tall"					"50"
-		"wide"					"140"
-		"proportionaltoparent"	"0"
-		"image_name"			"main_menu/main_menu_button_community_server"
-		"button_token"			"#MMenu_PlayList_ServerBrowser_Button"
-		"button_command"		"play_community"
-		"desc_token"			"#MMenu_PlayList_ServerBrowser_Desc"
-
-		"pin_to_sibling"		"MvMEntry"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"xpos"					"9999"
 	}
 
 	"TrainingEntry"
 	{
 		"ControlName"			"CPlayListEntry"
 		"fieldName"				"TrainingEntry"
-		"xpos"					"9999"
+		"xpos"					"5"
+		"ypos"					"0"
+		"tall"					"50"
+		"wide"					"140"
+		"proportionaltoparent"	"0"
+		"image_name"			"main_menu/main_menu_button_training"
+		"button_token"			"#MMenu_PlayList_Training_Button"
+		"button_command"		"play_training"
+		"desc_token"			"#MMenu_PlayList_Training_Desc"
+
+		"pin_to_sibling"		"MvMEntry"
+		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"CreateServerEntry"
