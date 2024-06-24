@@ -305,7 +305,7 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"Regular16"
 			"fgcolor"		"White"
-			"xpos"			"32"
+			"xpos"			"31"
 			"ypos"			"-3"
 			"zpos"			"3"
 			"wide"			"88"
