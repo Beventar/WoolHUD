@@ -990,7 +990,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"PaintBackgroundType" "2"
+				"PaintBackgroundType" "0"
 				"fgcolor_override"	"235 226 202 255"
 				"bgcolor_override"	"141 178 61 255"
 			}
