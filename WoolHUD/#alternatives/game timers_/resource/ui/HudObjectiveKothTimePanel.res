@@ -25,7 +25,9 @@
 		if_match
 		{
 			"xpos"			"50"
+			"xpos_minmode"	"50"
 			"ypos"			"2"
+			"ypos_minmode"	"2"
 		}
 		
 		"TimePanelValue"
@@ -33,9 +35,12 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"Regular16"
+			"font_minmode"	"Regular16"
 			"fgcolor"		"255 255 255 200"
 			"xpos"			"33"
+			"xpos_minmode"	"58"
 			"ypos"			"-1"
+			"ypos_minmode"	"12"
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"17"
@@ -69,7 +74,9 @@
 		if_match
 		{
 			"xpos"			"50"
+			"xpos_minmode"	"50"
 			"ypos"			"2"
+			"ypos_minmode"	"2"
 		}
 		
 		"TimePanelValue"
@@ -77,9 +84,12 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"Regular16"
+			"font_minmode"	"Regular16"
 			"fgcolor"		"255 255 255 200"
 			"xpos"			"33"
+			"xpos_minmode"	"58"
 			"ypos"			"-1"
+			"ypos_minmode"	"12"
 			"zpos"			"3"
 			"wide"			"80"
 			"tall"			"17"
