@@ -5,6 +5,11 @@
 			"playername"
 			{
 				"visible"		"0"
+
+				if_mvm
+				{
+					"visible"		"1"
+				}
 			}
 	}
 }
