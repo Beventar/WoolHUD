@@ -193,7 +193,7 @@
 		"ControlName"				"ImagePanel"
 		"fieldName"					"KillStreakIcon"
 		"xpos"						"0"
-		"ypos"						"0"
+		"ypos"						"2"
 		"zpos"						"12"
 		"wide"						"8"
 		"tall"						"8"
