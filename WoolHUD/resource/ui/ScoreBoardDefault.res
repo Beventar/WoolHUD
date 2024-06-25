@@ -1005,7 +1005,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-291"
+				"xpos"		"c-290"
 				"ypos"		"r110"
 			}
 		}
@@ -1057,7 +1057,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-291"
+				"xpos"		"c-290"
 				"ypos"		"r100"
 			}
 		}
@@ -1109,7 +1109,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-291"
+				"xpos"		"c-290"
 				"ypos"		"r90"
 			}
 		}
@@ -1161,7 +1161,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-291"
+				"xpos"		"c-290"
 				"ypos"		"r80"
 			}
 		}
@@ -1213,7 +1213,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-291"
+				"xpos"		"c-290"
 				"ypos"		"r70"
 			}
 		}
@@ -1265,7 +1265,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-291"
+				"xpos"		"c-290"
 				"ypos"		"r60"
 			}
 		}
@@ -1317,7 +1317,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c102"
+				"xpos"		"c103"
 				"ypos"		"r110"
 			}
 		}		
@@ -1370,7 +1370,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c102"
+				"xpos"		"c103"
 				"ypos"		"r100"
 			}
 		}
@@ -1423,7 +1423,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c102"
+				"xpos"		"c103"
 				"ypos"		"r90"
 			}
 		}
@@ -1476,7 +1476,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c102"
+				"xpos"		"c103"
 				"ypos"		"r80"
 			}
 		}
@@ -1529,7 +1529,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c102"
+				"xpos"		"c103"
 				"ypos"		"r70"
 			}
 		}
@@ -1582,7 +1582,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c102"
+				"xpos"		"c103"
 				"ypos"		"r60"
 			}
 		}
