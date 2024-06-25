@@ -72,7 +72,7 @@
         "brighttext"        			"0"
         "wrap"          				"0"
         "font"          				"Medium10"
-        "fgcolor"           			"White"
+        "fgcolor"           			"Health"
     }    
 	
     "OvertimeLabel"
@@ -93,7 +93,7 @@
         "brighttext"        			"0"
         "wrap"         					"0"
         "font"          				"Medium10"
-        "fgcolor"           			"White"
+        "fgcolor"           			"Health"
     }       
 	
     "SuddenDeathLabel"
@@ -114,7 +114,7 @@
         "brighttext"            		"0"
         "wrap"              			"0"
         "font"              			"Medium10"
-        "fgcolor"               		"White"
+        "fgcolor"               		"Health"
     } 
 	
 	"SetupLabel"
@@ -135,7 +135,7 @@
         "brighttext"        			"0"
         "wrap"             			 	"0"
         "font"              			"Medium10"
-        "fgcolor"           			"White"
+        "fgcolor"           			"Health"
     } 
 	
 	"TimePanelProgressBar"
