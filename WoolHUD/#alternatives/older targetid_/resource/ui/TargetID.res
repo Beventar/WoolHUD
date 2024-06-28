@@ -198,7 +198,7 @@
 		"wide"						"8"
 		"tall"						"8"
 		"visible"					"0"
-		"enabled"					"1"
+		"enabled"					"0"
 		"image"						"../hud/leaderboard_streak"
 		"scaleImage"				"1"
 		
