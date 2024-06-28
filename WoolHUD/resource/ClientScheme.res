@@ -2585,6 +2585,18 @@ Scheme
 			}
 		}
 
+		"Medium14Shadow"
+		{
+			"1"
+			{
+				"name"		"AvenirLTStd-Medium"
+				"tall"		"14"
+				"additive"		"0"
+				"antialias"	"1"
+				"dropshadow"	"1"
+			}
+		}
+
 		"Medium14"
 		{
 			"1"
