@@ -278,7 +278,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
-		"xpos"				"c-76"
+		"xpos"				"c-71"
 		"ypos"				"0"	
 		"zpos"				"1"
 		"wide"				"151"
@@ -306,10 +306,10 @@
 			"font"			"Regular16"
 			"font_minmode"	"Regular16"
 			"fgcolor"		"White"
-			"xpos"			"31"
-			"xpos_minmode"	"31"
+			"xpos"			"27"
+			"xpos_minmode"	"27"
 			"ypos"			"-3"
-			"ypos_minmode"	"12"
+			"ypos_minmode"	"11"
 			"zpos"			"3"
 			"wide"			"88"
 			"wide_minmode"	"88"
@@ -324,7 +324,7 @@
 				"font"		"Regular13"
 				"font_minmode"	"Regular13"
 				"ypos"		"8"
-				"ypos_minmode"	"13"
+				"ypos_minmode"	"14"
 			}
 		}	
 	}

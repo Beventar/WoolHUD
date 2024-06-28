@@ -37,8 +37,8 @@
 			"font"			"Regular16"
 			"font_minmode"	"Regular16"
 			"fgcolor"		"255 255 255 200"
-			"xpos"			"33"
-			"xpos_minmode"	"58"
+			"xpos"			"31"
+			"xpos_minmode"	"57"
 			"ypos"			"-1"
 			"ypos_minmode"	"12"
 			"zpos"			"3"
@@ -87,8 +87,8 @@
 			"font"			"Regular16"
 			"font_minmode"	"Regular16"
 			"fgcolor"		"255 255 255 200"
-			"xpos"			"33"
-			"xpos_minmode"	"58"
+			"xpos"			"31"
+			"xpos_minmode"	"57"
 			"ypos"			"-1"
 			"ypos_minmode"	"12"
 			"zpos"			"3"
@@ -106,7 +106,7 @@
 			}
 		}	
 	}
-	
+
 	"ActiveTimerBG"
 	{
 		"ControlName"		"ImagePanel"
@@ -116,8 +116,8 @@
 		"ypos_minmode"		"17"
 		"zpos"				"3"
 		"zpos_minmode"		"3"
-		"wide"				"55"
-		"wide_minmode"		"55"
+		"wide"				"60"
+		"wide_minmode"		"60"
 		"tall"				"2"
 		"tall_minmode"		"2"
 		"fillcolor"		    "255 255 255 255"

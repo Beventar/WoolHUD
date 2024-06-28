@@ -28,8 +28,8 @@
     {
         "ControlName"       			"ScalableImagePanel"
         "fieldName"     				"TimePanelBG"
-        "xpos"          				"45"
-        "xpos_minmode"                  "45"
+        "xpos"          				"40"
+        "xpos_minmode"                  "40"
         "ypos"          				"-2"
         "ypos_minmode"                  "12"
         "zpos"          				"2"
@@ -58,7 +58,7 @@
     {
         "ControlName"       			"CExLabel"
         "fieldName"     				"WaitingForPlayersLabel"
-        "xpos"          				"26"
+        "xpos"          				"21"
         "ypos"          				"15"
         "ypos_minmode"                  "28"
         "zpos"          				"-1"
@@ -72,14 +72,14 @@
         "brighttext"        			"0"
         "wrap"          				"0"
         "font"          				"Medium10"
-        "fgcolor"           			"White"
+        "fgcolor"           			"Health"
     }    
 	
     "OvertimeLabel"
     {
         "ControlName"       			"CExLabel"
         "fieldName"         			"OvertimeLabel"
-        "xpos"          				"26"
+        "xpos"          				"21"
         "ypos"          				"15"
         "ypos_minmode"                  "28"
         "zpos"          				"-1"
@@ -93,14 +93,14 @@
         "brighttext"        			"0"
         "wrap"         					"0"
         "font"          				"Medium10"
-        "fgcolor"           			"White"
+        "fgcolor"           			"Health"
     }       
 	
     "SuddenDeathLabel"
     {
         "ControlName"       			"CExLabel"
         "fieldName"         			"SuddenDeathLabel"
-        "xpos"          				"26"
+        "xpos"          				"21"
         "ypos"          				"15"
         "ypos_minmode"                  "28"
         "zpos"          				"-1"
@@ -114,14 +114,14 @@
         "brighttext"            		"0"
         "wrap"              			"0"
         "font"              			"Medium10"
-        "fgcolor"               		"White"
+        "fgcolor"               		"Health"
     } 
 	
 	"SetupLabel"
     {
         "ControlName"       			"CExLabel"
         "fieldName"         			"SetupLabel"
-        "xpos"          				"26"
+        "xpos"          				"21"
         "ypos"          				"15"
         "ypos_minmode"                  "28"
         "zpos"          				"-1"
@@ -135,7 +135,7 @@
         "brighttext"        			"0"
         "wrap"             			 	"0"
         "font"              			"Medium10"
-        "fgcolor"           			"White"
+        "fgcolor"           			"Health"
     } 
 	
 	"TimePanelProgressBar"
