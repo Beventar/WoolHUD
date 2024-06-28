@@ -7,7 +7,7 @@
 	
 	CSpectatorTargetID
 	{
-		"tall"	 	"46"
+		"tall"	 	"46" // 34
 	}
 	
 	CSecondaryTargetID
