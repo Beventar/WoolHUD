@@ -24,8 +24,8 @@
 		
 		if_match
 		{
-			"xpos"			"50"
-			"xpos_minmode"	"50"
+			"xpos"			"46"
+			"xpos_minmode"	"46"
 			"ypos"			"2"
 			"ypos_minmode"	"2"
 		}
@@ -74,8 +74,8 @@
 		
 		if_match
 		{
-			"xpos"			"50"
-			"xpos_minmode"	"50"
+			"xpos"			"46"
+			"xpos_minmode"	"46"
 			"ypos"			"2"
 			"ypos_minmode"	"2"
 		}
