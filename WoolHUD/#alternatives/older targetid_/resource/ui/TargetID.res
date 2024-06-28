@@ -195,8 +195,8 @@
 		"xpos"						"0"
 		"ypos"						"2"
 		"zpos"						"12"
-		"wide"						"8"
-		"tall"						"8"
+		"wide"						"0"	//8
+		"tall"						"0"	//8
 		"visible"					"0"
 		"enabled"					"0"
 		"image"						"../hud/leaderboard_streak"
