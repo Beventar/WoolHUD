@@ -62,7 +62,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
-		"bgcolor_override" "80 80 105 175"
+		"bgcolor_override" "84 91 116 175"
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}			
