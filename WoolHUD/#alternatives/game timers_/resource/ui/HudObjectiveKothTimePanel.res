@@ -53,6 +53,7 @@
 			{
 				"font"		"Regular12"
 				"font_minmode"		"Regular12"
+				"ypos_minmode"		"14"
 			}
 		}
         
@@ -103,6 +104,7 @@
 			{
 				"font"		"Regular12"
 				"font_minmode"		"Regular12"
+				"ypos_minmode"		"14"
 			}
 		}	
 	}
