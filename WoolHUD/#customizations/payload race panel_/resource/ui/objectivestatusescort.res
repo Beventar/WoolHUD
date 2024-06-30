@@ -158,6 +158,14 @@
 		
 		"EscortItemImageAlert"
 		{
+			"if_multiple_trains_top"
+			{
+				"xpos"			"-4"
+				"ypos"			"38"
+				"wide"			"60"
+				"tall"			"30"
+			}
+
 			"if_multiple_trains_bottom"
 			{
 				"xpos"			"-5"
@@ -277,8 +285,8 @@
 			{
 				"if_multiple_trains"
 				{
-					"xpos"			"2"
-					"ypos"			"2"			
+					"xpos"			"1"
+					"ypos"			"8"			
 					"wide"			"31"			
 					"tall"			"31"			
 				}	

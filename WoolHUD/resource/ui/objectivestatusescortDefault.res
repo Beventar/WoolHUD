@@ -310,6 +310,12 @@
 			"image"			"../hud/cart_alert"
 			"scaleImage"	"1"
 			
+			"if_multiple_trains_top"
+			{
+				"xpos"			"0"
+				"ypos"			"42"
+			}
+
 			"if_multiple_trains_bottom"
 			{
 				"xpos"			"0"
@@ -344,12 +350,12 @@
 			
 			"if_multiple_trains_top"
 			{
-				"ypos"			"46"
+				"ypos"			"47"
 			}	
 			
 			"if_multiple_trains_bottom"
 			{
-				"ypos"			"83"
+				"ypos"			"84"
 			}	
 		}
 		
@@ -396,6 +402,15 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
+
+			"if_multiple_trains"
+			{
+				"xpos"			"16"
+				"ypos"			"49"
+				"wide"			"20"
+				"tall"			"7"
+				"textAlignment"	"center"
+			}		
 			
 			"if_multiple_trains_top"
 			{
@@ -545,8 +560,8 @@
 				
 				"if_multiple_trains"
 				{
-					"xpos"			"2"
-					"ypos"			"2"			
+					"xpos"			"1"
+					"ypos"			"8"			
 					"wide"			"31"			
 					"tall"			"31"			
 				}	
