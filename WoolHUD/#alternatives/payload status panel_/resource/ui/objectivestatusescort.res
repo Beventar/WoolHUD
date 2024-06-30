@@ -374,7 +374,7 @@
 			"if_multiple_trains_top"
 			{
 				"xpos"			"0"
-				"ypos"			"42"
+				"ypos"			"41"
 				"wide"			"52"
 				"tall"			"26"
 			}

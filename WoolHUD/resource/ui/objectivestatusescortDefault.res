@@ -190,10 +190,10 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"RecedeTime"
 			"font"			"Default"		
-			"xpos"			"23"			
+			"xpos"			"22"			
 			"ypos"			"53"			
 			"zpos"			"2"
-			"wide"			"7"
+			"wide"			"8"
 			"tall"			"7"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -405,7 +405,7 @@
 
 			"if_multiple_trains"
 			{
-				"xpos"			"16"
+				"xpos"			"19"
 				"ypos"			"49"
 				"wide"			"20"
 				"tall"			"7"
@@ -463,10 +463,12 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"			"EscortTeardrop"
-			"xpos"				"9999"
-			"ypos"				"9999"		
+			"xpos"				"8"
+			"xpos_minmode"			"9"
+			"ypos"				"13"
+			"ypos_minmode"			"8"			
 			"zpos"				"20"
-			"wide"				"100"
+			"wide"				"105"
 			"wide_minmode"			"65"			
 			"tall"				"65"
 			"tall_minmode"			"42"			
@@ -475,11 +477,11 @@
 			
 			"if_multiple_trains"
 			{
-				"xpos"			"9999"
-				"ypos"			"9999"			
+				"xpos"			"9"
+				"ypos"			"2"			
 				"wide"			"65"			
 				"tall"			"42"			
-			}	
+			}
 						
 			"Teardrop"
 			{
@@ -488,22 +490,19 @@
 				"xpos"				"0"
 				"ypos"				"0"
 				"zpos"				"0"
-				"wide"				"54"
-				"wide_minmode"			"35"				
-				"tall"				"65"
-				"tall_minmode"			"42"
-				"visible"			"1"
-				"enabled"			"1"
+				"wide"				"0"
+				"wide_minmode"			"0"				
+				"tall"				"0"
+				"tall_minmode"			"0"
+				"visible"			"0"
+				"enabled"			"0"
 				"scaleImage"		"1"
 				"icon"				"cappoint_progressbar_teardrop"
 				"iconColor"			"255 255 255 255"
 				
 				"if_multiple_trains"
 				{
-					"xpos"			"0"
-					"ypos"			"0"			
-					"wide"			"35"			
-					"tall"			"42"			
+							
 				}	
 			}
 
@@ -517,14 +516,14 @@
 				"ypos"				"8"
 				"ypos_minmode"			"3"
 				"zpos"				"23"
-				"wide"				"54"
-				"wide_minmode"			"35"
-				"tall"				"40"
-				"tall_minmode"			"28"
+				"wide"				"0"
+				"wide_minmode"			"0"
+				"tall"				"0"
+				"tall_minmode"			"0"
 				"autoResize"		"0"
 				"pinCorner"			"0"
 				"visible"			"0"
-				"enabled"			"1"
+				"enabled"			"0"
 				"labelText"			"progress"
 				"dulltext"			"0"
 				"brighttext"		"0"
@@ -535,8 +534,8 @@
 					"font"			"DefaultVerySmall"
 					"xpos"			"0"
 					"ypos"			"3"			
-					"wide"			"35"			
-					"tall"			"28"			
+					"wide"			"0"			
+					"tall"			"0"			
 				}	
 			}
 
@@ -544,14 +543,11 @@
 			{
 				"ControlName"		"CIconPanel"
 				"fieldName"			"Blocked"
-				"xpos"				"2"
-				"ypos"				"3"
-				"ypos_minmode"			"2"	
+				"xpos"				"3"
+				"ypos"				"4"
 				"zpos"				"1"
-				"wide"				"50"
-				"wide_minmode"			"31"
-				"tall"				"50"
-				"tall_minmode"			"31"
+				"wide"				"30"
+				"tall"				"30"
 				"visible"			"1"
 				"enabled"			"1"
 				"scaleImage"		"1"
@@ -576,14 +572,14 @@
 				"ypos"			"13"
 				"ypos_minmode"		"8"
 				"zpos"			"1"
-				"wide"			"30"
-				"wide_minmode"		"20"
-				"tall"			"30"
-				"tall_minmode"		"20"
+				"wide"			"0"
+				"wide_minmode"		"0"
+				"tall"			"0"
+				"tall_minmode"		"0"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"0"
-				"enabled"		"1"
+				"enabled"		"0"
 				"tabPosition"	"0"
 				"labelText"		""
 				"image"			"../hud/cart_arrow_right"
@@ -593,8 +589,8 @@
 				{
 					"xpos"			"8"
 					"ypos"			"8"			
-					"wide"			"20"			
-					"tall"			"20"			
+					"wide"			"0"			
+					"tall"			"0"			
 				}		
 			}			
 		}
