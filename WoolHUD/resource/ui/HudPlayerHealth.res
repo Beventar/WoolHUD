@@ -32,105 +32,8 @@
 		"HealthDeathWarning"	"0.49"
 		"HealthDeathWarningColor"	"Red"
 	}
-	"xHairNormal"
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"xHairNormal"
-		"visible"		"0"
-		"enabled"		"1"
-		"zpos"			"1"
-		"xpos"			"252"
-		"ypos"			"20"
-		"wide"			"24"
-		"tall"			"26"
-		"font"			"xHairNormal"
-		"labelText"		"+"
-		"fgcolor"		"White"
-		"textAlignment"	"center"
-	}
-	"xHairThin"
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"xHairThin"
-		"visible"		"0"
-		"enabled"		"1"
-		"zpos"			"1"
-		"xpos"			"252"
-		"ypos"			"21"
-		"wide"			"25"
-		"tall"			"26"
-		"font"			"xHairThin"
-		"labelText"		"+"
-		"fgcolor"		"Garm3nxHair"
-		"textAlignment"	"center"
-	}
-	"xHairThinOutline"
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"xHairThinOutline"
-		"visible"		"0"
-		"enabled"		"1"
-		"zpos"			"1"
-		"xpos"			"252"
-		"ypos"			"21"
-		"wide"			"25"
-		"tall"			"27"
-		"font"			"xHairThinOutline"
-		"labelText"		"+"
-		"fgcolor"		"Garm3nxHair"
-		"textAlignment"	"center"
-	}
-	"xHairRequest"
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"xHairRequest"
-		"visible"		"0"
-		"enabled"		"1"
-		"zpos"			"1"
-		"xpos"			"251"
-		"ypos"			"23"
-		"wide"			"27"
-		"tall"			"27"
-		"font"			"xHairRequest"
-		"labelText"		"+"
-		"fgcolor"		"Garm3nxHair"
-		"textAlignment"	"center"
-	}
-	"xHairCircle"
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"xHairCircle"
-		"visible"		"0"
-		"enabled"		"1"
-		"zpos"			"2"
-		"xpos"			"247"
-		"ypos"			"20"
-		"wide"			"34"
-		"tall"			"33"
-		"font"			"xHairCircle"
-		"labelText"		"i"	
-		"fgcolor"		"Garm3nxHair"
-		"textAlignment"	"center"
-	}
-	"xHairDotOutline"
-	{
-		"controlName"	"CExLabel"
-		"fieldName"	 	"xHairDotOutline"
-		"visible"		"0"
-		"enabled"		"1"
-		"zpos"			"1"
-		"xpos"			"251"
-		"ypos"			"24"
-		"wide"			"27"
-		"tall"			"25"
-		"font"			"xHairDotOutline"
-		"labelText"		"+"
-		"fgcolor"		"Garm3nxHair"
-		"textAlignment"	"center"
-	}
-
 	"YAHUDHealthBackground"	
-		{
+	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HealthBG"
 		"xpos"		"60"
@@ -146,10 +49,8 @@
 		"PaintBackgroundType""0"
 
 	}
-	
-	
 	"PlayerStatusHealthValueBG"
-		{
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueBG"
 		"xpos"			"77"
@@ -160,12 +61,12 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"9"
-		"textAlignment"	"west"			//east
+		"textAlignment"	"west"
 		"font"			"BlocksSharp64"
 		"fgcolor"		"Underline"
 	}
 	"PlayerStatusHealthValueBG2"
-		{
+	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueBG2"
 		"xpos"			"117"
@@ -176,12 +77,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"9"
-		"textAlignment"	"west"			//east
+		"textAlignment"	"west"
 		"font"			"BlocksSharp64"
 		"fgcolor"		"Underline"
 	}
-	
-	
 	"PlayerStatusHealthImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -235,12 +134,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"center"			//east
+		"textAlignment"	"center"
 		"font"			"Heavy48"
 		"fgcolor"		"Health"
 	}
-	
-	
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -250,7 +147,7 @@
 		"zpos"			"7"
 		"wide"			"16"
 		"tall"			"16"
-		"visible"		"1"		//1
+		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop"
@@ -265,7 +162,7 @@
 		"zpos"			"7"
 		"wide"			"16"
 		"tall"			"16"
-		"visible"		"1"		//1
+		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop"
@@ -280,7 +177,7 @@
 		"zpos"			"7"
 		"wide"			"16"
 		"tall"			"16"
-		"visible"		"1"		//1
+		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"image"			"../vgui/marked_for_death"
@@ -295,7 +192,7 @@
 		"zpos"			"7"
 		"wide"			"16"
 		"tall"			"16"
-		"visible"		"1"		//1
+		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"image"			"../vgui/marked_for_death"
@@ -310,7 +207,7 @@
 		"zpos"			"7"
 		"wide"			"16"
 		"tall"			"16"
-		"visible"		"1"		//1
+		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"image"			"../signs/death_wheel_whammy"
