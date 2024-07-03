@@ -1,0 +1,2 @@
+#base	"../../#customizations/keybinds for loadout navigation buttons/resource/ui/itemselectionpanel.res"
+#base	"../../_basetf2hud/resource/ui/itemselectionpanel.res"
