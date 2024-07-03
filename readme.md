@@ -21,7 +21,7 @@ My goal is to try to make an exact replica with as few bugs as possible. Some th
 <a href="https://twitter.com/WoolenSleevelet"><img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" width="48" height="48"/></a>
 <a href="https://discord.gg/woolen"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="48" height="48"/></a>
 
-## Some differences between this replica and the original HUD:
+## Some differences between this replica and the original:
 
 ### Notes:
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
