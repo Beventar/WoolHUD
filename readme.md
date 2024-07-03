@@ -30,7 +30,6 @@ My goal is to try to make an exact replica with as few bugs as possible. Some th
 </a>
 
 # Some differences between this replica and the original:
-
 ## Notes:
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
 - alternative backpack panel (right) - the Y of my item slots are 121px, while Woolen's are 132px - because of the screen real estate taken by the latest updates and I don't want to shrink the slots
