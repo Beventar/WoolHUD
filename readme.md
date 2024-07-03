@@ -6,7 +6,7 @@
 
 </div>
 
-## Overview
+# Overview
 This HUD is a replica of Woolen's HUD as seen from his videos on YouTube. By default the newest version of the HUD is used, elements from the older versions can be found in the "#alternatives" folder. Just remove the "_" inside the folder from things you want to activate.
 
 #customizations are not faithful to Woolen's original HUD, past or current versions, but there are some useful customizations in case you want them.
@@ -15,7 +15,7 @@ My goal is to try to make an exact replica with as few bugs as possible. Some th
 
 **This is not intended to reach the public eye at this moment as Woolen himself doesn't want to publish his HUD and I respect his decision.**
 
-## Check Woolen out here:
+# Check Woolen out here:
 <a href="https://youtube.com/@awoolensleevelet">
 <img src="https://www.gstatic.com/images/branding/product/1x/youtube_64dp.png" width="42" height="42">
 </a>
@@ -29,14 +29,14 @@ My goal is to try to make an exact replica with as few bugs as possible. Some th
 <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="42" height="42">
 </a>
 
-## Some differences between this replica and the original:
+# Some differences between this replica and the original:
 
-### Notes:
+## Notes:
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
 - alternative backpack panel (right) - the Y of my item slots are 121px, while Woolen's are 132px - because of the screen real estate taken by the latest updates and I don't want to shrink the slots
 - Woolen probably doesn't use #base in his HUD
 
-### Changes I don't want to make:
+## Changes I don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
 - offset koth timers in tf_use_match_hud 1
 - a bit clipped killstreak counter, "?" in backpack etc.
