@@ -30,12 +30,12 @@ My goal is to try to make an exact replica with as few bugs as possible. Some th
 </a>
 
 # Some differences between this replica and the original:
-## Notes:
+### Notes:
 - alternative main menu backgrounds are not the same as Woolen's unfortunately
 - alternative backpack panel (right) - the Y of my item slots are 121px, while Woolen's are 132px - because of the screen real estate taken by the latest updates and I don't want to shrink the slots
 - Woolen probably doesn't use #base in his HUD
 
-## Changes I don't want to make:
+### Changes I don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
 - offset koth timers in tf_use_match_hud 1
 - a bit clipped killstreak counter, "?" in backpack etc.
