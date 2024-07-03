@@ -16,10 +16,10 @@ My goal is to try to make an exact replica with as few bugs as possible. Some th
 **This is not intended to reach the public eye at this moment as Woolen himself doesn't want to publish his HUD and I respect his decision.**
 
 ## Check Woolen out here:
-- [YouTube](https://youtube.com/@awoolensleevelet)
-- [Twitch](https://twitch.tv/awoolensleevelet)
-- [Twitter](https://twitter.com/WoolenSleevelet)
-- [Discord](https://discord.gg/woolen)
+<a href="https://youtube.com/@awoolensleevelet"><img src="https://www.gstatic.com/images/branding/product/1x/youtube_64dp.png" width="48" height="48"/></a>
+<a href="https://twitch.tv/awoolensleevelet"><img src="pictures/TwitchGlitchPurple.svg" width="48" height="48"/></a>
+<a href="https://twitter.com/WoolenSleevelet"><img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" width="48" height="48"/></a>
+<a href="https://discord.gg/woolen"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="48" height="48"/></a>
 
 ## Some differences between this replica and the original HUD:
 
