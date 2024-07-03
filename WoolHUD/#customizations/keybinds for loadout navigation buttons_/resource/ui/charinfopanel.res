@@ -2,6 +2,6 @@
 {
 	"BackButton"
 	{
-		"labelText"		"Back (&Q)"
+		"labelText"		"<< Back (&Q)"
 	}		
 }
