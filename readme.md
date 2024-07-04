@@ -11,7 +11,7 @@ This HUD is a replica of Woolen's HUD, as seen from his videos on YouTube, creat
 
 #customizations are not faithful to Woolen's original HUD, past or current versions, but there are some useful customizations in case you want them.
 
-My goal is to try to make an exact replica with as few bugs as possible. Some things are not faithful to the original HUD because they are either bugged or ugly.
+My goal is to try to make the best replica with as few bugs as possible. Some things are not faithful to the original HUD because they are either bugged or ugly.
 
 **This is not intended to reach the public eye at this moment as Woolen himself doesn't want to publish his HUD and I respect his decision.**
 
