@@ -318,6 +318,7 @@
 
 		"if_specialdelivery"
 		{
+			"ypos"		"r44"
 			"visible"	"1"
 		}
 	}
@@ -409,7 +410,7 @@
 		"wide"			"100"
 		"tall"			"100"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/objectives_flagpanel_carried_red"
 		"scaleImage"	"1"
 		
