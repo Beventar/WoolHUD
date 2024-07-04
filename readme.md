@@ -46,7 +46,6 @@ My goal is to try to make an exact replica with as few bugs as possible. Some th
 - a bit lower health position in alternative disguise status panel
 - a bit clipped cap x in alternative payload panel
 - a bit different positions in alternative payload panel
-- a bit different width of the alternative payload panel
 - bugged level label in main menu
 - different transparency of the red team name in scoreboard
 - clipped off endings of "y" etc. in alternative class loadout panels
