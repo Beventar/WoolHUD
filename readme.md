@@ -37,14 +37,13 @@ My goal is to try to make an exact replica with as few bugs as possible. Some th
 
 ### Changes I don't want to make:
 - stock, big gamemode orders (i.e. "Move your cart to destroy...")
-- offset koth timers in tf_use_match_hud 1
-- a bit clipped killstreak counter, "?" in backpack etc.
+- offset koth timer positions when using tf_use_match_hud 1
+- a bit clipped killstreak counter, "?" button in backpack etc.
 - clipped off pick up building/weapon icon in targetid
-- stock ctf panel
 - bulkier chat
 - probably a different mvm scoreboard
 - a bit lower health position in alternative disguise status panel
-- a bit clipped cap x in alternative payload panel
+- a bit clipped capnumplayers in alternative payload panel
 - a bit different positions in alternative payload panel
 - bugged level label in main menu
 - different transparency of the red team name in scoreboard
