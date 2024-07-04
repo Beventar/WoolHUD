@@ -284,7 +284,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"EscortItemImage"	
 			"xpos"			"24"
-			"ypos"			"86"
+			"ypos"			"85"
 			"zpos"			"1"
 			"wide"			"30"
 			"tall"			"30"
