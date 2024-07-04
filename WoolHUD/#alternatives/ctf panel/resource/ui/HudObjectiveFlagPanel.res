@@ -389,14 +389,15 @@
 
 	"PoisonIcon"
 	{
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
 	}
 
 	"PoisonTimeLabel"
 	{
-		"visible"		"0"
-		"enabled"		"0"
+		"ypos"			"r39"
 	}
 	
 	"SpecCarriedImage"
