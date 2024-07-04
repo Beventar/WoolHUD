@@ -28,3 +28,9 @@ My goal is to try to make an exact replica with as few bugs as possible. Some th
 <a href="https://discord.gg/woolen">
     <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="42" height="42">
 </a>
+
+# Credits
+Thank you to:
+- folks from HUDS.tf Discord server - for general help with the HUD
+- Whisker - for some elements from budhud
+- CriticalFlaw - for some elements from FlawHUD
