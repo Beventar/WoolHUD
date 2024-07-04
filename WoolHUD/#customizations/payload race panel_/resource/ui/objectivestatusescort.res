@@ -21,8 +21,8 @@
 			"zpos"			"3"
 			"tall"			"10"
 			"image"			"../hud/cart_track_neutral_opaque"
-			"xpos"			"c-60"
-			"wide"			"120"
+			"xpos"			"c-56"
+			"wide"			"114"
 		}	
 	}
 	
@@ -40,7 +40,6 @@
 	{
 		"if_multiple_trains"
 		{
-			"ypos"			"118"
 			"visible"		"0"
 			"enabled"		"0"
 		}
@@ -50,12 +49,12 @@
 	{
 		"if_multiple_trains"
 		{
-			"ypos"			"115"
+			"ypos"			"114"
 			"zpos"			"6"
-			"tall"			"8"
+			"tall"			"10"
 			"visible"		"1"
-			"xpos"			"c-60"
-			"wide"			"120"
+			"xpos"			"c-56"
+			"wide"			"116"
 		}
 	}		
 	
@@ -63,7 +62,7 @@
 	{
 		"if_multiple_trains"
 		{
-			"xpos"			"c-66"
+			"xpos"			"c-65"
 			"zpos"			"10"
 			"wide"			"10"
 			"tall"			"10"
@@ -72,12 +71,12 @@
 		
 		"if_multiple_trains_top"
 		{
-			"ypos"			"113"
+			"ypos"			"114"
 		}
 		
 		"if_multiple_trains_bottom"
 		{
-			"ypos"			"113"
+			"ypos"			"114"
 		}
 		
 		"if_multiple_trains_red"
