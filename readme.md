@@ -7,7 +7,7 @@
 </div>
 
 # Overview
-This HUD is a replica of Woolen's HUD as seen from his videos on YouTube. By default the newest version of the HUD is used, elements from the older versions can be found in the "#alternatives" folder. Just remove the "_" inside the folder from things you want to activate.
+This HUD is a replica of Woolen's HUD, as seen from his videos on YouTube, created using #base for elements from older versions and customizations. By default the newest version of the HUD is used, elements from the older versions can be found in the "#alternatives" folder. Just remove the "_" inside the folder from things you want to activate.
 
 #customizations are not faithful to Woolen's original HUD, past or current versions, but there are some useful customizations in case you want them.
 
