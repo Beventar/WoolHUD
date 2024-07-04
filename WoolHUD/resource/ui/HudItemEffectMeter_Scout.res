@@ -1,2 +1,2 @@
-#base	"../../#alternatives/item effect meters/resource/ui/HudItemEffectMeter_Scout.res"
+#base	"../../#alternatives/item effect meter labels/resource/ui/HudItemEffectMeter_Scout.res"
 #base	"HudItemEffectMeter_ScoutDefault.res"
