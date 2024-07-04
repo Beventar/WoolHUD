@@ -37,5 +37,6 @@ Thanks to:
 - Antwan - for an element from AntsHUD
 - Hypnotize - for the default HUD files and updating YaHUD OLD
 - JarateKing - for the TF2 HUD files reference
+- Revan - for the TF2 HUD files reference and the VS Code VDF plugin
 - Griever
 - Woolen - for creating his HUD
