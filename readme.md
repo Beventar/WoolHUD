@@ -30,7 +30,12 @@ My goal is to try to make an exact replica with as few bugs as possible. Some th
 </a>
 
 # Credits
-Thank you to:
-- folks from HUDS.tf Discord server - for general help with the HUD
+Thanks to:
+- folks from HUDS.tf Discord server - for general help
 - Whisker - for some elements from budhud
 - CriticalFlaw - for some elements from FlawHUD
+- Antwan - for an element from AntsHUD
+- Hypnotize - for the default HUD files and updating YaHUD OLD
+- JarateKing - for the TF2 HUD files reference
+- Griever
+- Woolen - for creating his HUD
