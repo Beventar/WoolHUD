@@ -30,11 +30,7 @@
 	{
 		"if_multiple_trains"
 		{
-			"xpos"			"138"
-			"zpos"			"5"
-			"wide"			"14"
-			"tall"			"14"
-			"image"			"../hud/cart_track_neutral_opaque"
+			"xpos"			"137"
 		}
 		
 		"if_multiple_trains_top"
@@ -45,16 +41,6 @@
 		"if_multiple_trains_bottom"
 		{
 			"ypos"			"113"
-		}
-		
-		"if_multiple_trains_red"
-		{
-			"image"			"../hud/cart_home_red_square"
-		}
-		
-		"if_multiple_trains_blue"
-		{
-			"image"			"../hud/cart_home_blue_square"
 		}
 	}
 }
