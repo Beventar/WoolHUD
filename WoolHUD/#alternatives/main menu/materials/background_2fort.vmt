@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "../#alternatives/main menu/materials/background_2fort"
+	"$baseTexture" "../#alternatives/#enabled/main menu/materials/background_2fort"
 	"$vertexcolor" 1
 	"$vertexalpha" 1
 	"$ignorez" 1

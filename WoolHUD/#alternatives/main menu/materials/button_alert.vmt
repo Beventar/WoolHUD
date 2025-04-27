@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "../#alternatives/main menu/materials/button_alert"
+	"$basetexture" "../#alternatives/#enabled/main menu/materials/button_alert"
 	"$translucent" 1
 	"$ignorez" 1
 	"$vertexcolor" 1
