@@ -11,7 +11,7 @@
 		"tall"			"480"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../../#alternatives/transparent viewmodels/materials/transparent"
+		"image"			"../../#alternatives/#enabled/transparent viewmodels/materials/transparent"
 		"scaleImage"	"1"
 	}
 }
