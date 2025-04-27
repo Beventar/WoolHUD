@@ -1,2 +1,2 @@
-#base	"../#alternatives/sourcescheme/resource/sourcescheme.res"
+#base	"../#alternatives/#enabled/sourcescheme/resource/sourcescheme.res"
 #base	"SourceSchemeDefault.res"

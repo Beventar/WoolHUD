@@ -1,2 +1,2 @@
-#base	"../../#alternatives/streamer mode/resource/ui/scoreboard.res"
+#base	"../../#alternatives/#enabled/streamer mode/resource/ui/scoreboard.res"
 #base	"ScoreBoardDefault.res"

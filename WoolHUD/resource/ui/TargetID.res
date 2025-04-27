@@ -1,4 +1,4 @@
-#base   "../../#alternatives/streamer mode/resource/ui/targetid.res"
-#base	"../../#alternatives/targetid/resource/ui/targetid.res"
-#base   "../../#alternatives/older targetid/resource/ui/targetid.res"
+#base   "../../#alternatives/#enabled/streamer mode/resource/ui/targetid.res"
+#base	"../../#alternatives/#enabled/targetid/resource/ui/targetid.res"
+#base   "../../#alternatives/#enabled/older targetid/resource/ui/targetid.res"
 #base	"TargetIDDefault.res"
