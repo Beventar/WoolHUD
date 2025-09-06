@@ -2,7 +2,7 @@
 
 ![](assets\WoolHUD-logo.webp)
 
-A replica of Woolen's HUD. By default the newest version of the HUD is used. Elements from the older versions can be found in the "#alternatives" folder. "#customizations" are not faithful to Woolen's original HUD but there are some useful customizations. My goal is to try to make the best replica with as few bugs as possible. Some things are not faithful to the original HUD because they are either bugged or ugly.
+A replica of Woolen's HUD. By default the newest version of the HUD is used. Elements from the older versions can be found in the "#alternatives" folder. "#customizations" are not faithful to Woolen's original HUD. My goal is to try to make the best replica with as few bugs as possible. Some things are not faithful to the original HUD because they are either bugged or ugly.
 
 #### Woolen:
 <a href="https://youtube.com/@awoolensleevelet">
