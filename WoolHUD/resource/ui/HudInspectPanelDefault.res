@@ -15,10 +15,13 @@
 		"PaintBackground"	"1"
 		"border"	"noborder"
 		
-		"model_ypos"		"10"
+		"model_ypos"		"20"
+		"model_center_y"	"1"
 		"model_center_x"	"1"
 		"model_wide"		"90"
 		"model_tall"		"60"
+		"noitem_use_fullpanel"  "0"
+		"resize_to_text"        "1"
 		
 		"text_xpos"		"10"
 		"text_ypos"		"10"
