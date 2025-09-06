@@ -13,4 +13,18 @@
 			"enabled"		"0"
 		}
 	}
+
+	"BuiltPanel"
+	{
+		"TeamColoredBG"
+		{
+			"visible"		"0"
+			"enabled"		"0"
+		}
+		"HealthBG"
+		{
+			"visible"				"0"
+			"enabled"				"0"
+		}
+	}
 }
