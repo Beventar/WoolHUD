@@ -15,5 +15,15 @@
 		"blue_active_xpos_minmode"			"12"
 		"red_active_xpos"			"116"
 		"red_active_xpos_minmode"			"116"
-	}	
+	}
+	HudArenaPlayerCount 
+	{
+		"fieldName"				"HudArenaPlayerCount"		
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"c-160"
+		"ypos"					"0"
+		"wide"					"f0"
+		"tall"					"50"
+	}
 }

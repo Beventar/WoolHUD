@@ -5,4 +5,5 @@
 #base   "../#alternatives/#enabled/game timers/scripts/hudlayout.res"
 #base   "../#alternatives/#enabled/lower spectator targetid/scripts/hudlayout.res"
 #base   "../#alternatives/#enabled/older targetid/scripts/hudlayout.res"
+#base   "../_basetf2hud/scripts/hudlayout.res"
 #base	"hudlayoutDefault.res"
