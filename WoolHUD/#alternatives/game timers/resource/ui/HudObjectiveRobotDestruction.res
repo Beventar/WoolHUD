@@ -261,7 +261,7 @@
 			"wide"					"300"
 			"tall"					"60"
 			"visible"				"0"
-			"enabled"				"1"
+			"enabled"				"0"
 			"proportionalToParent"	"1"
 		
 			"ScoreOutline"
@@ -275,7 +275,7 @@
 				"tall"					"f0"
 				"scaleimage"			"1"
 				"visible"				"0"
-				"enabled"				"1"
+				"enabled"				"0"
 				"Image"					"../hud/objectives_corepanel_bg"
 				"proportionalToParent"	"1"
 			}
