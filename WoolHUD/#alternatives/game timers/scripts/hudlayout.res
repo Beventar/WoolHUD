@@ -23,6 +23,7 @@
 		"enabled"				"1"
 		"xpos"					"c-160"
 		"ypos"					"0"
+		"zpos"					"5"
 		"wide"					"f0"
 		"tall"					"50"
 	}
