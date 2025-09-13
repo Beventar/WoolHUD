@@ -1,3 +1,4 @@
+#base   "../#customizations/#enabled/centered mvm money/scripts/hudlayout.res"
 #base   "../#alternatives/#enabled/streamer mode/scripts/hudlayout.res"
 #base	"../#alternatives/#enabled/targetid/scripts/hudlayout.res"
 #base   "../#alternatives/#enabled/transparent viewmodels/scripts/hudlayout.res"
