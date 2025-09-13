@@ -1719,67 +1719,68 @@
 				"tall"		"25"
 			}
 		}
-		"MapName"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"mapname"
-			"font"			"Medium9"
-			"font_minmode"		"Medium9"
-			"labelText"		"%mapname%"
-			"textAlignment"		"center"
-			"xpos"			"c-83"
-			"xpos_minmode"		"r198"
-			"ypos"			"r132"
-			"ypos_minmode"		"r165"
-			"zpos"			"3"
-			"wide"			"165"
-			"wide_minmode"		"110"
-			"tall"			"15"
-			"tall_minmode"		"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor"		"White"
+	}
 
-			if_mvm
-			{
-				"font"			"Medium9"
-				"xpos"			"c-91"
-				"ypos"			"r70"
-				"wide"			"178"
-			}	
-		}
-		"GameType"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"gametype"
-			"font"			"Medium9"
-			"font_minmode"		"Medium9"
-			"labelText"		"%gametype%"
-			"textAlignment"		"center"
-			"xpos"			"c-83"		//"c-83"
-			"xpos_minmode"		"r198"
-			"ypos"			"r122"
-			"ypos_minmode"		"r156"
-			"zpos"			"3"
-			"wide"			"165"
-			"wide_minmode"		"110"
-			"tall"			"15"
-			"tall_minmode"		"16"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor"		"White"
+	"MapName"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"mapname"
+		"font"			"Medium9"
+		"font_minmode"		"Medium9"
+		"labelText"		"%mapname%"
+		"textAlignment"		"center"
+		"xpos"			"c-83"
+		"xpos_minmode"		"r198"
+		"ypos"			"r76"
+		"ypos_minmode"		"r165"
+		"zpos"			"3"
+		"wide"			"165"
+		"wide_minmode"		"110"
+		"tall"			"15"
+		"tall_minmode"		"16"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor"		"White"
 
-			if_mvm
-			{
-				"font"			"Medium9"
-				"xpos"			"c-91"
-				"ypos"			"r60"
-				"wide"			"178"
-			}
+		if_mvm
+		{
+			"font"			"Medium9"
+			"xpos"			"c-91"
+			"ypos"			"r70"
+			"wide"			"178"
+		}	
+	}
+	"GameType"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"gametype"
+		"font"			"Medium9"
+		"font_minmode"		"Medium9"
+		"labelText"		"%gametype%"
+		"textAlignment"		"center"
+		"xpos"			"c-83"		//"c-83"
+		"xpos_minmode"		"r198"
+		"ypos"			"r66"
+		"ypos_minmode"		"r156"
+		"zpos"			"3"
+		"wide"			"165"
+		"wide_minmode"		"110"
+		"tall"			"15"
+		"tall_minmode"		"16"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor"		"White"
+
+		if_mvm
+		{
+			"font"			"Medium9"
+			"xpos"			"c-91"
+			"ypos"			"r60"
+			"wide"			"178"
 		}
 	}
 
