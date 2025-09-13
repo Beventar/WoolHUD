@@ -1748,7 +1748,7 @@
 		{
 			"font"			"Medium9"
 			"xpos"			"c-91"
-			"ypos"			"r70"
+			"ypos"			"r75"
 			"wide"			"178"
 		}	
 	}
@@ -1760,7 +1760,7 @@
 		"font_minmode"		"Medium9"
 		"labelText"		"%gametype%"
 		"textAlignment"		"center"
-		"xpos"			"c-83"
+		"xpos"			"c-83"		//"c-83"
 		"xpos_minmode"		"r138"
 		"ypos"			"r66"
 		"ypos_minmode"		"r11"
@@ -1771,8 +1771,8 @@
 		"tall_minmode"		"16"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fgcolor"		"White"
 
 		if_mvm
