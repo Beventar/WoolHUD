@@ -1730,7 +1730,7 @@
 		"labelText"		"%mapname%"
 		"textAlignment"		"center"
 		"xpos"			"c-83"
-		"xpos_minmode"		"r138"
+		"xpos_minmode"		"r142"
 		"ypos"			"r76"
 		"ypos_minmode"		"r20"
 		"zpos"			"3"
