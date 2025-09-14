@@ -3,5 +3,6 @@
 	"InWorldCurrencyPanel"
 	{
 		"xpos"				"r440"
+		"ypos"				"r135"
 	}
 }
