@@ -4,6 +4,12 @@
     {
         "visible"       "0"
         "enabled"       "0"
+
+		if_mvm
+		{
+			"visible"       "1"
+        	"enabled"       "1"
+		}
     }
     "MainBGRed"
     {
