@@ -99,6 +99,16 @@
 		"visible"		"0"
 		"enabled"		"0"
 	}
+	"Spectators"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	"SpectatorsInQueue"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
     "LocalPlayerStatsPanel"
     {
         "ypos"          "-300"
