@@ -167,7 +167,7 @@
 			"pinCorner"		"0"
 			"fillcolor"		"0 0 0 214"									
 			"visible"			"0"
-			"enabled"			"1"
+			"enabled"			"0"
 		}
 		"FreezeLabelKiller"
 		{	
@@ -225,7 +225,7 @@
 				"wide"			"161"
 				"tall"			"30"
 				"visible"		"0"
-				"enabled"		"1"
+				"enabled"		"0"
 				"image"			"../hud/color_panel_brown"
 				"scaleImage"		"1"	
 				
@@ -245,7 +245,7 @@
 				"wide"			"18"
 				"tall"			"18"
 				"visible"		"0"
-				"enabled"		"1"
+				"enabled"		"0"
 				"image"			"../hud/leaderboard_nemesis_freezecam"
 				"scaleImage"	"1"	
 			}		
@@ -262,7 +262,7 @@
 				"autoResize"		"0"
 				"pinCorner"		"0"
 				"visible"		"0"
-				"enabled"		"1"
+				"enabled"		"0"
 				"labelText"		"%nemesisname%"
 				"fgcolor"		"White"
 				"textAlignment"		"center"
@@ -280,7 +280,7 @@
 				"autoResize"		"0"
 				"pinCorner"		"0"
 				"visible"		"0"
-				"enabled"		"1"
+				"enabled"		"0"
 				"labelText"		"%nemesisadvice%"
 				"textAlignment"		"west"
 			}
