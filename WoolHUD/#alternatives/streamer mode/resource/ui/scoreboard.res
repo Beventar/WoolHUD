@@ -115,6 +115,7 @@
     }
 	"MapName"
 	{
-		"ypos"			"r430"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 }
