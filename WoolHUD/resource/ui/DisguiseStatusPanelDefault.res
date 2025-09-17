@@ -34,7 +34,7 @@
 		"tall"	 		"27"	
 		"fillcolor"		"0 0 0 214"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 	}
 
 	"DisguiseNameLabel"
