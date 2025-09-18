@@ -5,7 +5,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusFlagPanel"
 		"xpos"				"0"	
-		"ypos"				"-9"			//0
+		"ypos"				"-9"
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"490"
@@ -15,6 +15,11 @@
 		"if_hybrid"
 		{
 			"zpos"			"-1"
+		}
+
+		"if_mvm"
+		{
+			"ypos"		"-17"
 		}
 		
 	}
@@ -39,7 +44,7 @@
 		"labelText"		"o"
 		"textAlignment"		"center"
 		"xpos"			"c-89"
-		"ypos"			"r39"			//r39
+		"ypos"			"r39"
 		"zpos"			"2"
 		"wide"			"40"
 		"tall"			"41"
