@@ -4087,6 +4087,17 @@ Scheme
 			}
 		}
 		// this is the symbol font
+		"MarlettSmall"
+		{
+			"1"
+			{
+				"name"		"Marlett"
+				"tall"		"14"
+				"weight"	"0"
+				"symbol"	"1"
+				"range"		"0x0000 0x007F"
+			}
+		}
 		"Marlett"
 		{
 			"1"
