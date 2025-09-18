@@ -2,6 +2,6 @@
 {
     CHudAccountPanel
 	{
-		"ypos"			"r250"	
+		"ypos"			"r249"
 	}
 }
