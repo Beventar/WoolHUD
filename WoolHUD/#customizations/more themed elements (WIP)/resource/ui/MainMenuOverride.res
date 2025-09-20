@@ -2,6 +2,7 @@
 {
 	"TooltipPanel"
 	{
+		"zpos"					"15"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"		"55 51 49 255"
 		
