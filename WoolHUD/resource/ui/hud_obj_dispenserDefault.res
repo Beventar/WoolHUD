@@ -28,7 +28,7 @@
 	"Icon_Dispenser"
 	{
 		"ControlName"	"CIconPanel"
-		"fieldName"		"Icon"
+		"fieldName"		"Icon_Dispenser"
 		"xpos"			"15"
 		"ypos"			"3"
 		"wide"			"24"
