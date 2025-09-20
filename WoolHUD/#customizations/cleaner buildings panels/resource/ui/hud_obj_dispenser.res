@@ -75,10 +75,32 @@
 		"BuildingPanel"
 		{
 			"xpos"			"46"
+			
+			"BuildingProgress"
+			{	
+				"bgcolor_override"		"153 151 151 255"
+			}			
 		}
 		"RunningPanel"
 		{
 			"xpos"			"46"
+
+			"AmmoIcon"	
+			{
+				"drawcolor"		"White"
+			}
+			"Ammo"
+			{	
+				"bgcolor_override"		"153 151 151 255"
+			}
+			"UpgradeIcon"
+			{
+				"iconColor"		"White"
+			}
+			"Upgrade"
+			{	
+				"bgcolor_override"		"153 151 151 255"
+			}
 		}
 	}
 }

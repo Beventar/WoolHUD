@@ -1,0 +1,2 @@
+#base "../#customizations/#enabled/cleaner buildings panels/scripts/mod_textures.txt"
+#base "../_basetf2hud/scripts/mod_textures.txt"

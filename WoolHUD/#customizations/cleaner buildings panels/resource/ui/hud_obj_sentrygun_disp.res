@@ -75,10 +75,28 @@
 		"BuildingPanel"
 		{
 			"xpos"			"46"
+
+			"BuildingProgress"
+			{	
+				"bgcolor_override"		"153 151 151 255"
+			}
 		}
 		"RunningPanel"
 		{
 			"xpos"			"46"
+
+			"KillIcon"	
+			{
+				"drawcolor"		"White"
+			}
+			"ShellIcon"	
+			{
+				"drawcolor"		"White"
+			}
+			"Shells"
+			{	
+				"bgcolor_override"		"153 151 151 255"
+			}
 		}
 	}
 }
