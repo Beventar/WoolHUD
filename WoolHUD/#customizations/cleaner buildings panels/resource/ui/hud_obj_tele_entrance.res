@@ -1,4 +1,4 @@
-"Resource/UI/hud_obj_sentrygun_disp.res"
+"Resource/UI/hud_obj_tele_entrance.res"
 {
 	"NotBuiltPanel"
 	{
