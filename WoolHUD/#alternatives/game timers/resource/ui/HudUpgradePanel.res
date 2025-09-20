@@ -83,22 +83,27 @@
 		"tabPosition"		"0"
 		"bgcolor_override"	"63 59 55 0"
 		
-		"OuterPanelBit"
+		"OutterPanelBG"
 		{
-			"ControlName"	"Panel"
-			"fieldName"		"OuterPanelBit"
-			"xpos"			"0"
+			"ControlName"		"ScalableImagePanel"
+			"fieldName"		"OutterPanelBG"
+			"xpos"			"9999"
 			"ypos"			"0"
 			"zpos"			"-8"
 			"wide"			"500"
 			"tall"			"310"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
+			"image"			"../HUD/tournament_panel_brown"
+
+			"src_corner_height"	"23"	// pixels inside the image
+			"src_corner_width"	"23"
 			
-			"PaintBackgroundType" "0"
-			"bgcolor_override"	"36 36 36 255"
+			"draw_corner_width"	"8"		// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" "8"	
+
 		}
 		
 		
@@ -225,7 +230,7 @@
 			"visible"		"0"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"White"
+			"bgcolor_override"	"65 65 65 255"
 			"PaintBackgroundType"	"0"
 		}
 		
@@ -236,8 +241,8 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"10"
-			"wide"			"157"
-			"tall"			"47"
+			"wide"			"158"
+			"tall"			"48"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"0"
@@ -582,7 +587,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"121 195 58 255"
+			"fgcolor"		"HUDBGCT"
 		}
 		
 		"CreditsTextLabel"
@@ -692,6 +697,14 @@
 			"Command"		"respec"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+			"fgcolor"		"Black"
+			"bgcolor"		"Gray"
+			"defaultfgcolor_override"	"Black"
+			"defaultbgcolor_override"	"White"
+			"armedfgcolor_override"		"Black"
+			"armedbgcolor_override"		"Gray"
+			"depressedfgcolor_override"	"White"
+			"depressedbgcolor_override"	"Gray"
 		}
 	}	
 	
