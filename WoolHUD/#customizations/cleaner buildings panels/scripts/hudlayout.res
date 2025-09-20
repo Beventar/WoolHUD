@@ -2,6 +2,7 @@
 {
 	BuildingStatus_Engineer
 	{
-		"xpos"		"-14"
+		"xpos"		"-12"
+		"ypos"		"105"
 	}
 }
