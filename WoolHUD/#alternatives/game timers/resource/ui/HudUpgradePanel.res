@@ -102,10 +102,24 @@
 			"src_corner_width"	"23"
 			
 			"draw_corner_width"	"8"		// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" "8"	
-
+			"draw_corner_height" "8"
 		}
-		
+
+		"OuterPanelBG"
+		{
+			"ControlName"	"Panel"
+			"fieldName"		"OuterPanelBG"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"-8"
+			"wide"			"500"
+			"tall"			"310"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"bgcolor_override"		"35 35 35 255"
+		}
 		
 		"InnerPanelRim"
 		{
