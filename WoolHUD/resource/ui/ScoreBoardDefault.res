@@ -1748,7 +1748,7 @@
 		{
 			"font"			"Medium9"
 			"xpos"			"c-91"
-			"ypos"			"r75"
+			"ypos"			"r70"
 			"wide"			"178"
 		}	
 	}
