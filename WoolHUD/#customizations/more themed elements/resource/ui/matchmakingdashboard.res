@@ -42,7 +42,7 @@
 			"tall"		"f6"
 			"zpos"	"0"
 			"visible"		"0"
-			"enabled"		"0"
+			"enabled"		"1"
 			"rotation"		"2"
 			"proportionaltoparent"	"1"
 			"scaleimage"	"1"
@@ -61,9 +61,10 @@
 			"zpos"			"-1"
 			"wide"			"p1.1"
 			"tall"			"f5"
-			"visible"		"0"
+			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"border"		"ReplayDefaultBorder"
+			"border"		"NoBorder"
+			"bgcolor_override"	"ahudDarkGrey"
 			"proportionaltoparent"	"1"
 		}
 
@@ -76,7 +77,7 @@
 			"zpos"			"-2"
 			"wide"			"p1.1"
 			"tall"			"p1"
-			"visible"		"0"
+			"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"OuterShadowBorder"
 			"proportionaltoparent"	"1"
@@ -296,7 +297,8 @@
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
-				"border"		"ReplayDefaultBorder"
+				"border"		"ahudPanelBorder"
+				"bgcolor_override"	"ahudDarkGrey"
 			}
 
 			"QueueLogoButton"
@@ -323,10 +325,10 @@
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"3"
 				"button_activation_type"	"1"
-			
+
 				"paintbackground"	"0"
-				"paintborder"		"0"				
-			}		
+				"paintborder"		"0"
+			}
 
 			"CTFLogoPanel"
 			{
@@ -358,7 +360,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"font"			"HudFontSmallestBold"
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"ahudWhite"
 				"textAlignment"	"west"
 				"labelText"		"%queue_state%"
 				"proportionaltoparent"	"1"
@@ -386,7 +388,7 @@
 				"ControlName"	"CExImageButton"
 				"fieldName"		"MultiQueuesManageButton"
 				"xpos"			"rs1-6"
-				"ypos"			"11"
+				"ypos"			"12"
 				"zpos"			"10"
 				"wide"			"14"
 				"tall"			"14"
@@ -406,15 +408,15 @@
 				"Command"		"manage_queues"
 				"proportionaltoparent"	"1"
 				"actionsignallevel"	"3"
-			
+
 				"paintbackground"	"0"
-			
+
 				"defaultFgColor_override" "46 43 42 255"
 				"armedFgColor_override" "235 226 202 255"
 				"depressedFgColor_override" "46 43 42 255"
-			
-				"image_drawcolor"	"117 107 94 255"
-				"image_armedcolor"	"200 80 60 255"
+
+				"image_drawcolor"	"ahudWhite"
+				"image_armedcolor"	"0 191 255 255"
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
@@ -428,8 +430,8 @@
 					"enabled"		"1"
 					"image"			"glyph_options"
 					"scaleImage"	"1"
-				}				
-			}		
+				}
+			}
 
 			"CloseButton"
 			{
@@ -521,7 +523,8 @@
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
-				"border"		"ReplayDefaultBorder"
+				"border"		"ahudPanelBorder"
+				"bgcolor_override"	"ahudDarkGrey"
 			}
 
 			"PromptText"
@@ -541,7 +544,7 @@
 				"labelText"		"#TF_MM_JoinPartyLobby_Prompt"
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
-			}		
+			}
 
 			"JoinNowButton"
 			{
@@ -558,7 +561,7 @@
 					"xpos"			"cs-0.5"
 					"wide"			"150"
 				}
-				
+
 				"autoResize"	"0"
 				"pinCorner"		"3"
 				"visible"		"1"
@@ -648,6 +651,8 @@
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"110"
+			"wide"			"110" [!$POSIX]
+			"wide"			"115" [$POSIX]
 			"tall"			"f6"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -665,8 +670,8 @@
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"RoundedCorners"	"0"
-			"textinsety"	"5"
-			"textinsetx"	"22"
+			"textinsety"	"2.5"
+			"textinsetx"	"26"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -706,7 +711,8 @@
 			"xpos"			"rs1-31-131"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"90"
+			"wide"			"90" [!$POSIX]
+			"wide"			"95" [$POSIX]
 			"tall"			"f6"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -724,8 +730,8 @@
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"roundedcorners"	"1"
-			"textinsety"	"5"
-			"textinsetx"	"22"
+			"textinsety"	"2.5"
+			"textinsetx"	"26"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -764,7 +770,8 @@
 			"xpos"			"rs1-31"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"115"
+			"wide"			"115" [!$POSIX]
+			"wide"			"120" [$POSIX]
 			"tall"			"f6"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -782,8 +789,8 @@
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"roundedcorners"	"1"
-			"textinsety"	"5"
-			"textinsetx"	"25"
+			"textinsety"	"2.5"
+			"textinsetx"	"26"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"	"UI/buttonclick.wav"

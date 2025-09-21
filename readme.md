@@ -28,5 +28,7 @@ A replica of Woolen's HUD. By default the newest version of the HUD is used. Ele
 - Hypnotize - for the default HUD files and updating YaHUD OLD
 - JarateKing - for the TF2 HUD files reference
 - Revan - for the TF2 HUD files reference and the VS Code VDF plugin
+- n0kk - for creating ahud
+- Jakadak - for some elements from ahud-cc
 - Griever
 - Woolen - for creating his HUD
