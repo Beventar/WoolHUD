@@ -216,10 +216,10 @@
 	{
 		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton3"
-		"xpos"			"r64"
+		"xpos"			"r66"
 		"ypos"			"r82"
 		"zpos"			"3"
-		"wide"			"60"
+		"wide"			"62"
 		"tall"			"40"
 		"autoResize"	"0"
 		"pinCorner"		"2"
@@ -865,9 +865,8 @@
 		"wide"			"40"
 		"tall"			"40"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../HUD/arrow_big_down"
 		"scaleImage"	"1"	
 	}
 }
-
