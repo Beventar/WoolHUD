@@ -77,16 +77,16 @@ Scheme
 
 		Button.TextColor				"ahudWhite"
 		Button.BgColor					"ahudBlack"
-		Button.ArmedTextColor			"ahudWhite"
-		Button.ArmedBgColor				"ahudYellow"
+		Button.ArmedTextColor			"ahudBlack"
+		Button.ArmedBgColor				"ahudWhite"
 		Button.DepressedTextColor		"ahudWhite"
-		Button.DepressedBgColor			"ahudYellow"	
+		Button.DepressedBgColor			"ahudWhite"
 		Button.FocusBorderColor			"Blank"
 		
 		CheckButton.TextColor			"ahudDullWhite"
 		CheckButton.SelectedTextColor	"ahudWhite"
 		CheckButton.BgColor				"ahudBlack"
-		CheckButton.HighlightFgColor	"25 225 74 255"
+		CheckButton.HighlightFgColor	"ahudWhite"
 		CheckButton.ArmedBgColor		"Blank"
 		CheckButton.DepressedBgColor	"Blank"
 		CheckButton.Border1  			"Border.Dark" 		// the left checkbutton border
@@ -244,61 +244,61 @@ Scheme
 	
 	Fonts
 	{
-		"aBold35"
+		"Bold35"
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"35"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"aRegular16"
+		"Regular16"
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"AvenirLTStd-Medium"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"aRegular17"
+		"Regular17"
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"AvenirLTStd-Medium"
 				"tall"		"17"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"aRegular18"
+		"Regular18"
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"AvenirLTStd-Medium"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"aRegular19"
+		"Regular19"
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"AvenirLTStd-Medium"
 				"tall"		"19"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"aRegular20"
+		"Regular20"
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"AvenirLTStd-Medium"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -319,7 +319,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"AvenirLTStd-Medium"
 				"tall"		"18"
 				"weight"	"0"
 				"antialias"	"1"
@@ -330,7 +330,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"AvenirLTStd-Heavy"
 				"tall"		"35"
 				"antialias" "1"
 			}
@@ -722,13 +722,13 @@ Scheme
 		}
 		"2"
 		{
-			"font"	"resource/fonts/CodeProBold.otf"
-			"name"	"Code-Pro-Bold"
+			"font"	"resource/fonts/AvenirLTStd-Heavy.otf"
+			"name"	"AvenirLTStd-Heavy"
 		}
 		"3"
 		{
-			"font"	"resource/fonts/CodeProLC.otf"
-			"name"	"Code-Pro-LC"
+			"font"	"resource/fonts/AvenirLTStd-Medium.otf"
+			"name"	"AvenirLTStd-Medium"
 		}
 	}
 }
