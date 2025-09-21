@@ -22,19 +22,19 @@
 		"font"			"Medium8"
 		"labelText"		"%popfile%"
 		"textAlignment"	"center"
-		"xpos"			"c-91"
-		"ypos"			"r44"
+		"xpos"			"c-341"
+		"ypos"			"r364"
 		"wide"			"178"
 		"tall"			"15"
-		"fgcolor"		"White"
+		"fgcolor"		"Black"
 	}
 
 	"DifficultyContainer"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"DifficultyContainer"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"-272"
+		"ypos"			"-321"
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
@@ -66,7 +66,7 @@
 			"ypos"			"r38"
 			"wide"			"150"
 			"tall"			"20"
-			"fgcolor"		"White"
+			"fgcolor"		"Black"
 		}
 	}
 	
