@@ -1,3 +1,4 @@
+#base   "../#customizations/#enabled/building alerts v2/scripts/hudlayout.res"
 #base   "../#customizations/#enabled/centered mvm money/scripts/hudlayout.res"
 #base   "../#customizations/#enabled/cleaner buildings panels/scripts/hudlayout.res"
 #base   "../#alternatives/#enabled/streamer mode/scripts/hudlayout.res"
