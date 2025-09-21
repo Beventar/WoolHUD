@@ -766,8 +766,8 @@
 		"tall"			"40"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"bgcolor_override"	"0 0 0 0"
 
 		"TipPanelBG"
@@ -803,8 +803,8 @@
 			"tall"			"40"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"0"
-			"enabled"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"fillcolor"		"242 242 242 255"
 		}
 
@@ -822,8 +822,8 @@
 			"tall"			"40"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"0"
-			"enabled"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"wrap"			"1"
 			"fgcolor"		"0 0 0 200"
 		}
@@ -839,8 +839,8 @@
 			"tall"			"17"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"0"
-			"enabled"		"0"
+			"visible"		"1"
+			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		" > "
 			"textAlignment"	"center"
