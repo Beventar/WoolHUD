@@ -86,7 +86,7 @@ Scheme
 		CheckButton.TextColor			"ahudDullWhite"
 		CheckButton.SelectedTextColor	"ahudWhite"
 		CheckButton.BgColor				"ahudBlack"
-		CheckButton.HighlightFgColor	"ahudYellow"
+		CheckButton.HighlightFgColor	"25 225 74 255"
 		CheckButton.ArmedBgColor		"Blank"
 		CheckButton.DepressedBgColor	"Blank"
 		CheckButton.Border1  			"Border.Dark" 		// the left checkbutton border
