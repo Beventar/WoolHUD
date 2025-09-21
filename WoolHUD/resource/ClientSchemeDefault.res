@@ -7926,6 +7926,11 @@ Scheme
 			"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"4"	
 		}
+		HoAssBorder
+		{
+			"offset" "0 0"
+			"color"	"20 20 20 255"
+		}
 	}
 //////////////////////// CUSTOM FONT FILES /////////////////////////////
 	//
