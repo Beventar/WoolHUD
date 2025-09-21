@@ -23,21 +23,6 @@
 		"item_backpack_xdelta"			"4"
 		"item_backpack_ydelta"			"3"
 
-		"modelpanels_selection_kv"
-		{
-			"wide"			"94"
-			"tall"			"70"
-			"model_xpos"	"2"
-			"model_wide"	"90"
-			"model_tall"	"50"
-			"text_ypos"		"0"
-			"text_forcesize" "2"
-			"text_center"	"0"
-			"text_yoffset"	"2"
-			"inset_eq_y"	"55"
-			"deferred_description"        "1"
-            "deferred_icon"                        "1"
-		}
 		"modelpanels_kv"
 		{
 			"ControlName"	"CItemModelPanel"
