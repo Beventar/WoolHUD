@@ -25,7 +25,7 @@ A replica of Woolen's HUD. By default the newest version of the HUD is used. Ele
 - Whisker - for some elements from budhud
 - CriticalFlaw - for some elements from FlawHUD
 - Antwan - for an element from AntsHUD
-- Hypnotize - for the default HUD files and updating YaHUD OLD
+- Hypnotize - for the default HUD files and updating Yahud Old
 - JarateKing - for the TF2 HUD files reference
 - Revan - for the TF2 HUD files reference and the VS Code VDF plugin
 - n0kk - for creating ahud
