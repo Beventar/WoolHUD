@@ -14,9 +14,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"Black"
-		"infocus_bgcolor_override" 		"Black"
-		"outoffocus_bgcolor_override" 	"Black"
+		//"bgcolor_override"				"Black"
+		//"infocus_bgcolor_override" 		"Black"
+		//"outoffocus_bgcolor_override" 	"Black"
 
 		"item_xpos_offcenter_a"	"70"
 		"item_xpos_offcenter_b"	"230"
@@ -709,5 +709,52 @@
 				"scaleImage"	"1"
 			}
 		}
+	}
+	"ZoomInfoLabel"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	
+	"ZoomInfo"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	
+	"MoveInfoLabel"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	
+	"MoveInfo"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	
+	"RotateInfoLabel"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	
+	"RotateInfo"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	
+	"LightInfoLabel"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	
+	"LightInfo"
+	{
+		"visible"		"0"
+		"enabled"		"0"
 	}
 }
