@@ -1968,7 +1968,7 @@
 		"tall"			"41"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../../materials/vgui/class_portraits_blue"
+		"image"			""
 		"scaleImage"	"1"
 	}
 	"TipText"
