@@ -290,6 +290,12 @@
 		"defaultSelectionBG2Color_override" "0 0 0 0"
 	}
 
+	"NameFilterLabel"
+	{
+		"visible"		"0"
+		"enabled"		"0"
+	}
+
 	"NameFilterTextEntry"
 	{
 		"ControlName"		"TextEntry"
