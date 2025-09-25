@@ -38,7 +38,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PassiveAttribsLabel"
-		"font"			"DefaultSmall" //Regular12
+		"font"			"DefaultVerySmall" //Regular12
 		"xpos"			"c-135"
 		"ypos"			"110"
 		"zpos"			"2"
