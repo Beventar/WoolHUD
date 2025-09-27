@@ -20,6 +20,24 @@ A replica of Woolen's HUD. By default the newest version of the HUD is used. Ele
 
 </div>
 
+For the best possible experience, I recommend enabling:
+
+**#alternatives**
+- control point
+- game timers
+- main menu normal names
+- payload panel
+- critical damage numbers
+
+**#customizations**
+- centered metal
+- centered mvm money
+- class loadout panel options
+- cleaner buildings panels
+- more themed elements
+- payload race panel
+- rectangular killstreak notice
+
 # Credits
 - folks from HUDS.tf Discord server - for general help
 - Whisker - for some elements from budhud
