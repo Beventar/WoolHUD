@@ -21,7 +21,7 @@ Scheme
 		Econ.Button.BgColor									"ahudBlack"
 		Econ.Button.FgColor									"ahudDullWhite"
 		Econ.Button.ArmedBgColor							"ahudDullWhite"
-		Econ.Button.ArmedFgColor							"ahudBlack"
+		//Econ.Button.ArmedFgColor							"ahudBlack"
 		Econ.Button.ArmedTextColor							"ahudWhite"
 		Econ.Button.DepressedBgColor						"ahudDullWhite"
 		Econ.Button.DepressedFgColor						"Black"
