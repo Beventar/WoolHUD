@@ -42,14 +42,14 @@ For the best possible experience, I recommend enabling:
 - rectangular killstreak notice
 
 # Credits
-- folks from HUDS.tf Discord server - for general help
-- Whisker - for some elements from budhud
-- CriticalFlaw - for some elements from FlawHUD
-- Antwan - for an element from AntsHUD
-- Hypnotize - for the default HUD files and updating Yahud Old
-- JarateKing - for the TF2 HUD files reference
-- Revan - for the TF2 HUD files reference and the VS Code VDF plugin
-- n0kk - for creating ahud
-- Jakadak - for some elements from ahud-cc
-- Griever
-- Woolen - for creating his HUD
+- folks from [HUDS.tf Discord server](https://discord.com/invite/Hz3Q4Z8): General help
+- [Whisker](https://github.com/rbjaxter): Some elements from budhud
+- [CriticalFlaw](https://github.com/CriticalFlaw): Some elements from FlawHUD
+- [Antwan](https://github.com/AsianAntwan): Class loadout panel from AntsHUD
+- [Hypnotize](https://github.com/Hypnootize): Default HUD files, Updating Yahud Old
+- [JarateKing](https://github.com/JarateKing): TF2 HUD files reference
+- [Revan](https://github.com/cooolbros): TF2 HUD files reference, VS Code VDF plugin
+- [n0kk](https://github.com/n0kk): Creating ahud
+- [Jakadak](https://github.com/jakadak): Some elements from ahud-cc
+- [Griever](https://steamcommunity.com/id/griiver/): Chat
+- Woolen: Creating his HUD
