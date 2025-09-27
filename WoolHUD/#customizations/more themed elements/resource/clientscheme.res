@@ -30,8 +30,8 @@ Scheme
 		Econ.Button.PresetArmedColorFg						"ahudWhite"
 		Econ.Button.PresetDepressedColorFg					"ahudWhite"
 
-		Econ.Button.PresetDefaultColorBg					"ahudGreen"
-		Econ.Button.PresetArmedColorBg						"ahudGreen"
+		Econ.Button.PresetDefaultColorBg					"100 100 100 255"
+		Econ.Button.PresetArmedColorBg						"100 100 100 255"
 		Econ.Button.PresetDepressedColorBg					"ahudDullWhite"
 
 		Econ.Button.Border.Default							"ahudWhite"
