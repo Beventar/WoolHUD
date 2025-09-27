@@ -1,3 +1,5 @@
+#base "hud_obj_base.res"
+
 "Resource/UI/hud_obj_tele_exit.res"
 {
 	"NotBuiltPanel"
@@ -58,19 +60,6 @@
 			"xpos"			"9999"
 			"visible"		"0"
 			"enabled"		"0"
-		}
-		"SapperIcon"
-		{
-			"ControlName"	"CIconPanel"
-			"fieldName"		"SapperIcon"
-			"xpos"			"120"
-			"ypos"			"6"
-			"zpos"			"1"
-			"wide"			"20"
-			"tall"			"20"
-			"scaleImage"	"1"	
-			"icon"			"obj_status_icon_sapper"
-			"iconColor"		"255 255 255 255"
 		}
 		"BuildingPanel"
 		{
