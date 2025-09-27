@@ -18,7 +18,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TipSubLabel"
-			"font"			"aRegular10"
+			"font"			"Regular10"
 			"labelText"		"%tipsubtext%"
 			"textAlignment"	"center"
 			"xpos"			"20"
@@ -37,7 +37,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TipLabel"
-			"font"			"aRegular12"
+			"font"			"Regular12"
 			"labelText"		"%tiptext%"
 			"textAlignment"	"center"
 			"xpos"			"20"
@@ -51,5 +51,33 @@
 			"fgcolor_override"	"ahudWhite"
 			"auto_wide_tocontents" "1"
 		}
+	}
+	"MOTD_Panel"
+	{
+		"MOTD_CloseButton"
+		{
+			//"defaultFgColor_override" "235 226 202 255"
+			//"armedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "46 43 42 255"
+			"armedFgColor_override" "235 226 202 255"
+			"depressedFgColor_override" "46 43 42 255"
+			
+			"image_drawcolor"	"235 226 202 255"
+			"image_armedcolor"	"200 80 60 255"
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"2"
+				"ypos"			"2"
+				"zpos"			"1"
+				"wide"			"10"
+				"tall"			"10"
+				"visible"		"1"
+				"enabled"		"1"
+				"image"			"../../materials/vgui/replay/thumbnails/buttons/x"
+				"scaleImage"	"1"
+			}				
+		}	
 	}
 }

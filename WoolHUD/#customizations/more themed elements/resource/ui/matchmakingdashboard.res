@@ -471,14 +471,14 @@
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"0"
-					"ypos"			"0"
+					"xpos"			"2"
+					"ypos"			"2"
 					"zpos"			"1"
-					"wide"			"14"
-					"tall"			"14"
+					"wide"			"10"
+					"tall"			"10"
 					"visible"		"1"
 					"enabled"		"1"
-					"image"			"close_button"
+					"image"			"../../materials/vgui/replay/thumbnails/buttons/x"
 					"scaleImage"	"1"
 				}				
 			}		
