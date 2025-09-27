@@ -1,0 +1,2 @@
+#base "../../../#customizations/#enabled/more themed elements/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
+#base "../../../_basetf2hud/resource/ui/econ/confirmtransmogrifyapplicationdialog.res"
