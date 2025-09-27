@@ -20,6 +20,8 @@ A replica of Woolen's HUD. By default the newest version of the HUD is used. Ele
 
 </div>
 
+---
+
 For the best possible experience, I recommend enabling:
 
 **#alternatives**
