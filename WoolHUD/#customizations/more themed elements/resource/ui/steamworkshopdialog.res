@@ -4,60 +4,60 @@
 	{
 		"ControlName"	"CSteamWorkshopDialog"
 		"fieldName"		"SteamWorkshopDialog"
-		"xpos"		"0"
-		"ypos"		"0"
-		"wide"		"f0"
-		"tall"		"f0"
-		"autoResize"		"0"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"f0"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"HudBlack"
+		"bgcolor_override"	"10 10 10 225"
 	}
 
 	"Container"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
-		"xpos"		"c-300"
-		"ypos"		"c-200"
-		"wide"		"600"
-		"tall"		"400"
-		"autoResize"		"0"
+		"xpos"			"c-300"
+		"ypos"			"c-200"
+		"wide"			"600"
+		"tall"			"400"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"border"				"HoAssBorder"
+		"border"				"NoBorder"
 
 		"Background"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"Background"
-			"xpos"		"0"
-			"ypos"		"0"
-			"wide"		"600"
-			"tall"		"400"
-			"autoResize"		"0"
+			"xpos"			"0"
+			"ypos"			"0"
+			"wide"			"600"
+			"tall"			"400"
+			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"0 0 0 255"
 		}
 
 		"WorkshopBranding"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"WorkshopBranding"
-			"xpos"			"12"
-			"ypos"			"12"
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"0"
-			"wide"			"575"
-			"tall"			"293"
+			"wide"			"600"
+			"tall"			"300"
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"workshop_branding"
@@ -68,34 +68,34 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BackgroundBottom"
-			"xpos"		"0"
-			"ypos"		"355"
-			"wide"		"600"
-			"tall"		"45"
-			"autoResize"		"0"
+			"xpos"			"0"
+			"ypos"			"355"
+			"wide"			"600"
+			"tall"			"45"
+			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"0 0 0 255"
 		}
 
 		"NoItemsContainer"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"NoItemsContainer"
-			"xpos"		"25"
-			"ypos"		"60"
-			"wide"		"550"
-			"tall"		"245"
-			"autoResize"		"0"
+			"xpos"			"25"
+			"ypos"			"60"
+			"wide"			"550"
+			"tall"			"245"
+			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
-			"border"		"HoAssBorder"
+			"border"		"NoBorder"
 
 			"TitleLabel"
 			{
@@ -115,11 +115,30 @@
 				"enabled"		"1"
 				"fgcolor_override" "ahudWhite"
 			}
+			
+			"TitleLabelShadow"
+			{
+				"ControlName"		"CExLabel"
+				"fieldName"		"TitleLabelShadow"
+				"font"			"HudFontMediumBold"
+				"labelText"		"#TF_SteamWorkshop_Title"
+				"textAlignment"	"center"
+				"xpos"			"1"
+				"ypos"			"16"
+				"zpos"			"1"
+				"wide"			"550"
+				"tall"			"20"
+				"autoResize"	"1"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"enabled"		"1"
+				"fgcolor_override" "ShadowBlack"
+			}
 
 			"DescLabel"
 			{
 				"ControlName"		"CExLabel"
-				"fieldName"		"DescLabel"
+				"fieldName"		"TitleLabel"
 				"font"			"HudFontSmall"
 				"labelText"		"#TF_SteamWorkshop_Desc"
 				"textAlignment"	"north"
@@ -141,7 +160,7 @@
 				"ControlName"	"CExButton"
 				"fieldName"		"LearnMoreButton"
 				"xpos"			"175"
-				"ypos"			"165"
+				"ypos"			"220"
 				"zpos"			"20"
 				"wide"			"200"
 				"tall"			"25"
@@ -156,6 +175,15 @@
 				"Command"		"learn_more"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
+				"paintbackground"	"1"
+				"defaultBgColor_override"	"20 20 20 255"
+				"armedBgColor_override"		"ahudDullWhite"
+				"depressedBgColor_override"	"20 20 20 255"
+				"defaultFgColor_override"	"ahudWhite"
+				"armedFgColor_override" 	"ahudWhite"
+				"depressedFgColor_override" "ahudWhite"
+				"border_default"			"NoBorder"
+				"border_armed"				"NoBorder"
 			}
 		}
 
@@ -163,19 +191,19 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"ItemsContainer"
-			"xpos"		"25"
-			"ypos"		"60"
+			"xpos"			"25"
+			"ypos"			"60"
 			"zpos"		"1"
-			"wide"		"550"
-			"tall"		"245"
-			"autoResize"		"0"
+			"wide"			"550"
+			"tall"			"245"
+			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"1"
 			"tabPosition"		"0"
 			"PaintBackgroundType"	"0"
 			"paintbackground"		"1"
-			"border"		"HoAssBorder"
+			"border"		"MainMenuHighlightBorder"
 
 			"TitleLabel"
 			{
@@ -193,17 +221,17 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fgcolor_override" "ahudWhite"
+				"fgcolor_override" "86 78 68 255"
 			}
-
+			
 			"SteamWorkshopItem0"
 			{
 				"ControlName"	"CSteamWorkshopItemPanel"
 				"fieldName"		"SteamWorkshopItem0"
-				"xpos"		"15"
-				"ypos"		"30"
-				"wide"		"125"
-				"tall"		"200"
+				"xpos"			"15"
+				"ypos"			"30"
+				"wide"			"125"
+				"tall"			"200"
 				"pinCorner"		"0"
 				"visible"		"1"
 			}
@@ -212,10 +240,10 @@
 			{
 				"ControlName"	"CSteamWorkshopItemPanel"
 				"fieldName"		"SteamWorkshopItem1"
-				"xpos"		"147"
-				"ypos"		"30"
-				"wide"		"125"
-				"tall"		"200"
+				"xpos"			"147"
+				"ypos"			"30"
+				"wide"			"125"
+				"tall"			"200"
 				"pinCorner"		"0"
 				"visible"		"1"
 			}
@@ -224,10 +252,10 @@
 			{
 				"ControlName"	"CSteamWorkshopItemPanel"
 				"fieldName"		"SteamWorkshopItem2"
-				"xpos"		"279"
-				"ypos"		"30"
-				"wide"		"125"
-				"tall"		"200"
+				"xpos"			"279"
+				"ypos"			"30"
+				"wide"			"125"
+				"tall"			"200"
 				"pinCorner"		"0"
 				"visible"		"1"
 			}
@@ -236,14 +264,14 @@
 			{
 				"ControlName"	"CSteamWorkshopItemPanel"
 				"fieldName"		"SteamWorkshopItem3"
-				"xpos"		"411"
-				"ypos"		"30"
-				"wide"		"125"
-				"tall"		"200"
+				"xpos"			"411"
+				"ypos"			"30"
+				"wide"			"125"
+				"tall"			"200"
 				"pinCorner"		"0"
 				"visible"		"1"
 			}
-
+		
 			"PrevPageButton"
 			{
 				"ControlName"	"CExButton"
@@ -266,8 +294,17 @@
 				"Command"		"prevpage"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
-			}
-
+				"paintbackground"	"1"
+				"defaultBgColor_override"	"ahudBlack"
+				"armedBgColor_override"		"ahudDullWhite"
+				"depressedBgColor_override"	"ahudDullWhite"
+				"defaultFgColor_override"	"ahudWhite"
+				"armedFgColor_override" 	"ahudWhite"
+				"depressedFgColor_override" "ahudWhite"
+				"border_default"			"NoBorder"
+				"border_armed"				"NoBorder"
+			}		
+			
 			"CurPageLabel"
 			{
 				"ControlName"	"CExLabel"
@@ -284,9 +321,9 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fgcolor_override" "200 80 60 255"
+				"fgcolor_override" "ahudWhite"
 			}
-
+			
 			"NextPageButton"
 			{
 				"ControlName"	"CExButton"
@@ -301,16 +338,14 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"labelText"		">"
+				"labelText"		"&D"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"nextpage"
-				"sound_depressed"	"UI/buttonclick.wav"
-				"sound_released"	"UI/buttonclickrelease.wav"
-			}
-
+			}	
+		
 			"ViewPublishedButton"
 			{
 				"ControlName"	"CExButton"
@@ -334,8 +369,17 @@
 				"Command"		"view_files"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
+				"paintbackground"	"1"
+				"defaultBgColor_override"	"ahudBlack"
+				"armedBgColor_override"		"ahudDullWhite"
+				"depressedBgColor_override"	"ahudDullWhite"
+				"defaultFgColor_override"	"ahudWhite"
+				"armedFgColor_override" 	"ahudWhite"
+				"depressedFgColor_override" "ahudWhite"
+				"border_default"			"NoBorder"
+				"border_armed"				"NoBorder"
 			}
-
+		
 			"EditButton"
 			{
 				"ControlName"	"CExImageButton"
@@ -358,11 +402,21 @@
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
+				"paintbackground"	"1"
+				"defaultBgColor_override"	"ahudBlack"
+				"armedBgColor_override"		"ahudDullWhite"
+				"depressedBgColor_override"	"ahudDullWhite"
+				"defaultFgColor_override"	"ahudWhite"
+				"armedFgColor_override" 	"ahudWhite"
+				"depressedFgColor_override" "ahudWhite"
+				"border_default"			"NoBorder"
+				"border_armed"				"NoBorder"
+				
 				"labelText"		"#TF_SteamWorkshop_Edit"
 				"command"		"edit"
-
-				"image_drawcolor"	"ahudWhite"
-				"image_disabledcolor" "ahudBlack"
+				
+				"image_drawcolor"	"255 255 255 255"
+				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
 				{
@@ -377,7 +431,7 @@
 					"enabled"		"1"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_edit"
-				}
+				}		
 			}
 
 			"ViewButton"
@@ -402,11 +456,21 @@
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
+				"paintbackground"	"1"
+				"defaultBgColor_override"	"ahudBlack"
+				"armedBgColor_override"		"ahudDullWhite"
+				"depressedBgColor_override"	"ahudDullWhite"
+				"defaultFgColor_override"	"ahudWhite"
+				"armedFgColor_override" 	"ahudWhite"
+				"depressedFgColor_override" "ahudWhite"
+				"border_default"			"NoBorder"
+				"border_armed"				"NoBorder"
+				
 				"labelText"		"#TF_SteamWorkshop_View"
-				"command"		"view"
-
-				"image_drawcolor"	"ahudWhite"
-				"image_disabledcolor" "ahudBlack"
+				"command"		"view"				
+				
+				"image_drawcolor"	"255 255 255 255"
+				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
 				{
@@ -421,7 +485,7 @@
 					"enabled"		"1"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_view"
-				}
+				}		
 			}
 
 			"DeleteButton"
@@ -446,11 +510,21 @@
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
+				"paintbackground"	"1"
+				"defaultBgColor_override"	"ahudBlack"
+				"armedBgColor_override"		"ahudDullWhite"
+				"depressedBgColor_override"	"ahudDullWhite"
+				"defaultFgColor_override"	"ahudWhite"
+				"armedFgColor_override" 	"ahudWhite"
+				"depressedFgColor_override" "ahudWhite"
+				"border_default"			"NoBorder"
+				"border_armed"				"NoBorder"
+				
 				"labelText"		"#TF_SteamWorkshop_Delete"
 				"command"		"delete_item"
-
-				"image_drawcolor"	"ahudWhite"
-				"image_disabledcolor" "ahudBlack"
+				
+				"image_drawcolor"	"255 255 255 255"
+				"image_disabledcolor" "0 0 0 255"
 
 				"SubImage"
 				{
@@ -465,7 +539,7 @@
 					"enabled"		"1"
 					"scaleImage"	"1"
 					"image"			"glyph_workshop_delete"
-				}
+				}		
 			}
 		}
 
@@ -484,11 +558,20 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#TF_SteamWorkshop_BrowseTheWorkshop"
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"Command"		"browse"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+			"paintbackground"	"1"
+			"defaultBgColor_override"	"ahudBlack"
+			"armedBgColor_override"		"ahudDullWhite"
+			"depressedBgColor_override"	"ahudBlack"
+			"defaultFgColor_override"	"ahudWhite"
+			"armedFgColor_override" 	"ahudWhite"
+			"depressedFgColor_override" "ahudWhite"
+			"border_default"			"NoBorder"
+			"border_armed"				"NoBorder"
 		}
 
 		"LoadTestMapButton"
@@ -511,6 +594,15 @@
 			"Command"		"itemtest"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+			"paintbackground"	"1"
+			"defaultBgColor_override"	"20 20 20 255"
+			"armedBgColor_override"		"ahudDullWhite"
+			"depressedBgColor_override"	"20 20 20 255"
+			"defaultFgColor_override"	"ahudWhite"
+			"armedFgColor_override" 	"ahudWhite"
+			"depressedFgColor_override" "ahudWhite"
+			"border_default"			"NoBorder"
+			"border_armed"				"NoBorder"
 		}
 
 		"PublishButton"
@@ -533,7 +625,16 @@
 			"Command"		"publish"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-		}
+			"paintbackground"	"1"
+			"defaultBgColor_override"	"20 20 20 255"
+			"armedBgColor_override"		"ahudDullWhite"
+			"depressedBgColor_override"	"20 20 20 255"
+			"defaultFgColor_override"	"ahudWhite"
+			"armedFgColor_override" 	"ahudWhite"
+			"depressedFgColor_override" "ahudWhite"
+			"border_default"			"NoBorder"
+			"border_armed"				"NoBorder"
+		}		
 
 		"LearnMore2Button"
 		{
@@ -555,6 +656,10 @@
 			"Command"		"learn_more"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+			
+			"defaultBgColor_override"	"20 20 20 255"
+			"armedBgColor_override"		"ahudDullWhite"
+			"depressedBgColor_override"	"20 20 20 255"
 		}
 
 		"ViewLegalAgreementButton"
@@ -580,6 +685,17 @@
 			"Command"		"view_legal_agreement"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+			
+			"defaultBgColor_override"	"20 20 20 255"
+			"armedBgColor_override"		"ahudDullWhite"
+			"depressedBgColor_override"	"20 20 20 255"
+			
+			"defaultFgColor_override"	"ahudWhite"
+			"armedFgColor_override" 	"ahudWhite"
+			"depressedFgColor_override" "ahudWhite"
+			
+			"border_default"			"NoBorder"
+			"border_armed"				"NoBorder"
 		}
 
 		"CancelButton"
@@ -596,7 +712,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"labelText"		"#TF_Close"
+			"labelText"		"Close"
 			"font"			"HudFontSmallBold"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
@@ -605,6 +721,17 @@
 			"Command"		"cancel"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-		}
+			
+			"defaultBgColor_override"	"20 20 20 255"
+			"armedBgColor_override"		"ahudDullWhite"
+			"depressedBgColor_override"	"20 20 20 255"
+			
+			"defaultFgColor_override"	"ahudWhite"
+			"armedFgColor_override" 	"ahudWhite"
+			"depressedFgColor_override" "ahudWhite"
+			
+			"border_default"			"NoBorder"
+			"border_armed"				"NoBorder"
+		}			
 	}
 }
