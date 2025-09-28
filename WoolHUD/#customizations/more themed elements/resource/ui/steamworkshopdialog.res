@@ -176,9 +176,9 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"paintbackground"	"1"
-				"defaultBgColor_override"	"20 20 20 255"
+				"defaultBgColor_override"	"ahudBlack"
 				"armedBgColor_override"		"ahudDullWhite"
-				"depressedBgColor_override"	"20 20 20 255"
+				"depressedBgColor_override"	"ahudBlack"
 				"defaultFgColor_override"	"ahudWhite"
 				"armedFgColor_override" 	"ahudWhite"
 				"depressedFgColor_override" "ahudWhite"
@@ -221,7 +221,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fgcolor_override" "86 78 68 255"
+				"fgcolor_override" "ahudWhite"
 			}
 			
 			"SteamWorkshopItem0"
@@ -595,9 +595,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"1"
-			"defaultBgColor_override"	"20 20 20 255"
+			"defaultBgColor_override"	"ahudBlack"
 			"armedBgColor_override"		"ahudDullWhite"
-			"depressedBgColor_override"	"20 20 20 255"
+			"depressedBgColor_override"	"ahudBlack"
 			"defaultFgColor_override"	"ahudWhite"
 			"armedFgColor_override" 	"ahudWhite"
 			"depressedFgColor_override" "ahudWhite"
@@ -626,9 +626,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"1"
-			"defaultBgColor_override"	"20 20 20 255"
+			"defaultBgColor_override"	"ahudBlack"
 			"armedBgColor_override"		"ahudDullWhite"
-			"depressedBgColor_override"	"20 20 20 255"
+			"depressedBgColor_override"	"ahudBlack"
 			"defaultFgColor_override"	"ahudWhite"
 			"armedFgColor_override" 	"ahudWhite"
 			"depressedFgColor_override" "ahudWhite"
@@ -657,9 +657,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"defaultBgColor_override"	"20 20 20 255"
+			"defaultBgColor_override"	"ahudBlack"
 			"armedBgColor_override"		"ahudDullWhite"
-			"depressedBgColor_override"	"20 20 20 255"
+			"depressedBgColor_override"	"ahudBlack"
 		}
 
 		"ViewLegalAgreementButton"
@@ -686,9 +686,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"defaultBgColor_override"	"20 20 20 255"
+			"defaultBgColor_override"	"ahudBlack"
 			"armedBgColor_override"		"ahudDullWhite"
-			"depressedBgColor_override"	"20 20 20 255"
+			"depressedBgColor_override"	"ahudBlack"
 			
 			"defaultFgColor_override"	"ahudWhite"
 			"armedFgColor_override" 	"ahudWhite"
@@ -722,9 +722,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"defaultBgColor_override"	"20 20 20 255"
+			"defaultBgColor_override"	"ahudBlack"
 			"armedBgColor_override"		"ahudDullWhite"
-			"depressedBgColor_override"	"20 20 20 255"
+			"depressedBgColor_override"	"ahudBlack"
 			
 			"defaultFgColor_override"	"ahudWhite"
 			"armedFgColor_override" 	"ahudWhite"
