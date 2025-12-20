@@ -53,4 +53,4 @@ For the best possible experience, I recommend enabling:
 - [Jakadak](https://github.com/jakadak): Elements from ahud-cc
 - [Griever](https://steamcommunity.com/id/griiver/): Chat from ToonHUD
 - [Sevin](https://github.com/Sevin7): Player destruction, Robot destruction panels from 7HUD
-- Woolen: Creating his HUD
+- Woolen: Creating his HUD, Permission for publishing
