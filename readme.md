@@ -42,6 +42,7 @@ For the best possible experience, I recommend enabling:
 - rectangular killstreak notice
 
 # Credits
+- Woolen: Creating his HUD, Permission for publishing
 - folks from [HUDS.tf Discord server](https://discord.com/invite/Hz3Q4Z8): General help
 - [Whisker](https://github.com/rbjaxter): Elements from budhud
 - [CriticalFlaw](https://github.com/CriticalFlaw): Elements from FlawHUD
@@ -53,4 +54,3 @@ For the best possible experience, I recommend enabling:
 - [Jakadak](https://github.com/jakadak): Elements from ahud-cc
 - [Griever](https://steamcommunity.com/id/griiver/): Chat from ToonHUD
 - [Sevin](https://github.com/Sevin7): Player destruction, Robot destruction panels from 7HUD
-- Woolen: Creating his HUD, Permission for publishing
