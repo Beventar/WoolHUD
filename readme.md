@@ -45,8 +45,10 @@ For the best possible experience, I recommend enabling:
 - payload race panel
 - rectangular killstreak notice
 
-# Credits
+# Special thanks
 - Woolen: Creating his HUD, Permission to publish
+
+# Credits
 - [JarateKing](https://github.com/JarateKing): TF2 HUD files reference
 - [Revan](https://github.com/cooolbros): TF2 HUD files reference, VS Code VDF plugin
 - [Hypnotize](https://github.com/Hypnootize): Default HUD files, Updating Yahud Old
