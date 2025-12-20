@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](assets/WoolHUD-banner.webp)
+![Banner](WoolHUD-banner.webp)
 
 <p>
     <a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a>
