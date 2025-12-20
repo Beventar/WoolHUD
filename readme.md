@@ -47,13 +47,13 @@ For the best possible experience, I recommend enabling:
 
 # Credits
 - Woolen: Creating his HUD, Permission to publish
+- [JarateKing](https://github.com/JarateKing): TF2 HUD files reference
+- [Revan](https://github.com/cooolbros): TF2 HUD files reference, VS Code VDF plugin
+- [Hypnotize](https://github.com/Hypnootize): Default HUD files, Updating Yahud Old
 - folks from [HUDS.tf Discord server](https://discord.com/invite/Hz3Q4Z8): General help
 - [Whisker](https://github.com/rbjaxter): Elements from budhud
 - [CriticalFlaw](https://github.com/CriticalFlaw): Elements from FlawHUD
 - [Antwan](https://github.com/AsianAntwan): Class loadout panel from AntsHUD
-- [Hypnotize](https://github.com/Hypnootize): Default HUD files, Updating Yahud Old
-- [JarateKing](https://github.com/JarateKing): TF2 HUD files reference
-- [Revan](https://github.com/cooolbros): TF2 HUD files reference, VS Code VDF plugin
 - [n0kk](https://github.com/n0kk): Creating ahud
 - [Jakadak](https://github.com/jakadak): Elements from ahud-cc
 - [Griever](https://steamcommunity.com/id/griiver/): Chat from ToonHUD
