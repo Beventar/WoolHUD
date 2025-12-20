@@ -46,7 +46,7 @@ For the best possible experience, I recommend enabling:
 - rectangular killstreak notice
 
 # Credits
-- Woolen: Creating his HUD, Permission for publishing
+- Woolen: Creating his HUD, Permission to publish
 - folks from [HUDS.tf Discord server](https://discord.com/invite/Hz3Q4Z8): General help
 - [Whisker](https://github.com/rbjaxter): Elements from budhud
 - [CriticalFlaw](https://github.com/CriticalFlaw): Elements from FlawHUD
