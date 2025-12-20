@@ -13,7 +13,7 @@ A replica of Woolen's HUD. By default the newest version is used. Elements from 
     <img src="https://www.gstatic.com/images/branding/product/1x/youtube_64dp.png" alt="YouTube" width="42" height="42">
 </a>
 <a href="https://twitch.tv/awoolensleevelet">
-    <img src="assets/TwitchGlitchPurple.svg" alt="Twitch" width="38" height="38">
+    <img src="https://assets.help.twitch.tv/glitchwhite.png" alt="Twitch" width="34" height="38">
 </a>
 <a href="https://twitter.com/WoolenSleevelet">
     <img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="Twitter" width="38" height="38">
