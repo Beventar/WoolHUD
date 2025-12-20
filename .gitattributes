@@ -9,3 +9,6 @@
 
 # Do not export these files on download
 .gitattributes export-ignore
+WoolHUD-banner.psd export-ignore
+WoolHUD-banner.webp export-ignore
+README.md export-ignore
