@@ -46,7 +46,7 @@ For the best possible experience, I recommend enabling:
 - rectangular killstreak notice
 
 # Special thanks
-- Woolen: Creating his HUD, Permission to publish
+- [Woolen](https://github.com/Beventar/WoolHUD/blob/main/README.md#woolen): Creating his HUD, Permission to publish
 
 # Credits
 - [JarateKing](https://github.com/JarateKing): TF2 HUD files reference
