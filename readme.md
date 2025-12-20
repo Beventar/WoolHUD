@@ -6,16 +6,16 @@ A replica of Woolen's HUD. By default the newest version is used. Elements from 
 
 #### Woolen:
 <a href="https://youtube.com/@awoolensleevelet">
-    <img src="https://www.gstatic.com/images/branding/product/1x/youtube_64dp.png" width="42" height="42">
+    <img src="https://www.gstatic.com/images/branding/product/1x/youtube_64dp.png" alt="YouTube" width="42" height="42">
 </a>
 <a href="https://twitch.tv/awoolensleevelet">
-    <img src="assets/TwitchGlitchPurple.svg" width="38" height="38">
+    <img src="assets/TwitchGlitchPurple.svg" alt="Twitch" width="38" height="38">
 </a>
 <a href="https://twitter.com/WoolenSleevelet">
-    <img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" width="38" height="38">
+    <img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="Twitter" width="38" height="38">
 </a>
 <a href="https://discord.gg/woolen">
-    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="38" height="38">
+    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" width="38" height="38">
 </a>
 
 </div>
