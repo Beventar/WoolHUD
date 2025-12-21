@@ -10,7 +10,7 @@ A replica of Woolen's HUD. By default the newest version is used. Elements from 
 
 </div>
 
----
+# Recommended customizations
 
 For the best possible experience, I recommend enabling:
 
