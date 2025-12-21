@@ -31,7 +31,7 @@ For the best possible experience, I recommend enabling:
 - payload race panel
 - rectangular killstreak notice
 
-# Special thanks
+# Thanks
 - Woolen: Creating his HUD, Permission to publish
 
 <a href="https://youtube.com/@awoolensleevelet">
