@@ -2,25 +2,11 @@
 
 ![Banner](WoolHUD-banner.webp)
 
+A replica of Woolen's HUD. By default the newest version is used. Elements from older versions can be found in the `#alternatives` folder. `#customizations` are not faithful to Woolen's original HUD. My goal is to try to make the best replica with as few bugs as possible. Some things are not faithful to the original HUD because they are either bugged or ugly.
+
 <p>
     <a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a>
 </p>
-
-A replica of Woolen's HUD. By default the newest version is used. Elements from older versions can be found in the `#alternatives` folder. `#customizations` are not faithful to Woolen's original HUD. My goal is to try to make the best replica with as few bugs as possible. Some things are not faithful to the original HUD because they are either bugged or ugly.
-
-#### Woolen:
-<a href="https://youtube.com/@awoolensleevelet">
-    <img src="https://www.gstatic.com/images/branding/product/1x/youtube_64dp.png" alt="YouTube" width="42" height="42">
-</a>
-<a href="https://twitch.tv/awoolensleevelet">
-    <img src="https://assets.help.twitch.tv/glitchwhite.png" alt="Twitch" width="34" height="38">
-</a>
-<a href="https://twitter.com/WoolenSleevelet">
-    <img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="Twitter" width="38" height="38">
-</a>
-<a href="https://discord.gg/woolen">
-    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" width="38" height="38">
-</a>
 
 </div>
 
@@ -46,7 +32,20 @@ For the best possible experience, I recommend enabling:
 - rectangular killstreak notice
 
 # Special thanks
-- [Woolen](https://github.com/Beventar/WoolHUD/blob/main/README.md#woolen): Creating his HUD, Permission to publish
+- Woolen: Creating his HUD, Permission to publish
+
+<a href="https://youtube.com/@awoolensleevelet">
+    <img src="https://www.gstatic.com/images/branding/product/1x/youtube_64dp.png" alt="YouTube" width="42" height="42">
+</a>
+<a href="https://twitch.tv/awoolensleevelet">
+    <img src="https://assets.help.twitch.tv/glitchwhite.png" alt="Twitch" width="34" height="38">
+</a>
+<a href="https://twitter.com/WoolenSleevelet">
+    <img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="Twitter" width="38" height="38">
+</a>
+<a href="https://discord.gg/woolen">
+    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" width="38" height="38">
+</a>
 
 # Credits
 - [JarateKing](https://github.com/JarateKing): TF2 HUD files reference
