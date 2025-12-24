@@ -2,11 +2,9 @@
 
 ![Banner](WoolHUD-banner.webp)
 
-_A replica of Woolen's Team Fortress 2 HUD - a minimal HUD with a focus on gameplay._
+A replica of Woolen's Team Fortress 2 HUD - a minimal HUD with a focus on gameplay.
 
-<p>
-    <a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a>
-</p>
+<a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a>
 
 </div>
 
