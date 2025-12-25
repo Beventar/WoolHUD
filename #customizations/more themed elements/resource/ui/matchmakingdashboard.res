@@ -465,14 +465,14 @@
 				"armedFgColor_override" "235 226 202 255"
 				"depressedFgColor_override" "46 43 42 255"
 			
-				"image_drawcolor"	"117 107 94 255"
-				"image_armedcolor"	"200 80 60 255"
+				"image_drawcolor"	"ahudWhite"
+				"image_armedcolor"	"255 0 0 255"
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
 					"fieldName"		"SubImage"
-					"xpos"			"2"
-					"ypos"			"2"
+					"xpos"			"cs-0.5"
+					"ypos"			"cs-0.5"
 					"zpos"			"1"
 					"wide"			"10"
 					"tall"			"10"
@@ -480,6 +480,7 @@
 					"enabled"		"1"
 					"image"			"replay/thumbnails/buttons/x"
 					"scaleImage"	"1"
+					"proportionaltoparent"	"1"
 				}				
 			}		
 		}
@@ -580,6 +581,7 @@
 
 				"armedBgColor_override"		"CreditsGreen"
 				"defaultBgColor_override"	"SaleGreen"
+				"depressedBgColor_override"	"CreditsGreen"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
@@ -618,6 +620,7 @@
 
 			"armedBgColor_override"		"192 28 0 150"
 			"defaultBgColor_override"	"192 28 0 50"
+			"depressedBgColor_override"	"192 28 0 150"
 
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "TanLight"
@@ -679,6 +682,7 @@
 
 			"armedBgColor_override"		"192 28 0 150"
 			"defaultBgColor_override"	"192 28 0 50"
+			"depressedBgColor_override"	"192 28 0 150"
 
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "TanLight"
@@ -742,8 +746,8 @@
 
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "TanLight"
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"image_drawcolor"	"TanLight"
+			"image_armedcolor"	"TanLight"
 
 			"SubImage"
 			{
@@ -798,11 +802,12 @@
 
 			"armedBgColor_override"		"CreditsGreen"
 			"defaultBgColor_override"	"GreenSolid"
+			"depressedBgColor_override"	"CreditsGreen"
 
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "TanLight"
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"image_drawcolor"	"TanLight"
+			"image_armedcolor"	"TanLight"
 
 			"SubImage"
 			{
