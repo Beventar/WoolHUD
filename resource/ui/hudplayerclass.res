@@ -25,10 +25,10 @@
 		"xpos"			"57"	[$X360]
 		"ypos"			"r110"	[$X360]
 		"zpos"			"2"
-		"wide"			"175"  //75
-		"wide_minmode"	"37"
-		"tall"			"175"  //75
-		"tall_minmode"	"37"
+		"wide"			"0"    //175
+		"wide_minmode"	"0"    //37
+		"tall"			"0"    //175
+		"tall_minmode"	"0"    //37
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/class_scoutred"
