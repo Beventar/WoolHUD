@@ -73,18 +73,18 @@
 	}
 	
 	"TargetBG"
- {
-    "ControlName"         "ImagePanel"
-    "fieldName"           "TargetBG"
-    "xpos"                "0"				//3
-    "ypos"                "10"				//7
-    "zpos"                "-1"
-		"wide"	          		"640"	//
-    "tall"                "18"			//24
-    "visible"             "1"
-    "enabled"             "1"
-    "fillcolor"           "HudBG"
-  }
+ 	{
+    	"ControlName"         "ImagePanel"
+    	"fieldName"           "TargetBG"
+    	"xpos"                "0"				//3
+    	"ypos"                "10"				//7
+    	"zpos"                "-1"
+		"wide"	          	  "640"
+    	"tall"                "18"			//24
+    	"visible"             "1"
+    	"enabled"             "1"
+    	"fillcolor"           "HudBG"
+  	}
 	
 	"TargetNameLabel"
 	{	
@@ -227,28 +227,43 @@
 			"xpos"			"5"
 			"ypos"			"7"
 			"zpos"			"11"
-			"wide"			"10"
-			"tall"			"10"
-			"visible"		"1"
-			"enabled"		"1"
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"
+			"enabled"		"0"
 			"icon"			"obj_status_sentrygun_1"
-			"drawcolor"		"ProgressOffWhite"
+			"drawcolor"		"TanLight"
 			"scaleImage"	"1"
+		}
+		"SymbolIconAnchor"
+		{
+			"ControlName"				"EditablePanel"
+			"fieldName"					"SymbolIconAnchor"
+			"xpos"						"-8"
+			"ypos"						"33"
+			"wide"						"8"
+			"tall"						"8"
+			"visible"					"1"
+			"enabled"					"1"
 		}
 		"MoveableSymbolIcon"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"MoveableSymbolIcon"
 			"xpos"			"16"
-			"ypos"			"-2"
+			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"12"
-			"tall"			"6"
+			"wide"			"16"
+			"tall"			"8"
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/eng_sel_item_movable"
-			"drawcolor"		"ProgressOffWhite"
+			"drawcolor"		"TanLight"
 			"scaleImage"	"1"
+
+			"pin_to_sibling" 			"SymbolIconAnchor"
+			"pin_corner_to_sibling" 	"0"
+			"pin_to_sibling_corner" 	"1"
 		}
 
 		"MoveableKeyLabel"
