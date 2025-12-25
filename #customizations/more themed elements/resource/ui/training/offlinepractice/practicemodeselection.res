@@ -161,6 +161,14 @@
 		"Command"			"selectcurrentgamemode"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}
 
+		"border_default"	"MainMenuBGBorder"
+		"border_armed"		"TrainingBGArmedBorder"
+		"border_depressed"	"TrainingBGArmedBorder"
+		"paintbackground"	"0"
+		
+		"defaultFgColor_override" "ahudWhite"
+		"armedFgColor_override" "ahudWhite"
+		"depressedFgColor_override" "46 43 42 255"
+	}
 }

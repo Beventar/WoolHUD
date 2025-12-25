@@ -283,6 +283,18 @@ Scheme
 	}
     Borders
     {
+		"TrainingBGArmedBorder"
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"	"190 190 190 255"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"
+		}
         HoAssBorder
 		{
 			"offset" "0 0"
