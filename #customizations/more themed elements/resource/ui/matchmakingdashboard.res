@@ -478,7 +478,7 @@
 					"tall"			"10"
 					"visible"		"1"
 					"enabled"		"1"
-					"image"			"../../materials/vgui/replay/thumbnails/buttons/x"
+					"image"			"replay/thumbnails/buttons/x"
 					"scaleImage"	"1"
 				}				
 			}		
