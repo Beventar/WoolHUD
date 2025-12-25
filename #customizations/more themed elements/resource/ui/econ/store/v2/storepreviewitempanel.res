@@ -114,6 +114,18 @@
 			"bgcolor_override"	"ahudGrey"
 		}
 
+		"FooterTopPanel"
+		{
+			"visible"		"0"
+			"enabled"		"0"
+		}
+		
+		"FootBottomPanel"
+		{
+			"visible"		"0"
+			"enabled"		"0"
+		}
+
 		"ItemNameLabel"
 		{
 			"ControlName"	"CExLabel"
