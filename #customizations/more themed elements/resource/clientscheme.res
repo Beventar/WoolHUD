@@ -270,6 +270,16 @@ Scheme
 		"ahudBlack"				"20 20 20 255"
 
 		"ahudPipBoy"			"0 225 0 255"
+
+		"BarScout"				"75 112 130 255"
+		"BarSoldier"			"80 105 120 255"
+		"BarPyro"				"95 100 110 255"
+		"BarDemoman"			"100 95 100 255"
+		"BarHeavy"				"110 90 90 255"
+		"BarEngineer"			"120 80 80 255"
+		"BarMedic"				"130 75 75 255"
+		"BarSniper"				"140 70 70 255"
+		"BarSpy"				"158 65 65 255"
 	}
     Borders
     {
