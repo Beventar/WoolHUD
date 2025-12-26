@@ -590,7 +590,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
-		"allcaps"		"1"
+		"allcaps"		"0"
 		"Command"		"addtocart"
 
 		"sound_depressed"	"UI/buttonclick.wav"
