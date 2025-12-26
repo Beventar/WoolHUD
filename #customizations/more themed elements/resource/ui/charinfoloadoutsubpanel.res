@@ -1827,7 +1827,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 
 			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"ahudYellow"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1906,7 +1906,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "ahudYellow"
 		}
 		"NextButton"
 		{
