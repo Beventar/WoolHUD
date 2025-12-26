@@ -1,2 +1,3 @@
+#base "../#customizations/#enabled/smaller default pd, rd/scripts/hudAnimations_custom.txt"
 #base "../#alternatives/#enabled/game timers/scripts/hudAnimations_custom.txt"
 #base "hudAnimations_customDefault.txt"
