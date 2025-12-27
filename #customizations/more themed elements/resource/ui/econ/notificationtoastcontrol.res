@@ -40,10 +40,17 @@
 		"default"				"1"
 		"Command"				"delete"
 		"paintbackground"		"1"
+		"fgcolor"				"White"
 
 		"defaultBgColor_override" 	"Black"
 		"armedBgColor_override" 	"LightRed"
 		"depressedBgColor_override" "Black"
+
+		"SubImage"
+		{
+			"visible"		"0"
+			"enabled"		"0"
+		}
 	}
 
 	"TriggerButton"
@@ -78,6 +85,9 @@
 		"defaultBgColor_override" 	"Black"
 		"armedBgColor_override" 	"CreditsGreen"
 		"depressedBgColor_override" "Black"
+
+		"image_drawcolor"	"255 255 255 255"
+		"image_armedcolor"	"255 255 255 255"
 
 		"SubImage"
 		{
@@ -128,6 +138,9 @@
 		"armedBgColor_override"		"CreditsGreen"
 		"depressedBgColor_override" "Black"
 
+		"image_drawcolor"	"255 255 255 255"
+		"image_armedcolor"	"255 255 255 255"
+
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -168,9 +181,16 @@
 		"paintbackground"		"1"
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
+		"fgcolor"				"White"
 
 		"defaultBgColor_override" 	"Black"
 		"armedBgColor_override" 	"LightRed"
 		"depressedBgColor_override" "Black"
+
+		"SubImage"
+		{
+			"visible"		"0"
+			"enabled"		"0"
+		}
 	}
 }
