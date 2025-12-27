@@ -41,6 +41,7 @@
 		"Command"				"delete"
 		"paintbackground"		"1"
 		"fgcolor"				"White"
+		"defaultfgcolor_override"				"White"
 
 		"defaultBgColor_override" 	"Black"
 		"armedBgColor_override" 	"LightRed"
