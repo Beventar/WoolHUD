@@ -2,7 +2,7 @@
 
 ![Banner](WoolHUD-banner.webp)
 
-A replica of Woolen's Team Fortress 2 HUD - a minimal HUD with a focus on gameplay - with various customizations.
+A replica of Woolen's TF2 HUD - a minimal, gameplay-focused HUD, with added customizations.
 
 <a href="https://github.com/Beventar/WoolHUD/archive/refs/heads/main.zip">Download</a> | <a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a> | <a href="https://comfig.app/huds/page/woolhud/">comfig huds</a>
 
