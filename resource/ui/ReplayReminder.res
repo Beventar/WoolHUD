@@ -1,4 +1,4 @@
-"Resource/UI/ReplayReminder.res"
+"resource/ui/replayreminder.res"
 {
 	"ReplayReminder"
 	{

@@ -1,2 +1,2 @@
-#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/HudItemEffectMeter_Raygun.res"
-#base	"HudItemEffectMeter_RaygunDefault.res"
+#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/huditemeffectmeter_raygun.res"
+#base	"huditemeffectmeter_raygundefault.res"

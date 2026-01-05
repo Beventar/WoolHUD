@@ -1,2 +1,2 @@
-#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/HudItemEffectMeter_ParticleCannon.res"
-#base	"HudItemEffectMeter_ParticleCannonDefault.res"
+#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/huditemeffectmeter_particlecannon.res"
+#base	"huditemeffectmeter_particlecannondefault.res"

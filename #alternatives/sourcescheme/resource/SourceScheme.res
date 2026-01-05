@@ -1,5 +1,5 @@
 //Monochrome scheme for yA_HUD, based on doodles' / Counter Strike's scheme
-#base "SourceSchemeBase.res"
+#base "sourceschemebase.res"
 Scheme
 {
 	Colors
@@ -388,7 +388,7 @@ Scheme
 	{
 		"9"
 		{
-			"font" "resource/TF2Build.ttf"
+			"font" "resource/tf2build.ttf"
 			"name" "TF2 Build"
 			"russian"
 			{

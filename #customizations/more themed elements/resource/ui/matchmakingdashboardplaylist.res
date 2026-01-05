@@ -1,6 +1,6 @@
-#base "../../../../../resource/ui/MatchMakingDashboardSidePanel.res"
+#base "../../../../../resource/ui/matchmakingdashboardsidepanel.res"
 
-"Resource/UI/MatchMakingDashboardPlayList.res"
+"resource/ui/matchmakingdashboardplaylist.res"
 {
 	"ExpandableList"
 	{

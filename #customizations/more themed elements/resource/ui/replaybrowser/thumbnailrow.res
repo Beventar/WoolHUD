@@ -1,4 +1,4 @@
-"resource/UI/ThumbnailRow.res"
+"resource/ui/thumbnailrow.res"
 {
 	"ThumbnailRow"
 	{

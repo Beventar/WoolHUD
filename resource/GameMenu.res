@@ -1,3 +1,3 @@
-#base	"../#alternatives/#enabled/main menu normal names/resource/GameMenu.res"
-#base   "../#alternatives/#enabled/main menu different names/resource/GameMenu.res"
-#base	"GameMenuDefault.res"
+#base	"../#alternatives/#enabled/main menu normal names/resource/gamemenu.res"
+#base   "../#alternatives/#enabled/main menu different names/resource/gamemenu.res"
+#base	"gamemenudefault.res"

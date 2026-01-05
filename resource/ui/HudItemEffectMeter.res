@@ -1,2 +1,2 @@
-#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/HudItemEffectMeter.res"
-#base	"HudItemEffectMeterDefault.res"
+#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/huditemeffectmeter.res"
+#base	"huditemeffectmeterdefault.res"

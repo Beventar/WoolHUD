@@ -1,2 +1,2 @@
-#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/HudRocketPack.res"
-#base	"HudRocketPackDefault.res"
+#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/hudrocketpack.res"
+#base	"hudrocketpackdefault.res"

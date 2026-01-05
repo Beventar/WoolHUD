@@ -1,2 +1,2 @@
-#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/HudItemEffectMeter_Sapper.res"
-#base	"HudItemEffectMeter_SapperDefault.res"
+#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/huditemeffectmeter_sapper.res"
+#base	"huditemeffectmeter_sapperdefault.res"

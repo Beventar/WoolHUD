@@ -1,4 +1,4 @@
-#base "SourceSchemeBase.res"
+#base "sourceschemebase.res"
 #base "scheme/net_graph.res"
 
 Scheme
@@ -717,17 +717,17 @@ Scheme
 	{
 		"1"
 		{
-			"font" "resource/TF2Build.ttf"
+			"font" "resource/tf2build.ttf"
 			"name" "TF2 Build"
 		}
 		"2"
 		{
-			"font"	"resource/fonts/AvenirLTStd-Heavy.otf"
+			"font"	"resource/fonts/avenirltstd-heavy.otf"
 			"name"	"AvenirLTStd-Heavy"
 		}
 		"3"
 		{
-			"font"	"resource/fonts/AvenirLTStd-Medium.otf"
+			"font"	"resource/fonts/avenirltstd-medium.otf"
 			"name"	"AvenirLTStd-Medium"
 		}
 	}

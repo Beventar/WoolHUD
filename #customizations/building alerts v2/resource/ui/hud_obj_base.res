@@ -1,4 +1,4 @@
-"Resource/UI/hud_obj_base.res"
+"resource/ui/hud_obj_base.res"
 {
 	"BuiltPanel"
 	{

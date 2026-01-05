@@ -1,4 +1,4 @@
-"Resource/UI/ReplayMessage.res"
+"resource/ui/replaymessage.res"
 {
 	"ReplayMessagePanel"
 	{

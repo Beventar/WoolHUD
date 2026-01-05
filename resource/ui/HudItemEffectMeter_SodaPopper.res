@@ -1,2 +1,2 @@
-#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/HudItemEffectMeter_SodaPopper.res"
-#base	"HudItemEffectMeter_SodaPopperDefault.res"
+#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/huditemeffectmeter_sodapopper.res"
+#base	"huditemeffectmeter_sodapopperdefault.res"

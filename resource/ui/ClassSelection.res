@@ -1,5 +1,5 @@
 
-"Resource/UI/ClassSelection.res"
+"resource/ui/classselection.res"
 {
 	"class"
 	{

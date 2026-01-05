@@ -2,4 +2,4 @@
 #base   "../../#customizations/#enabled/payload race panel v2/resource/ui/objectivestatusescort.res"
 #base   "../../#customizations/#enabled/payload race panel/resource/ui/objectivestatusescort.res"
 #base	"../../#alternatives/#enabled/payload panel/resource/ui/objectivestatusescort.res"
-#base	"objectivestatusescortDefault.res"
+#base	"objectivestatusescortdefault.res"

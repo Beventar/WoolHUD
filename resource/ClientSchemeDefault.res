@@ -7941,7 +7941,7 @@ Scheme
 		"2" "resource/tfd.ttf"
 		"3"
 		{
-			"font" "resource/TF2.ttf"
+			"font" "resource/tf2.ttf"
 			"name" "TF2"
 			"russian"
 			{
@@ -7954,7 +7954,7 @@ Scheme
 		}
 		"4" 
 		{
-			"font" "resource/TF2Secondary.ttf"
+			"font" "resource/tf2secondary.ttf"
 			"name" "TF2 Secondary"
 			"russian"
 			{
@@ -7967,7 +7967,7 @@ Scheme
 		}
 		"5" 
 		{
-			"font" "resource/TF2Professor.ttf"
+			"font" "resource/tf2professor.ttf"
 			"name" "TF2 Professor"
 			"russian"
 			{
@@ -7980,7 +7980,7 @@ Scheme
 		}	
 		"6" 
 		{
-			"font" "resource/TF2Build.ttf"
+			"font" "resource/tf2build.ttf"
 			"name" "TF2 Build"
 			"russian"
 			{
@@ -7997,47 +7997,47 @@ Scheme
 		}
 		"9" 
 		{
-			"font" "resource/fonts/Paula.ttf"
+			"font" "resource/fonts/paula.ttf"
 			"name" "Paula"
 		}
 		"10" 
 		{
-			"font" "resource/fonts/AvenirLTStd-Black.ttf"
+			"font" "resource/fonts/avenirltstd-black.ttf"
 			"name" "AvenirLTStd-Black"
 		}
 		"11" 
 		{
-			"font" "resource/fonts/AvenirLTStd-Medium.otf"
+			"font" "resource/fonts/avenirltstd-medium.otf"
 			"name" "AvenirLTStd-Medium"
 		}	
 		"12" 
 		{
-			"font" "resource/fonts/AvenirLTStd-Heavy.otf"
+			"font" "resource/fonts/avenirltstd-heavy.otf"
 			"name" "AvenirLTStd-Heavy"
 		}		
 		"14"
 		{
-			"font" "resource/fonts/Blocks.ttf"
+			"font" "resource/fonts/blocks.ttf"
 			"name" "Blocks"
 		}
 		"15" 
 		{
-			"font" "resource/fonts/AvenirLTStd-Book.otf"
+			"font" "resource/fonts/avenirltstd-book.otf"
 			"name" "AvenirLTStd-Book"
 		}	
 		"18" 
 		{
-			"font" "resource/fonts/MediumNumbers.otf"
+			"font" "resource/fonts/mediumnumbers.otf"
 			"name" "MediumNumbers"
 		}
 		"19" 
 		{
-			"font" "resource/fonts/LightNumbers.otf"
+			"font" "resource/fonts/lightnumbers.otf"
 			"name" "LightNumbers"
 		}
 		"20" 
 		{
-			"font" "resource/fonts/BoldNumbers.otf"
+			"font" "resource/fonts/boldnumbers.otf"
 			"name" "BoldNumbers"
 		}
 		
