@@ -85,12 +85,12 @@
 
 			"KillIcon"	
 			{
-				"drawcolor"	"White"
+				"drawcolor"	"255 255 255 255"
 			}
 
 			"ShellIcon"	
 			{
-				"drawcolor"	"White"
+				"drawcolor"	"255 255 255 255"
 			}
 
 			"Shells"
@@ -100,7 +100,7 @@
 
 			"RocketIcon"	
 			{
-				"drawcolor"	"White"
+				"drawcolor"	"255 255 255 255"
 			}
 
 			"Rockets"
@@ -110,7 +110,7 @@
 
 			"UpgradeIcon"
 			{
-				"iconColor"	"White"
+				"iconColor"	"255 255 255 255"
 			}
 
 			"Upgrade"

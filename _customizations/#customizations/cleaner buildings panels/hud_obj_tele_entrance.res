@@ -85,7 +85,7 @@
 
 			"TeleportedIcon"
 			{
-				"drawcolor"	"White"
+				"drawcolor"	"255 255 255 255"
 			}
 
 			"ChargingPanel"
@@ -98,7 +98,7 @@
 
 			"UpgradeIcon"
 			{
-				"iconColor"	"White"
+				"iconColor"	"255 255 255 255"
 			}
 
 			"Upgrade"

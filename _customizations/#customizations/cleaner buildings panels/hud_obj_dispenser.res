@@ -85,7 +85,7 @@
 
 			"AmmoIcon"	
 			{
-				"drawcolor"	"White"
+				"drawcolor"	"255 255 255 255"
 			}
 
 			"Ammo"
@@ -95,7 +95,7 @@
 
 			"UpgradeIcon"
 			{
-				"iconColor"	"White"
+				"iconColor"	"255 255 255 255"
 			}
 			
 			"Upgrade"

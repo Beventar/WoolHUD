@@ -85,7 +85,7 @@
 
 			"UpgradeIcon"
 			{
-				"iconColor"	"White"
+				"iconColor"	"255 255 255 255"
 			}
 			"Upgrade"
 			{	

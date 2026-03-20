@@ -85,12 +85,12 @@
 
 			"KillIcon"	
 			{
-				"drawcolor"	"White"
+				"drawcolor"	"255 255 255 255"
 			}
 
 			"ShellIcon"	
 			{
-				"drawcolor"	"White"
+				"drawcolor"	"255 255 255 255"
 			}
 
 			"Shells"
