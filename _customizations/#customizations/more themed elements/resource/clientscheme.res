@@ -532,6 +532,74 @@ Scheme
 			"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"4"
 		}
+
+		CYOAScreenBorder
+		{
+			"bordertype"		"scalable_image"
+
+			"image"		"cyoa/cyoa_map_screen_border"
+			"src_corner_height"		"63"
+			"src_corner_width"		"63"
+			"draw_corner_width"		"0"
+			"draw_corner_height" 	"0"
+		}
+
+		CYOANodeViewBorder
+		{
+			"bordertype"		"scalable_image"
+
+			"image"		"cyoa/node_view_border"
+			"src_corner_height"		"127"
+			"src_corner_width"		"127"
+			"draw_corner_width"		"0"
+			"draw_corner_height" 	"0"
+		}
+
+		CYOANodeViewBorder_Active
+		{
+			"bordertype"		"scalable_image"
+
+			"image"		"cyoa/node_view_border_active"
+			"src_corner_height"		"127"
+			"src_corner_width"		"127"
+			"draw_corner_width"		"0"
+			"draw_corner_height" 	"0"
+		}
+
+		CYOANodeViewBorder_Inactive
+		{
+			"bordertype"		"scalable_image"
+
+			"image"		"cyoa/node_view_border_inactive"
+			"src_corner_height"		"127"
+			"src_corner_width"		"127"
+			"draw_corner_width"		"0"
+			"draw_corner_height" 	"0"
+		}
+
+		CYOANodeViewBorder_TurnIn
+		{
+			"bordertype"		"scalable_image"
+
+			"image"		"cyoa/node_view_border_turnin"
+			"src_corner_height"		"127"
+			"src_corner_width"		"127"
+			"draw_corner_width"		"0"
+			"draw_corner_height" 	"0"
+		}
+
+		CYOAPopupBorder
+		{
+			"inset" "0 0 1 1"
+			Left
+			{	"1"	{	"color" "QuestMap_ActiveOrange"	}	"2"	{	"color" "QuestMap_ActiveOrange"	"offset" "0 1"	}	}
+			Right
+			{	"1"	{	"color" "QuestMap_ActiveOrange"	}	"2"	{	"color" "QuestMap_ActiveOrange"	"offset" "0 1"	}	}
+			Top
+			{	"1"	{	"color" "QuestMap_ActiveOrange"	}	"2"	{	"color" "QuestMap_ActiveOrange"	"offset" "0 1"	}	}
+			Bottom
+			{	"1"	{	"color" "QuestMap_ActiveOrange"	}	"2"	{	"color" "QuestMap_ActiveOrange"	"offset" "0 1"	}	}
+		}
     }
 
 	Fonts
