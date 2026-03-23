@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](WoolHUD-banner.webp)
+![WoolHUD Banner](WoolHUD-banner.webp)
 
 A highly accurate and complete replica of Woolen's TF2 HUD - a minimal, gameplay-focused HUD, with added customizations.
 
@@ -13,8 +13,7 @@ A highly accurate and complete replica of Woolen's TF2 HUD - a minimal, gameplay
 
 </div>
 
-# Overview
-
+## Overview
 This HUD aims to be the best recreation of Woolen's HUD while fixing various issues.
 
 Some things may differ slightly from the original if they were bugged, inconsistent or visually unclear.
@@ -26,12 +25,10 @@ The HUD includes optional customizations:
 
 By default, the newest version of the HUD is used.
 
-# Installation
-
+## Installation
 [How to install](https://github.com/Beventar/WoolHUD/wiki/Installation)
 
-# Recommended customizations
-
+## Recommended customizations
 For the best possible experience, I highly recommend enabling:
 
 ### #alternatives
@@ -51,7 +48,7 @@ For the best possible experience, I highly recommend enabling:
 
 [How to enable](https://github.com/Beventar/WoolHUD/wiki/Customizations)
 
-# Credits
+## Credits
 - **Used Elements:** Whisker, CriticalFlaw & raysfire, Antwan, Jakadak & n0kk, Griever
 - **Crosshairs & Icons:** Hypnotize
 - **Tools:** Revan's VDF Plugin
