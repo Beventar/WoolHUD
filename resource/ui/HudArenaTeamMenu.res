@@ -85,10 +85,10 @@
 		"allcaps"		"1"
 		"command"		"jointeam spectate"
 		"associated_model"	"autodoor"
-		"hover"				"2.0"
+		"hover"			"0"
 		"font"			"Light20"
-		"fgcolor"		"WhiteS"
-		"defaultFgColor_override" "WhiteS"
+		"fgcolor"		"255 255 255 255"
+		"defaultFgColor_override" "255 255 255 255"
 		"armedFgColor_override" "Select"
 	}
 	
@@ -113,10 +113,11 @@
 		"paintborder"	"0"
 		"allcaps"		"1"
 		"command"		"jointeam spectatearena"
-		"associated_model"	"spectate"	
+		"associated_model"	"spectate"
+		"hover"			"0"
 		"font"			"Light20"
-		"fgcolor"		"WhiteS"
-		"defaultFgColor_override" "WhiteS"
+		"fgcolor"		"255 255 255 255"
+		"defaultFgColor_override" "255 255 255 255"
 		"armedFgColor_override" "Select"
 	}
 	
