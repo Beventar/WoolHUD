@@ -715,17 +715,17 @@ Scheme
 	
 	CustomFontFiles
 	{
-		"1"
+		"9"
 		{
 			"font" "resource/tf2build.ttf"
 			"name" "TF2 Build"
 		}
-		"2"
+		"12"
 		{
 			"font"	"resource/fonts/avenirltstd-heavy.otf"
 			"name"	"AvenirLTStd-Heavy"
 		}
-		"3"
+		"13"
 		{
 			"font"	"resource/fonts/avenirltstd-medium.otf"
 			"name"	"AvenirLTStd-Medium"
