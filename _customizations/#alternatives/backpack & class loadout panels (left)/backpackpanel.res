@@ -235,6 +235,8 @@
 		"selectionColor_override" "0 0 0 0"
 		"selectionTextColor_override" "235 226 202 255"
 		"defaultSelectionBG2Color_override" "0 0 0 0"
+
+		"pin_to_sibling"		""
 	}	
 		
 	"ShowBaseItemsCheckbox"
@@ -244,11 +246,13 @@
 		"labelText"		"#ShowBaseItemsCheckBox"
 		"Font"			"HudFontSmallestBold"
 		"textAlignment"	"east"
+		"textinsety"	"0"
 		"xpos"			"c-70"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"200"
 		"tall"			"20"
+		"wrap"			"0"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
