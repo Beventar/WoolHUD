@@ -16,14 +16,15 @@ A highly accurate and complete replica of Woolen's TF2 HUD - a minimal, gameplay
 ## Overview
 This HUD aims to be the best recreation of Woolen's HUD while fixing various issues.
 
-Some things may differ slightly from the original if they were bugged, inconsistent or visually unclear.
+Some [things may differ](https://github.com/Beventar/WoolHUD/wiki/Replica-vs-Original) slightly from the original if they were bugged, inconsistent or visually unclear.
 
 The HUD includes optional customizations:
 
 - **`#alternatives`** - elements from older versions of Woolen's HUD
 - **`#customizations`** - improvements not present in the original HUD
 
-By default, the newest version of the HUD is used.
+By default, the most used/iconic version of the HUD is used (with some QOL #alternatives).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;* Take a look at other [possible versions](https://github.com/Beventar/WoolHUD/wiki/HUD-Versions).
 
 ## Installation
 [How to install](https://github.com/Beventar/WoolHUD/wiki/Installation)
@@ -51,7 +52,7 @@ For the best possible experience, I highly recommend enabling:
 ## Credits
 - **Used Elements:** Whisker, CriticalFlaw & raysfire, Antwan, Jakadak & n0kk, Griever
 - **Crosshairs & Icons:** Hypnotize
-- **Tools:** Revan's VDF Plugin
+- **Tools:** Revan's VS Code VDF Plugin, Cueki's HUD Normalizer
 - **References:** JarateKing, Revan, Hypnotize
 - **HUD Help:** [HUDS.TF Discord](https://discord.com/invite/Hz3Q4Z8)
 - **[Woolen](https://youtube.com/@awoolensleevelet):** Creating his HUD, Giving permission to publish
