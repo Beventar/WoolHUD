@@ -30,22 +30,22 @@ By default, the most used/iconic version of the HUD is used (with some QOL #alte
 [How to install](https://github.com/Beventar/WoolHUD/wiki/Installation)
 
 ## Recommended customizations
-For the best possible experience, I highly recommend enabling:
+For the best possible experience, I recommend enabling:
 
 ### #alternatives
-- main menu
-- menu-normal-names-gamemenu.res
-- game timers
-- control point
-- objectivestatusescort.res
+- [Main Menu](https://github.com/Beventar/WoolHUD/wiki/Main-Menu)
+- [menu-normal-names-gamemenu.res](https://github.com/Beventar/WoolHUD/wiki/Main-Menu-Labels)
+- [Game Timers](https://github.com/Beventar/WoolHUD/wiki/Game-Timers)
+- [Control Point](https://github.com/Beventar/WoolHUD/wiki/Control-Point)
+- [objectivestatusescort.res](https://github.com/Beventar/WoolHUD/wiki/Payload-Panel)
 
 ### #customizations
-- more themed elements
-- options-classloadoutpanel.res
-- cleaner buildings panels
-- metal-xhair-hudlayout.res
-- centered mvm money
-- payload race panel
+- [More Themed Elements](https://github.com/Beventar/WoolHUD/wiki/More-Themed-Elements)
+- [options-classloadoutpanel.res](https://github.com/Beventar/WoolHUD/wiki/Class-Loadout-Options)
+- [Cleaner Buildings Panels](https://github.com/Beventar/WoolHUD/wiki/Cleaner-Buildings-Panels)
+- [metal-xhair-hudlayout.res](https://github.com/Beventar/WoolHUD/wiki/Metal-Xhair)
+- [Centered MVM Money](https://github.com/Beventar/WoolHUD/wiki/Centered-MVM-Money)
+- [Payload Race Panel](https://github.com/Beventar/WoolHUD/wiki/Payload-Race-Panel)
 
 [How to enable](https://github.com/Beventar/WoolHUD/wiki/Customizations)
 
