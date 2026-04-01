@@ -8,7 +8,7 @@
 		"wide"		"f0"
 		"tall"		"17"
 		"proportionaltoparent"	"1"
-		"resize_time"	"0.2"
+		"resize_time"	"0.1"
 	}
 
 	"Container"
@@ -37,10 +37,13 @@
 			"command"		"toggle_collapse"
 			"labeltext"		""
 
-			"border_default"	"NoBorder"
-			"defaultBgColor_override"	"Transparent"
+			"stay_armed_on_click"	"1"
 
-			"border_armed"		"NoBorder"
+			"paintBackground"	"0"
+			"border_default"	"NoBorder"
+			"border_armed"		"GreenBorderThick"
+
+			"defaultBgColor_override"	"Transparent"
 			"armedBgColor_override"	"235 226 202 20"
 
 			"sound_armed"		"ui/item_info_mouseover.wav"
