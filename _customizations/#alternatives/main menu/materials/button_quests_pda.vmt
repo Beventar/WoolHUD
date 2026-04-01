@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "../_customizations/#alternatives/#enabled/main menu/materials/button_quests_pda"
-	"$translucent" 1
-	"$ignorez" 1
-	"$vertexcolor" 1
-}

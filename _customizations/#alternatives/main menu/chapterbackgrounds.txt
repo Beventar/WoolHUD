@@ -1,19 +1,19 @@
 "chapters"
 {
-	1	"../../_customizations/#alternatives/#enabled/main menu/materials/background_2fort"
-	2	"../../_customizations/#alternatives/#enabled/main menu/materials/background_gravelpit"
-	3	"../../_customizations/#alternatives/#enabled/main menu/materials/background_upward"
-	4	"../../_customizations/#alternatives/#enabled/main menu/materials/background_mvm"
-	5	"../../_customizations/#alternatives/#enabled/main menu/materials/background_borneo"
-	6	"../../_customizations/#alternatives/#enabled/main menu/materials/background_process"
+	1	"background_2fort"
+	2	"background_gravelpit"
+	3	"background_upward"
+	4	"background_mvm"
+	5	"background_borneo"
+	6	"background_process"
 }
 
 "BackgroundMaps"
 {
-	1	"../../_customizations/#alternatives/#enabled/main menu/materials/background_2fort"
-	2	"../../_customizations/#alternatives/#enabled/main menu/materials/background_gravelpit"
-	3	"../../_customizations/#alternatives/#enabled/main menu/materials/background_upward"
-	4	"../../_customizations/#alternatives/#enabled/main menu/materials/background_mvm"
-	5	"../../_customizations/#alternatives/#enabled/main menu/materials/background_borneo"
-	6	"../../_customizations/#alternatives/#enabled/main menu/materials/background_process"
+	1	"background_2fort"
+	2	"background_gravelpit"
+	3	"background_upward"
+	4	"background_mvm"
+	5	"background_borneo"
+	6	"background_process"
 }
