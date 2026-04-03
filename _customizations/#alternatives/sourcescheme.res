@@ -394,6 +394,300 @@ Scheme
 		}
 	}
 
+	Borders
+	{
+		BaseBorder		DepressedBorder
+		ButtonBorder	RaisedBorder
+		ComboBoxBorder	DepressedBorder
+		MenuBorder		RaisedBorder
+		BrowserBorder	DepressedBorder
+		PropertySheetBorder	RaisedBorder
+
+		FrameBorder
+		{
+			// rounded corners for frames
+			"backgroundtype" "2"
+
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		DepressedBorder
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "Border.Dark"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Border.Bright"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Border.Dark"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Border.Bright"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		TitleButtonBorder
+		{
+			"backgroundtype" "0"
+		}
+
+		TitleButtonDisabledBorder
+		{
+			"backgroundtype" "0"
+		}
+
+		TitleButtonDepressedBorder
+		{
+			"backgroundtype" "0"
+		}
+
+		ScrollBarButtonBorder
+		{
+			"inset" "2 2 0 0" [!$OSX]
+			"inset" "-3 2 0 0" [$OSX]
+			Left
+			{
+				"1"
+				{
+					"color" "Border.Bright"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Border.Dark"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Border.Bright"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Border.Dark"
+					"offset" "0 0"
+				}
+			}
+		}
+		
+		ScrollBarButtonDepressedBorder
+		{
+			"inset" "2 2 0 0" [!$OSX]
+			"inset" "-3 2 0 0" [$OSX]
+			Left
+			{
+				"1"
+				{
+					"color" "Border.Dark"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Border.Bright"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Border.Dark"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Border.Bright"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		TabBorder
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "Border.Bright"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Border.Dark"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Border.Bright"
+					"offset" "0 0"
+				}
+			}
+
+		}
+
+		TabActiveBorder
+		{
+			"inset" "0 0 1 0"
+			Left
+			{
+				"1"
+				{
+					"color" "Border.Bright"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Border.Dark"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Border.Bright"
+					"offset" "0 0"
+				}
+			}
+
+		}
+
+
+		ToolTipBorder
+		{
+			"inset" "0 0 1 0"
+			Left
+			{
+				"1"
+				{
+					"color" "Border.Dark"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Border.Dark"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Border.Dark"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Border.Dark"
+					"offset" "0 0"
+				}
+			}
+		}
+	}
+
 	CustomFontFiles
 	{
 		"9"
