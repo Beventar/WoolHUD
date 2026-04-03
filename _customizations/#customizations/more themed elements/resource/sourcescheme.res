@@ -447,7 +447,7 @@ Scheme
 		FrameBorder
 		{
 			// rounded corners for frames
-			//"backgroundtype" "2"
+			"backgroundtype" "0"
 
 			Left
 			{
