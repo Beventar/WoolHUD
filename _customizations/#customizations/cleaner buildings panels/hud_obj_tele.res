@@ -72,6 +72,15 @@
 					"bgcolor_override"	"153 151 151 255"
 				}	
 			}
+
+			"FullyChargedPanel"
+			{
+								
+				"TimesUsedLabel"
+				{	
+					"font"			"HudFontSmallest"
+				}
+			}
 			
 			"Upgrade"
 			{

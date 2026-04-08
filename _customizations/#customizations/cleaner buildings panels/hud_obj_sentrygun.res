@@ -88,6 +88,11 @@
 				"drawcolor"	"255 255 255 255"
 			}
 
+			"KillsLabel"
+			{	
+				"font"			"HudFontSmallest"
+			}
+
 			"ShellIcon"	
 			{
 				"drawcolor"	"255 255 255 255"

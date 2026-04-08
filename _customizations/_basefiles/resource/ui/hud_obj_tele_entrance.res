@@ -412,7 +412,7 @@
 				{	
 					"ControlName"	"CExLabel"
 					"fieldName"		"TimesUsedLabel"
-					"font"			"HudFontSmallest"
+					"font"			"AchievementTracker_Name"
 					"xpos"			"15"
 					"ypos"			"5"
 					"wide"			"200"

@@ -96,6 +96,15 @@
 				}	
 			}
 
+			"FullyChargedPanel"
+			{
+
+				"TimesUsedLabel"
+				{	
+					"font"			"HudFontSmallest"
+				}
+			}
+
 			"UpgradeIcon"
 			{
 				"iconColor"	"255 255 255 255"
