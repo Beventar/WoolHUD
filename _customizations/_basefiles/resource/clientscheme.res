@@ -3951,7 +3951,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"20"
+				"tall"		"10"
 				"antialias"	"1"
 				"dropshadow" "1"
 			}
@@ -3962,7 +3962,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"20"
+				"tall"		"10"
 				"antialias"	"1"
 				"italic"	"1"
 				"dropshadow" "1"
@@ -3974,7 +3974,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"20"
+				"tall"		"10"
 				"antialias"	"1"
 				"dropshadow" "1"
 			}
@@ -3985,7 +3985,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"20"
+				"tall"		"10"
 				"antialias"	"1"
 				"italic"	"1"
 				"dropshadow" "1"
@@ -3997,7 +3997,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"16"
+				"tall"		"8"
 				"antialias"	"1"
 				"dropshadow" "1"
 			}
