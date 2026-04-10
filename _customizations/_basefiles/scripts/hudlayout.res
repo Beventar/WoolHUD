@@ -368,7 +368,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"xpos"			"-18"
-		"ypos"			"c-140"
+		"ypos"			"c-141"		//c-241
 		"wide"			"f0"
 		"tall"			"480"
 	}

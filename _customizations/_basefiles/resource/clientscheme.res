@@ -50,7 +50,7 @@ Scheme
 		//More options, partially for custom options like the line-effect or the colorful main-menu
 		
 		"Transparent"		"0 0 0 0"
-		"EngineerPanelBG"	"0 0 0 107"			// change this to "0 0 0 0" to remove the BG for the not-built panel
+		"EngineerPanelBG"	"0 0 0 214"			//0 0 0 107	// change this to "0 0 0 0" to remove the BG for the not-built panel
 		"Name"				"255 255 255 175"		//TargetID name label color
 		"Time"				"255 255 255 175"		//Respawn and Map time
 		"MvMBG"				"225 37 205 255"		//MvM panels purple color
