@@ -293,6 +293,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			"border"		"NoBorder"
 			"bgcolor_override"		"ahudDarkGrey"
 		}
 		"AveragesLabel"
@@ -1394,6 +1395,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			"border"		"NoBorder"
 			"bgcolor_override"		"ahudDarkGrey"
 		}
 		"RecordsLabel1"
