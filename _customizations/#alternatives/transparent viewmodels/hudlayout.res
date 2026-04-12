@@ -1,9 +1,9 @@
 "resource/hudlayout.res"
 {
-    "Transparent"
+    "TransparentViewmodels"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName" 	"Transparent"
+		"fieldName" 	"TransparentViewmodels"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"-100"
