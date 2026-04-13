@@ -26,7 +26,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
-		"xpos"			"c68"
+		"xpos"			"c69"
 		"ypos"			"r149"
 		"zpos"			"2"
 		"wide"			"159"
@@ -48,7 +48,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabelShadow"
-		"xpos"			"c69"
+		"xpos"			"c70"
 		"ypos"			"r149"
 		"zpos"			"2"
 		"wide"			"159"
