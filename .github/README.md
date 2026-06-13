@@ -6,6 +6,7 @@ A highly accurate and complete replica of Woolen's TF2 HUD - a minimal, gameplay
 
 [![Download](https://img.shields.io/badge/-Download-1B2838?logo=github&logoColor=white)](https://github.com/Beventar/WoolHUD/archive/refs/heads/main.zip)
 [![Screenshots](https://img.shields.io/badge/-Screenshots-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMS41IiB5PSIyLjUiIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMCIgcng9IjIiLz48Y2lyY2xlIGN4PSI1IiBjeT0iNiIgcj0iMSIvPjxwYXRoIGQ9Ik0yLjUgMTBsMy0zIDIgMiAzLTMgMyA0Ii8+PC9zdmc+&logoColor=white)](https://github.com/Beventar/WoolHUD/wiki/Screenshots)
+[![Installation](https://img.shields.io/badge/-Installation-374151)](https://github.com/Beventar/WoolHUD/wiki/Installation)
 [![Wiki](https://img.shields.io/badge/-Wiki-512BD4?logo=readme&logoColor=white)](https://github.com/Beventar/WoolHUD/wiki)
 [![GameBanana](https://img.shields.io/badge/-GameBanana-F1E133?logo=gamebanana&logoColor=black)](https://gamebanana.com/mods/653806)
 [![comfig huds](https://img.shields.io/badge/-comfig%20huds-009688?logo=mastercomfig&logoColor=white)](https://comfig.app/huds/page/woolhud)
@@ -23,11 +24,9 @@ The HUD includes optional customizations:
 - **`#alternatives`** - elements from older versions of Woolen's HUD
 - **`#customizations`** - improvements not present in the original HUD
 
-By default, the most used/iconic version of the HUD is used (with some QOL #alternatives).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;* Take a look at other [possible versions](https://github.com/Beventar/WoolHUD/wiki/HUD-Versions).
+By default, the most used/iconic version of the HUD is used [(with some QOL #alternatives)](https://github.com/Beventar/WoolHUD/wiki/HUD-Versions#2018-default).
 
-## Installation
-[How to install](https://github.com/Beventar/WoolHUD/wiki/Installation)
+Take a look at other [possible versions](https://github.com/Beventar/WoolHUD/wiki/HUD-Versions).
 
 ## Recommended customizations
 For the best possible experience, I recommend enabling:
@@ -50,7 +49,7 @@ For the best possible experience, I recommend enabling:
 [How to enable](https://github.com/Beventar/WoolHUD/wiki/Customizations)
 
 ## Credits
-- **Used Elements:** Whisker, CriticalFlaw & raysfire, Antwan, Jakadak & n0kk, Griever
+- **Used Elements:** Whisker, CriticalFlaw & raysfire, Antwan, Jakadak & n0kk, Griever, Sevin
 - **Crosshairs & Icons:** Hypnotize
 - **Tools:** Revan's VS Code VDF Plugin, Cueki's HUD Normalizer
 - **References:** JarateKing, Revan, Hypnotize
