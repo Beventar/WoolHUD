@@ -1996,7 +1996,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"NextTipButton"
 		"xpos"			"c77"
-		"ypos"			"275"
+		"ypos"			"274"
 		"zpos"			"16"
 		"wide"			"29"
 		"tall"			"43"
