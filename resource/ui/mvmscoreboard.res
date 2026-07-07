@@ -185,6 +185,16 @@
 			"tall"			"100"
 			"wide"			"200"
 			"visible"		"1"
+
+			"UpgradesLabel"
+			{
+                "tall" 		"40"
+			}
+
+			"BuyBackLabel"
+			{
+                "tall" 		"40"
+			}
 		}
 		
 		"TotalGameCreditSpendPanel"
@@ -196,6 +206,16 @@
 			"tall"			"100"
 			"wide"			"200"
 			"visible"		"1"
+
+			"UpgradesLabel"
+			{
+                "tall" 		"40"
+			}
+
+			"BuyBackLabel"
+			{
+                "tall" 		"40"
+			}
 		}
 	}
 }
