@@ -312,7 +312,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"FlagImageBlue"
-				"xpos"			"70"
+				"xpos"			"68"
 				"ypos"			"8"
 				"zpos"			"4"
 				"wide"			"14"
@@ -337,7 +337,7 @@
 				"enabled"		"1"
 				"textAlignment"	"west"	
 				"labelText"		"%blue_escrow%"
-				"font"			"HudFontMediumSmallBold"
+				"font"			"Medium16"
 				"fgcolor"		"White"		
 				"proportionalToParent"	"1"
 			}
@@ -355,7 +355,7 @@
 				"enabled"		"1"
 				"textAlignment"	"west"	
 				"labelText"		"%blue_escrow%"
-				"font"			"HudFontMediumSmallBold"
+				"font"			"Medium16"
 				"fgcolor"		"Black"		
 				"proportionalToParent"	"1"
 			}
@@ -364,7 +364,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"FlagImageRed"
-				"xpos"			"216"
+				"xpos"			"214"
 				"ypos"			"8"
 				"zpos"			"4"
 				"wide"			"14"
@@ -389,7 +389,7 @@
 				"enabled"		"1"
 				"textAlignment"	"east"	
 				"labelText"		"%red_escrow%"
-				"font"			"HudFontMediumSmallBold"
+				"font"			"Medium16"
 				"fgcolor"		"White"
 				"proportionalToParent"	"1"
 			}
@@ -407,7 +407,7 @@
 				"enabled"		"1"
 				"textAlignment"	"east"	
 				"labelText"		"%red_escrow%"
-				"font"			"HudFontMediumSmallBold"
+				"font"			"Medium16"
 				"fgcolor"		"Black"		
 				"proportionalToParent"	"1"
 			}
@@ -825,7 +825,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Score"
-				"xpos"			"36"
+				"xpos"			"35"
 				"ypos"			"6"
 				"zpos"			"8"
 				"wide"			"55"
@@ -1136,7 +1136,7 @@
 			"textAlignment"	"center"	
 			"labelText"		"%countdowntime%"
 			"font"			"HudFontSmallBold"
-			"fgcolor"		"TanLight"		
+			"fgcolor"		"White"		
 			"proportionalToParent"	"1"
 		}
 
