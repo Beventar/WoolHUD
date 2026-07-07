@@ -408,8 +408,8 @@
 				"enabled"		"1"
 				"textAlignment"	"center"	
 				"labelText"		"%score%"
-				"font"			"Medium18"
-				"fgcolor"		"TanLight"		
+				"font"			"Medium16"
+				"fgcolor"		"White"		
 				"proportionalToParent"	"1"
 			}	
 		
@@ -422,11 +422,11 @@
 				"zpos"			"7"
 				"wide"			"55"
 				"tall"			"35"
-				"visible"		"1"
-				"enabled"		"1"
+				"visible"		"0"
+				"enabled"		"0"
 				"textAlignment"	"center"	
 				"labelText"		"%score%"
-				"font"			"Medium18"
+				"font"			"Medium16"
 				"fgcolor"		"HudShadow"		
 				"proportionalToParent"	"1"
 			}
@@ -476,8 +476,8 @@
 				"enabled"		"1"
 				"textAlignment"	"center"	
 				"labelText"		"%score%"
-				"font"			"Medium18"
-				"fgcolor"		"TanLight"	
+				"font"			"Medium16"
+				"fgcolor"		"White"	
 				"proportionalToParent"	"1"	
 			}	
 		
@@ -490,11 +490,11 @@
 				"zpos"			"7"
 				"wide"			"55"
 				"tall"			"35"
-				"visible"		"1"
-				"enabled"		"1"
+				"visible"		"0"
+				"enabled"		"0"
 				"textAlignment"	"center"	
 				"labelText"		"%score%"
-				"font"			"Medium18"
+				"font"			"Medium16"
 				"fgcolor"		"HudShadow"		
 				"proportionalToParent"	"1"
 			}
