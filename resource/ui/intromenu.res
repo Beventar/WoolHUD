@@ -227,15 +227,15 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"VideoCaption"
 		"xpos"			"c-300"
-		"ypos"			"r173"
+		"ypos"			"r153"
 		"zpos"			"6"
 		"wide"			"600"
 		"tall"			"70"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"labelText"		""
 		"textAlignment"	"center"
-		"font"			"Medium9"
+		"font"			"Medium10"
 		"fgcolor"		"White"
 	}
 	
