@@ -45,9 +45,9 @@
 
 		if_mvm
 		{
-			"xpos"			"c-295"
+			"xpos"			"c-265"
 			"ypos"			"r360"
-			"wide"			"583"
+			"wide"			"531"
 			"tall"			"169"
 		}
 	}
@@ -76,10 +76,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"MvMBGTop"
-		"xpos"			"c-295"
+		"xpos"			"c-265"
 		"ypos"			"r383"
 		"zpos"			"-1"
-		"wide"			"583"
+		"wide"			"531"
 		"tall"			"19"
 		"fillcolor"		"White"
 		"autoResize"	"0"
@@ -96,30 +96,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"MvMBG"
-		"xpos"			"132"
-		"ypos"			"r188"
+		"xpos"			"c-265"
+		"ypos"			"r191"
 		"zpos"			"-1"
-		"wide"			"289"
-		"tall"			"75"
-		"fillcolor"		"HudBG"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-
-		if_mvm
-		{
-			"visible"	"1"
-		}
-	}
-	"MvMBG2"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"MvMBG2"
-		"xpos"			"c-1"
-		"ypos"			"r188"
-		"zpos"			"-1"
-		"wide"			"289"
+		"wide"			"531"
 		"tall"			"75"
 		"fillcolor"		"HudBG"
 		"autoResize"	"0"
@@ -929,7 +909,7 @@
 			if_mvm
 			{
 				"font"		"Medium39"
-				"xpos"		"c-150"
+				"xpos"		"c-146"
 				"ypos"		"r113"
 				"tall"		"41"
 			}
@@ -978,7 +958,7 @@
 			if_mvm
 			{
 				"font"		"Medium39"
-				"xpos"		"c4"
+				"xpos"		"c8"
 				"ypos"		"r113"
 				"tall"		"41"
 			}
@@ -1005,7 +985,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-290"
+				"xpos"		"c-260"
 				"ypos"		"r110"
 			}
 		}
@@ -1031,7 +1011,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-271"
+				"xpos"		"c-257"
 				"ypos"		"r110"
 			}
 		}
@@ -1057,7 +1037,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-290"
+				"xpos"		"c-260"
 				"ypos"		"r100"
 			}
 		}
@@ -1083,7 +1063,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-271"
+				"xpos"		"c-257"
 				"ypos"		"r100"
 			}
 		}
@@ -1109,7 +1089,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-290"
+				"xpos"		"c-260"
 				"ypos"		"r90"
 			}
 		}
@@ -1135,7 +1115,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-271"
+				"xpos"		"c-257"
 				"ypos"		"r90"
 			}
 		}
@@ -1161,7 +1141,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-290"
+				"xpos"		"c-260"
 				"ypos"		"r80"
 			}
 		}
@@ -1187,7 +1167,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-271"
+				"xpos"		"c-257"
 				"ypos"		"r80"
 			}
 		}
@@ -1213,7 +1193,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-290"
+				"xpos"		"c-260"
 				"ypos"		"r70"
 			}
 		}
@@ -1239,7 +1219,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-271"
+				"xpos"		"c-257"
 				"ypos"		"r70"
 			}
 		}
@@ -1265,7 +1245,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-290"
+				"xpos"		"c-260"
 				"ypos"		"r60"
 			}
 		}
@@ -1291,7 +1271,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c-271"
+				"xpos"		"c-257"
 				"ypos"		"r60"
 			}
 		}
@@ -1317,7 +1297,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c103"
+				"xpos"		"c97"
 				"ypos"		"r110"
 			}
 		}		
@@ -1343,7 +1323,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c121"
+				"xpos"		"c99"
 				"ypos"		"r110"
 				"wide"		"163"
 			}
@@ -1370,7 +1350,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c103"
+				"xpos"		"c97"
 				"ypos"		"r100"
 			}
 		}
@@ -1396,7 +1376,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c121"
+				"xpos"		"c99"
 				"ypos"		"r100"
 				"wide"		"163"
 			}
@@ -1423,7 +1403,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c103"
+				"xpos"		"c97"
 				"ypos"		"r90"
 			}
 		}
@@ -1449,7 +1429,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c121"
+				"xpos"		"c99"
 				"ypos"		"r90"
 				"wide"		"163"
 			}
@@ -1476,7 +1456,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c103"
+				"xpos"		"c97"
 				"ypos"		"r80"
 			}
 		}
@@ -1502,7 +1482,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c121"
+				"xpos"		"c99"
 				"ypos"		"r80"
 				"wide"		"163"
 			}
@@ -1529,7 +1509,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c103"
+				"xpos"		"c97"
 				"ypos"		"r70"
 			}
 		}
@@ -1555,7 +1535,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c121"
+				"xpos"		"c99"
 				"ypos"		"r70"
 				"wide"		"163"
 			}
@@ -1582,7 +1562,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c103"
+				"xpos"		"c97"
 				"ypos"		"r60"
 			}
 		}
@@ -1608,7 +1588,7 @@
 			if_mvm
 			{
 				"font"		"Medium9"
-				"xpos"		"c121"
+				"xpos"		"c99"
 				"ypos"		"r60"
 				"wide"		"163"
 			}
@@ -1634,9 +1614,9 @@
 
 			if_mvm
 			{
-				"xpos"		"c-295"
+				"xpos"		"c-265"
 				"ypos"		"r110"
-				"wide"		"191"
+				"wide"		"174"
 				"tall"		"67"
 			}
 		}
@@ -1659,9 +1639,9 @@
 			if_mvm
 			{
 				"visible"		"1"
-				"xpos"			"c-99"
+				"xpos"			"c-86"
 				"ypos"			"r110"
-				"wide"			"191"
+				"wide"			"173"
 				"tall"			"67"
 			}
 		}
@@ -1683,9 +1663,9 @@
 
 			if_mvm
 			{
-				"xpos"		"c98"
+				"xpos"		"c92"
 				"ypos"		"r110"
-				"wide"		"191"
+				"wide"		"174"
 				"tall"		"67"
 				"visible"		"1"
 			}
@@ -1713,7 +1693,7 @@
 			if_mvm
 			{
 				"font"		"Heavy26"
-				"xpos"		"c-16"
+				"xpos"		"c-12"
 				"ypos"		"r110"
 				"wide"		"26"
 				"tall"		"25"
@@ -1748,7 +1728,7 @@
 		if_mvm
 		{
 			"font"		"Medium9"
-			"xpos"		"c-91"
+			"xpos"		"c-87"
 			"ypos"		"r70"
 			"wide"		"178"
 		}	
