@@ -1,3 +1,4 @@
+#base	"../_customizations/crosshairs/crosshair_scheme.res"
 #base   "../_customizations/#customizations/#enabled/horizontal mode selection/clientscheme.res"
 #base   "../_customizations/#customizations/#enabled/more themed elements/resource/clientscheme.res"
 #base   "../_customizations/#customizations/#enabled/typicalcolors-clientscheme.res"

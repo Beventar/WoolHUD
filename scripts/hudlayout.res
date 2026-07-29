@@ -1,3 +1,4 @@
+#base	"../_customizations/crosshairs/crosshair.res"
 #base   "../_stream/hudlayout.res"
 #base   "../_customizations/#customizations/#enabled/more themed elements/scripts/hudlayout.res"
 #base   "../_customizations/#customizations/#enabled/buildings panel v2/hudlayout.res"
